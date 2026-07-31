@@ -72,20 +72,32 @@ a:hover { background: var(--pink); color: var(--paper); }
 .dos-btn:hover { background: var(--pink); color: var(--paper); border-color: var(--pink); }
 .dos-btn.playing { background: var(--aqua); color: var(--ink); border-color: var(--aqua); }
 
-.ascii-title {
+.logo-title {
   color: var(--ink);
   background: var(--paper);
   border: 3px solid var(--rule);
   text-align: center;
-  font-family: "Courier New", ui-monospace, monospace;
-  font-weight: bold;
-  font-size: min(2.6vw, 19px);
-  line-height: .75;
-  margin: 18px auto 14px;
-  padding: 16px 6px 14px;
-  overflow-x: hidden;
-  white-space: pre;
+  font-family: "Press Start 2P", "VT323", monospace;
+  font-weight: normal;
+  font-size: clamp(26px, 5.4vw, 58px);
+  line-height: 1.1;
+  margin: 20px auto 16px;
+  padding: 30px 10px 26px;
+  letter-spacing: .02em;
   box-shadow: 10px 10px 0 var(--pink), -10px -10px 0 var(--aqua);
+  text-shadow: .07em 0 0 var(--pink), -.07em 0 0 var(--aqua);
+  animation: logo-glitch 7s infinite;
+}
+
+@keyframes logo-glitch {
+  0%, 91%, 100% { text-shadow: .07em 0 0 var(--pink), -.07em 0 0 var(--aqua); transform: none; }
+  92% { text-shadow: -.09em 0 0 var(--pink), .09em 0 0 var(--aqua); transform: translateX(.06em); }
+  94% { text-shadow: .12em .04em 0 var(--pink), -.12em -.04em 0 var(--aqua); transform: translateX(-.06em) skewX(3deg); }
+  96% { text-shadow: -.05em 0 0 var(--pink), .05em 0 0 var(--aqua); transform: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .logo-title { animation: none; }
 }
 
 .subtitle {
@@ -321,7 +333,7 @@ a:hover { background: var(--pink); color: var(--paper); }
   body { font-size: 19px; }
   .crt { padding: 8px 4px; }
   .screen { padding: 10px 12px 24px; }
-  .ascii-title { font-size: min(3.4vw, 15px); box-shadow: 6px 6px 0 var(--pink), 12px 12px 0 var(--aqua); }
+  .logo-title { padding: 20px 8px 18px; box-shadow: 6px 6px 0 var(--pink), -6px -6px 0 var(--aqua); }
   .sections { grid-template-columns: 1fr; }
   .agenda-list li { flex-direction: column; gap: 0; }
   .agenda-date { min-width: 0; }
