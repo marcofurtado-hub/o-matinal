@@ -232,5 +232,122 @@
         }
       ]
     }
+  ],
+  "block": {
+    "global": [
+      "xuxa",
+      "bbb",
+      "big brother",
+      "novela",
+      "celebridad",
+      "famosos",
+      "horóscopo",
+      "horoscopo",
+      "signo",
+      "mega-sena",
+      "loteria",
+      "kardashian",
+      "reality show"
+    ],
+    "financas": [
+      "futebol",
+      "fifa",
+      "infantino",
+      "copa do mundo",
+      "flamengo",
+      "corinthians",
+      "palmeiras",
+      "neymar",
+      "cantor",
+      "cantora",
+      "show d",
+      "vasco",
+      "cruzeiro",
+      "libertadores",
+      "atacante",
+      "técnico d"
+    ]
+  },
+  "events": [
+    {
+      "start": "2026-08-11",
+      "end": "2026-08-16",
+      "tag": "design",
+      "name": "DW! Semana de Design — Rio de Janeiro",
+      "where": "CasaShopping, Rio de Janeiro",
+      "url": "https://dwsemanadedesign.com.br/"
+    },
+    {
+      "start": "2026-08-26",
+      "end": "2026-08-30",
+      "tag": "jogos",
+      "name": "gamescom 2026",
+      "where": "Colônia, Alemanha (Opening Night Live: 25/08)",
+      "url": "https://www.gamescom.global/en"
+    },
+    {
+      "start": "2026-08-26",
+      "end": "2026-08-28",
+      "tag": "financas",
+      "name": "Startup Summit 2026",
+      "where": "CentroSul, Florianópolis — Sebrae/ACATE",
+      "url": "https://www.startupsummit.com.br/"
+    },
+    {
+      "start": "2026-09-17",
+      "end": "2026-09-21",
+      "tag": "jogos",
+      "name": "Tokyo Game Show 2026 — 30ª edição",
+      "where": "Makuhari Messe, Japão (público: 19–21/09)",
+      "url": "https://tgs.cesa.or.jp/2026/en"
+    },
+    {
+      "start": "2026-09-23",
+      "end": "2026-09-25",
+      "tag": "cgi",
+      "name": "Blender Conference 2026",
+      "where": "Felix Meritis, Amsterdã",
+      "url": "https://conference.blender.org/2026/"
+    },
+    {
+      "start": "2026-10-06",
+      "end": "2026-10-09",
+      "tag": "teologia",
+      "name": "42ª Conferência Fiel Pastores e Líderes — Efésios",
+      "where": "Águas de Lindóia, SP",
+      "url": "https://conferencias.ministeriofiel.com.br/efesios-conferencia-fiel-pastores-e-lideres-2026/"
+    },
+    {
+      "start": "2026-10-09",
+      "end": "2026-10-12",
+      "tag": "jogos",
+      "name": "Brasil Game Show 2026 — 17ª edição",
+      "where": "Distrito Anhembi, São Paulo",
+      "url": "https://www.brasilgameshow.com.br/"
+    },
+    {
+      "start": "2026-10-17",
+      "end": "2026-10-25",
+      "tag": "design",
+      "name": "Dutch Design Week 2026",
+      "where": "Eindhoven, Holanda",
+      "url": "https://ddw.nl/"
+    },
+    {
+      "start": "2026-10-23",
+      "end": "2026-10-25",
+      "tag": "arte",
+      "name": "LightBox Expo 2026 — ilustração, animação e games",
+      "where": "Pasadena Convention Center, EUA",
+      "url": "https://lightboxexpo.com/"
+    },
+    {
+      "start": "2026-12-03",
+      "end": "2026-12-06",
+      "tag": "arte",
+      "name": "CCXP26",
+      "where": "São Paulo Expo (Spoiler Night: 02/12)",
+      "url": "https://ccxp.com.br/"
+    }
   ]
 }

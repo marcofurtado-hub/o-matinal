@@ -3,44 +3,58 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>O Matinal — edição diária</title>
+  <title>O MATINAL.EXE — edição diária</title>
   <meta name="description" content="Jornal pessoal diário: jogos, arte, finanças, teologia reformada, CGI e design.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,500&family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Oswald:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=VT323&family=Press+Start+2P&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💾</text></svg>">
 </head>
 <body>
-  <div class="paper">
+  <div class="crt">
+    <div class="screen">
 
-    <header class="masthead">
-      <div class="topbar">
-        <span id="edition">EDIÇÃO Nº —</span>
-        <span id="today-date">—</span>
-        <button id="listen" class="listen-btn" title="Ouvir as manchetes do dia">🎧 Ouvir manchetes</button>
-      </div>
-      <h1 class="title">O Matinal</h1>
-      <p class="subtitle">Jogos · Arte · Finanças · Fé Reformada · CGI &amp; IA · Design — o café da manhã de Marco Furtado</p>
-      <nav class="section-nav" id="section-nav"></nav>
-    </header>
+      <header class="masthead">
+        <div class="topbar">
+          <span class="prompt">C:\HUB&gt; matinal.exe <span class="cursor">▮</span></span>
+          <span id="edition">EDICAO #—</span>
+          <button id="listen" class="dos-btn" title="Ouvir as manchetes do dia">[ &#9836; OUVIR MANCHETES ]</button>
+        </div>
+        <pre class="ascii-title" aria-label="O Matinal">
+ ██████╗    ███╗   ███╗ █████╗ ████████╗██╗███╗   ██╗ █████╗ ██╗
+██╔═══██╗   ████╗ ████║██╔══██╗╚══██╔══╝██║████╗  ██║██╔══██╗██║
+██║   ██║   ██╔████╔██║███████║   ██║   ██║██╔██╗ ██║███████║██║
+██║   ██║   ██║╚██╔╝██║██╔══██║   ██║   ██║██║╚██╗██║██╔══██║██║
+╚██████╔╝   ██║ ╚═╝ ██║██║  ██║   ██║   ██║██║ ╚████║██║  ██║███████╗
+ ╚═════╝    ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝</pre>
+        <p class="subtitle">&gt;&gt; JOGOS · ARTE · FINANÇAS · FÉ REFORMADA · CGI &amp; IA · DESIGN &lt;&lt;<br>
+        <span id="today-date">—</span> · o café da manhã de Marco Furtado</p>
+        <nav class="section-nav" id="section-nav"></nav>
+      </header>
 
-    <section class="highlights" id="highlights" aria-label="Manchetes do dia">
-      <h2 class="highlights-title">Manchetes do Dia</h2>
-      <ol class="highlights-list" id="highlights-list">
-        <li class="loading">Abrindo as bancas…</li>
-      </ol>
-    </section>
+      <section class="panel highlights" aria-label="Manchetes do dia">
+        <h2 class="panel-title">■ MANCHETES.TXT</h2>
+        <ol class="highlights-list" id="highlights-list">
+          <li class="loading">CARREGANDO EDIÇÃO<span class="cursor">▮</span></li>
+        </ol>
+      </section>
 
-    <main class="sections" id="sections"></main>
+      <section class="panel agenda" id="agenda" aria-label="Agenda de eventos">
+        <h2 class="panel-title">■ AGENDA.DAT — próximos eventos</h2>
+        <ul class="agenda-list" id="agenda-list"></ul>
+      </section>
 
-    <footer class="colophon">
-      <div class="rule-double"></div>
-      <p><strong>O Matinal</strong> — publicado automaticamente todos os dias às 6h (horário de Brasília).</p>
-      <p id="generated-at"></p>
-      <p class="small">Curadoria por robô, leitura por humano. Clique em qualquer manchete para ler a matéria na fonte original.</p>
-    </footer>
+      <main class="sections" id="sections"></main>
 
+      <footer class="colophon">
+        <p>═══════════════════════════════════════════</p>
+        <p><strong>O MATINAL</strong> — nova edição compilada todos os dias às 06:00 (Brasília).</p>
+        <p id="generated-at"></p>
+        <p class="small">Pressione qualquer manchete para ler na fonte original<span class="cursor">▮</span></p>
+      </footer>
+
+    </div>
   </div>
   <script src="assets/app.js"></script>
 </body>

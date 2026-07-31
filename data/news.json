@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T14:28:27.085Z",
+  "generatedAt": "2026-07-31T14:36:38.818Z",
   "highlights": [
     {
       "title": "Códigos de transmissão ao vivo do Genshin Impact versão 7.0",
@@ -12,21 +12,21 @@
       "sectionId": "jogos"
     },
     {
-      "title": "Marvel dá às lojas 10% de desconto em Punisher e Deadpool se elas pedirem mais",
-      "link": "https://bleedingcool.com/comics/marvel-gives-shops-10-off-punisher-deadpool-if-they-order-more/",
+      "title": "Sonic The Hedgehog está um pouco atrasado na DC Comics",
+      "link": "https://bleedingcool.com/comics/sonic-the-hedgehog-is-running-a-little-late-from-dc-comics/",
       "source": "Bleeding Cool — Comics",
-      "date": "2026-07-31T13:57:10.000Z",
-      "snippet": "A Marvel oferece às lojas de quadrinhos 10% de desconto no custo de encomenda de quadrinhos do Punisher e do Deadpool se encomendarem mais para o crossover do Big Guns",
-      "titleOriginal": "Marvel Gives Shops 10% Off Punisher & Deadpool If They Order More",
+      "date": "2026-07-31T14:27:12.000Z",
+      "snippet": "Sonic The Hedgehog está um pouco atrasado na DC Comics... e mais atrasos para Mulher Maravilha, Batman, Superman, DC/Marvel e muito mais",
+      "titleOriginal": "Sonic The Hedgehog Is Running A Little Late From DC Comics",
       "sectionName": "Arte, Ilustração & Quadrinhos",
       "sectionId": "arte"
     },
     {
-      "title": "Principal assessor de Infantino deixa cargo após plano de vender participação na Copa",
-      "link": "https://www.infomoney.com.br/esportes/principal-assessor-de-infantino-deixa-cargo-apos-plano-de-vender-participacao-na-copa/",
+      "title": "B3 prevê reabertura do mercado a partir de 12h30 após problemas em Câmara",
+      "link": "https://www.infomoney.com.br/mercados/b3-atrasa-abertura-de-ativos-apos-problemas-na-camara-contratos-ficam-em-leilao/",
       "source": "InfoMoney",
-      "date": "2026-07-31T14:25:50.000Z",
-      "snippet": "Carlos Cordeiro afirmou que a prioridade da Fifa deveria ser a proteção do futebol The post Principal assessor de Infantino deixa cargo após plano de vender participação na Copa appeared first on InfoMoney .",
+      "date": "2026-07-31T14:32:35.000Z",
+      "snippet": "B3 informou nesta sexta que atrasou a abertura do pregão de listados devido a problemas relacionados ao envio de arquivos e à abertura da Câmara B3 The post B3 prevê reabertura do mercado a partir de 12h30 após problemas em Câmara appear…",
       "sectionName": "Finanças & Empreendedorismo",
       "sectionId": "financas"
     },
@@ -59,6 +59,88 @@
       "titleOriginal": "A 40-Gram Drone Is Now Hunting the World’s Deadliest Animal",
       "sectionName": "Design Avançado",
       "sectionId": "design"
+    }
+  ],
+  "events": [
+    {
+      "start": "2026-08-11",
+      "end": "2026-08-16",
+      "tag": "design",
+      "name": "DW! Semana de Design — Rio de Janeiro",
+      "where": "CasaShopping, Rio de Janeiro",
+      "url": "https://dwsemanadedesign.com.br/"
+    },
+    {
+      "start": "2026-08-26",
+      "end": "2026-08-30",
+      "tag": "jogos",
+      "name": "gamescom 2026",
+      "where": "Colônia, Alemanha (Opening Night Live: 25/08)",
+      "url": "https://www.gamescom.global/en"
+    },
+    {
+      "start": "2026-08-26",
+      "end": "2026-08-28",
+      "tag": "financas",
+      "name": "Startup Summit 2026",
+      "where": "CentroSul, Florianópolis — Sebrae/ACATE",
+      "url": "https://www.startupsummit.com.br/"
+    },
+    {
+      "start": "2026-09-17",
+      "end": "2026-09-21",
+      "tag": "jogos",
+      "name": "Tokyo Game Show 2026 — 30ª edição",
+      "where": "Makuhari Messe, Japão (público: 19–21/09)",
+      "url": "https://tgs.cesa.or.jp/2026/en"
+    },
+    {
+      "start": "2026-09-23",
+      "end": "2026-09-25",
+      "tag": "cgi",
+      "name": "Blender Conference 2026",
+      "where": "Felix Meritis, Amsterdã",
+      "url": "https://conference.blender.org/2026/"
+    },
+    {
+      "start": "2026-10-06",
+      "end": "2026-10-09",
+      "tag": "teologia",
+      "name": "42ª Conferência Fiel Pastores e Líderes — Efésios",
+      "where": "Águas de Lindóia, SP",
+      "url": "https://conferencias.ministeriofiel.com.br/efesios-conferencia-fiel-pastores-e-lideres-2026/"
+    },
+    {
+      "start": "2026-10-09",
+      "end": "2026-10-12",
+      "tag": "jogos",
+      "name": "Brasil Game Show 2026 — 17ª edição",
+      "where": "Distrito Anhembi, São Paulo",
+      "url": "https://www.brasilgameshow.com.br/"
+    },
+    {
+      "start": "2026-10-17",
+      "end": "2026-10-25",
+      "tag": "design",
+      "name": "Dutch Design Week 2026",
+      "where": "Eindhoven, Holanda",
+      "url": "https://ddw.nl/"
+    },
+    {
+      "start": "2026-10-23",
+      "end": "2026-10-25",
+      "tag": "arte",
+      "name": "LightBox Expo 2026 — ilustração, animação e games",
+      "where": "Pasadena Convention Center, EUA",
+      "url": "https://lightboxexpo.com/"
+    },
+    {
+      "start": "2026-12-03",
+      "end": "2026-12-06",
+      "tag": "arte",
+      "name": "CCXP26",
+      "where": "São Paulo Expo (Spoiler Night: 02/12)",
+      "url": "https://ccxp.com.br/"
     }
   ],
   "sections": [
@@ -191,6 +273,14 @@
       ],
       "items": [
         {
+          "title": "Sonic The Hedgehog está um pouco atrasado na DC Comics",
+          "link": "https://bleedingcool.com/comics/sonic-the-hedgehog-is-running-a-little-late-from-dc-comics/",
+          "source": "Bleeding Cool — Comics",
+          "date": "2026-07-31T14:27:12.000Z",
+          "snippet": "Sonic The Hedgehog está um pouco atrasado na DC Comics... e mais atrasos para Mulher Maravilha, Batman, Superman, DC/Marvel e muito mais",
+          "titleOriginal": "Sonic The Hedgehog Is Running A Little Late From DC Comics"
+        },
+        {
           "title": "Marvel dá às lojas 10% de desconto em Punisher e Deadpool se elas pedirem mais",
           "link": "https://bleedingcool.com/comics/marvel-gives-shops-10-off-punisher-deadpool-if-they-order-more/",
           "source": "Bleeding Cool — Comics",
@@ -277,14 +367,6 @@
           "date": "2026-07-30T23:57:09.000Z",
           "snippet": "Mark Spears adiciona uma capa variante de spoiler à caixa de exibição de bolsa cega dos Vingadores # 1 True Believers da Marvel Comics",
           "titleOriginal": "Mark Spears Adds A Spoiler Variant To Avengers Blind Bag Display Box"
-        },
-        {
-          "title": "Novo quadrinho de Kull para 2027, de John Arcudi, Mark Buckingham, Dave Stewart",
-          "link": "https://bleedingcool.com/comics/new-kull-comic-for-2027-by-john-arcudi-mark-buckingham-dave-stewart/",
-          "source": "Bleeding Cool — Comics",
-          "date": "2026-07-30T19:35:10.000Z",
-          "snippet": "Kull de Robert E. Howard ganha uma nova história em quadrinhos para 2027 de John Arcudi, Mark Buckingham e Dave Stewart, anunciada na San Diego Comic-Con",
-          "titleOriginal": "New Kull Comic For 2027 By John Arcudi, Mark Buckingham, Dave Stewart"
         }
       ]
     },
@@ -304,11 +386,32 @@
       ],
       "items": [
         {
-          "title": "Principal assessor de Infantino deixa cargo após plano de vender participação na Copa",
-          "link": "https://www.infomoney.com.br/esportes/principal-assessor-de-infantino-deixa-cargo-apos-plano-de-vender-participacao-na-copa/",
+          "title": "B3 prevê reabertura do mercado a partir de 12h30 após problemas em Câmara",
+          "link": "https://www.infomoney.com.br/mercados/b3-atrasa-abertura-de-ativos-apos-problemas-na-camara-contratos-ficam-em-leilao/",
           "source": "InfoMoney",
-          "date": "2026-07-31T14:25:50.000Z",
-          "snippet": "Carlos Cordeiro afirmou que a prioridade da Fifa deveria ser a proteção do futebol The post Principal assessor de Infantino deixa cargo após plano de vender participação na Copa appeared first on InfoMoney ."
+          "date": "2026-07-31T14:32:35.000Z",
+          "snippet": "B3 informou nesta sexta que atrasou a abertura do pregão de listados devido a problemas relacionados ao envio de arquivos e à abertura da Câmara B3 The post B3 prevê reabertura do mercado a partir de 12h30 após problemas em Câmara appear…"
+        },
+        {
+          "title": "Governo Lula resiste a acionar OMC contra veto da União Europeia à carne brasileira",
+          "link": "https://exame.com/agro/governo-lula-resiste-a-acionar-omc-contra-veto-da-uniao-europeia-a-carne-brasileira/",
+          "source": "Exame",
+          "date": "2026-07-31T14:30:43.000Z",
+          "snippet": "Integrantes do governo avaliam que um recurso teria poucas chances de sucesso e defendem negociação direta com o bloco para reabrir o mercado"
+        },
+        {
+          "title": "Sem Ibovespa, índice de ADRs brasileiros alterna entre leves ganhos e perdas em NY",
+          "link": "https://www.infomoney.com.br/mercados/enquanto-ibovespa-nao-abre-indice-de-adrs-brasileiros-tem-leve-alta-na-bolsa-de-ny/",
+          "source": "InfoMoney",
+          "date": "2026-07-31T14:29:07.000Z",
+          "snippet": "B3 atrasou abertura em decorrência do atraso no envio dos arquivos e na abertura da Câmara B3 The post Sem Ibovespa, índice de ADRs brasileiros alterna entre leves ganhos e perdas em NY appeared first on InfoMoney ."
+        },
+        {
+          "title": "B3 fora do ar? Relembre outros episódios que afetaram negociações e sistemas da Bolsa",
+          "link": "https://www.infomoney.com.br/mercados/b3-fora-do-ar-relembre-outros-episodios-que-afetaram-negociacoes-e-sistemas-da-bolsa/",
+          "source": "InfoMoney",
+          "date": "2026-07-31T14:28:01.000Z",
+          "snippet": "A operadora da Bolsa informou, nesta sexta-feira (31) atraso na abertura do pregão de listados devido a problemas relacionados ao envio de arquivos e à abertura da Câmara B3 The post B3 fora do ar? Relembre outros episódios que afetaram…"
         },
         {
           "title": "Rússia reage após Panamá confirmar cidadãos recrutados para a guerra",
@@ -353,20 +456,6 @@
           "snippet": "“A inflação tem permanecido teimosamente acima de 2% há mais de cinco anos, e não estou confiante de que ela voltará ao nosso objetivo por conta própria”, disse a presidente do Fed de Cleveland, Beth Hammack The post Dois dissidentes do…"
         },
         {
-          "title": "Problemas no Colo-Colo? Vozinha adia chegada ao Chile pela 3ª vez",
-          "link": "https://exame.com/esporte/problemas-no-colo-colo-vozinha-adia-chegada-ao-chile-pela-3a-vez/",
-          "source": "Exame",
-          "date": "2026-07-31T14:19:25.000Z",
-          "snippet": "Desde que foi anunciado oficialmente pelo Colo-Colo, Vozinha ainda não fez qualquer referência ao novo clube em suas redes sociais"
-        },
-        {
-          "title": "Bitcoin cai após ataque hacker histórico minar confiança em carteiras",
-          "link": "https://exame.com/future-of-money/bitcoin-hoje-31-07-2026/",
-          "source": "Exame",
-          "date": "2026-07-31T14:17:50.000Z",
-          "snippet": "Roubo de US$ 38 milhões da carteira física Coldcard é inédito na história dos criptoativos"
-        },
-        {
           "title": "O que aconteceu com a bolsa? B3 atrasa abertura de negócios nesta sexta",
           "link": "https://g1.globo.com/economia/noticia/2026/07/31/o-que-aconteceu-com-a-bolsa-b3-atrasa-abertura-de-negocios-nesta-sexta.ghtml",
           "source": "G1 Economia",
@@ -374,18 +463,11 @@
           "snippet": "B3, bolsa de valores brasileira. Divulgação/ B3 A B3, bolsa de valores brasileira, atrasou a abertura da negociação de ativos nesta sexta-feira (31). Segundo a companhia, o atraso aconteceu devido ao \"atraso no envio dos arquivos e na ab…"
         },
         {
-          "title": "BB Seguridade (BBSE3) perto do topo: ação pode renovar máxima histórica?",
-          "link": "https://www.infomoney.com.br/mercados/bb-seguridade-bbse3-perto-do-topo-acao-pode-renovar-maxima-historica/",
-          "source": "InfoMoney",
-          "date": "2026-07-31T14:03:00.000Z",
-          "snippet": "BB Seguridade (BBSE3) corrige perto da máxima histórica antes do balanço; veja suportes, resistências e projeções para a ação. The post BB Seguridade (BBSE3) perto do topo: ação pode renovar máxima histórica? appeared first on InfoMoney ."
-        },
-        {
-          "title": "Enquanto Ibovespa não abre, índice de ADRs brasileiros tem leve alta na Bolsa de NY",
-          "link": "https://www.infomoney.com.br/mercados/enquanto-ibovespa-nao-abre-indice-de-adrs-brasileiros-tem-leve-alta-na-bolsa-de-ny/",
-          "source": "InfoMoney",
-          "date": "2026-07-31T14:00:23.000Z",
-          "snippet": "B3 atrasou abertura em decorrência do atraso no envio dos arquivos e na abertura da Câmara B3 The post Enquanto Ibovespa não abre, índice de ADRs brasileiros tem leve alta na Bolsa de NY appeared first on InfoMoney ."
+          "title": "Caixa conclui pagamento do lucro do FGTS; veja quanto você recebeu",
+          "link": "https://g1.globo.com/economia/noticia/2026/07/31/caixa-conclui-pagamento-do-lucro-do-fgts.ghtml",
+          "source": "G1 Economia",
+          "date": "2026-07-31T13:37:04.000Z",
+          "snippet": "Caixa inicia nesta quinta depósito de R$ 13 bilhões do lucro do FGTS A Caixa Econômica Federal concluiu o pagamento dos recursos referentes à distribuição do lucro do Fundo de Garantia do Tempo de Serviço (FGTS). Ao todo, foram creditado…"
         }
       ]
     },
@@ -526,6 +608,22 @@
           "titleOriginal": "Add Cinematic Volumetric Fog To Blender Scenes In Just Minutes"
         },
         {
+          "title": "O filme de animação de maior bilheteria da Malásia, ‘Papa Zola The Movie’, estabelece sua maior expansão internacional até agora (CLIP EXCLUSIVO)",
+          "link": "https://www.cartoonbrew.com/distribution/papa-zola-new-territories-exclusive-teaser-265071.html",
+          "source": "Cartoon Brew",
+          "date": "2026-07-31T14:24:55.000Z",
+          "snippet": "O fundador do Monsta, Nizam Razak, discute o herói da classe trabalhadora do blockbuster de animação da Malásia, a identidade local e a jornada do sucesso local ao lançamento global.",
+          "titleOriginal": "Malaysia’s Highest-Grossing Animated Film Ever, ‘Papa Zola The Movie,’ Sets Its Biggest International Expansion Yet (EXCLUSIVE CLIP)"
+        },
+        {
+          "title": "É hora de entrar em pânico com a segurança da IA",
+          "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+          "source": "The Verge — IA",
+          "date": "2026-07-31T14:03:04.000Z",
+          "snippet": "Quando a frase “OpenAI hackeou Hugging Face” mais ou menos entrou na cultura dominante, você sabe que temos um problema de IA. Esta semana, aprendemos mais sobre exatamente como o agente da OpenAI saiu de uma sandbox e atravessou autonomamente o mundo…",
+          "titleOriginal": "It’s time to panic about AI safety"
+        },
+        {
           "title": "‘Neon Genesis Evangelion’ está chegando ao Criterion Channel com sua dublagem em inglês pré-Netflix",
           "link": "https://www.cartoonbrew.com/streaming/neon-genesis-evangelion-criterion-channel-265072.html",
           "source": "Cartoon Brew",
@@ -540,6 +638,14 @@
           "date": "2026-07-31T13:42:00.000Z",
           "snippet": "<p>Mark Darrah acredita que uma remasterização de Origins venderia bem.</p>",
           "titleOriginal": "Don't Expect Dragon Age Remasters: No One at BioWare Understands Old Engine"
+        },
+        {
+          "title": "Anthropic diz que Claude acidentalmente hackeou empresas reais também",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+          "source": "The Verge — IA",
+          "date": "2026-07-31T13:41:17.000Z",
+          "snippet": "A Anthropic acaba de perceber que vários de seus modelos Claude AI foram hackeados nos sistemas de três organizações diferentes durante os testes, agindo por conta própria e sem que a empresa percebesse. A revelação vem dias depois que a rival OpenAI disse um…",
+          "titleOriginal": "Anthropic says Claude accidentally hacked real companies too"
         },
         {
           "title": "Quad Maker adiciona recurso de retopologia para formulários semelhantes a tubos",
@@ -588,30 +694,6 @@
           "date": "2026-07-30T20:46:25.000Z",
           "snippet": "Não sou de forma alguma um especialista em finanças, mas acho que agora tenho alguns conselhos para as pessoas que o são: não dê ao seu fundo de hedge nenhum nome que possa ser hilário se ele explodir. Não use um nome como “Gerenciamento de capital de longo prazo” ou “Ama…",
           "titleOriginal": "The loss of Situational Awareness"
-        },
-        {
-          "title": "O LinkedIn realmente adiciona um botão “parece desperdício de IA”",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-          "source": "The Verge — IA",
-          "date": "2026-07-30T18:43:26.000Z",
-          "snippet": "Muito conteúdo no LinkedIn pode parecer lixo de IA e agora você poderá denunciar essas postagens. Como parte de uma série de atualizações para reduzir o volume de desperdício de IA na plataforma, o LinkedIn está introduzindo um botão real que permite que você…",
-          "titleOriginal": "LinkedIn actually adds a ‘seems like AI slop’ button"
-        },
-        {
-          "title": "O novo modelo de IA do Google DeepMind pode controlar todo o corpo de um robô",
-          "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-          "source": "The Verge — IA",
-          "date": "2026-07-30T17:18:45.000Z",
-          "snippet": "O Google DeepMind afirma que a versão mais recente de seu modelo Gemini Robotics AI pode “controlar robôs humanóides inteiros”. Enquanto o modelo anterior se concentrava no controle da parte superior do corpo de um robô humanóide, o Gemini Robotics 2 agora suporta “movimentação de todo o corpo…",
-          "titleOriginal": "Google DeepMind’s new AI model can control a robot’s entire body"
-        },
-        {
-          "title": "Friend relança seu pingente de IA com um alto-falante que fala com você, pelo dobro do preço",
-          "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-          "source": "The Verge — IA",
-          "date": "2026-07-30T16:33:32.000Z",
-          "snippet": "Você se lembra do amigo? O Amigo que lançou um pingente de IA, gastou US$ 1,8 milhão dos US$ 2,5 milhões em financiamento para adquirir o friend.com e encheu o metrô de Nova York com anúncios promovendo companheirismo artificial? Sim, bem, se você não ...",
-          "titleOriginal": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price"
         }
       ]
     },

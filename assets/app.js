@@ -30,11 +30,22 @@ function esc(s) {
     ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 }
 
+const MONTHS = ["JAN", "FEV", "MAR", "ABR", "MAI", "JUN", "JUL", "AGO", "SET", "OUT", "NOV", "DEZ"];
+
+function fmtEventRange(startIso, endIso) {
+  const s = new Date(`${startIso}T12:00:00`);
+  const e = endIso ? new Date(`${endIso}T12:00:00`) : s;
+  if (s.getTime() === e.getTime()) return `${s.getDate()} ${MONTHS[s.getMonth()]}`;
+  if (s.getMonth() === e.getMonth()) return `${s.getDate()}–${e.getDate()} ${MONTHS[s.getMonth()]}`;
+  return `${s.getDate()} ${MONTHS[s.getMonth()]} – ${e.getDate()} ${MONTHS[e.getMonth()]}`;
+}
+
 async function main() {
   const today = new Date();
   document.getElementById("today-date").textContent = fmtDate(today);
   const edition = Math.max(1, Math.floor((today - EPOCH) / 8.64e7) + 1);
-  document.getElementById("edition").textContent = `Edição nº ${edition}`;
+  document.getElementById("edition").textContent =
+    `EDICAO #${String(edition).padStart(3, "0")}`;
 
   let data;
   try {
@@ -42,7 +53,7 @@ async function main() {
     data = await res.json();
   } catch {
     document.getElementById("highlights-list").innerHTML =
-      '<li class="loading">Não consegui abrir a edição de hoje. Tente recarregar a página.</li>';
+      '<li class="loading">ERRO DE LEITURA NO DRIVE A: — tente recarregar a página.</li>';
     return;
   }
 
@@ -62,6 +73,22 @@ async function main() {
       `<span class="hl-section">${esc(h.sectionName)}</span>` +
       `<a href="${esc(h.link)}" target="_blank" rel="noopener">${esc(h.title)}</a>`);
     hl.appendChild(li);
+  }
+
+  // agenda de eventos
+  const sectionNames = Object.fromEntries(data.sections.map((s) => [s.id, s.name]));
+  const agenda = document.getElementById("agenda-list");
+  if (data.events?.length) {
+    for (const ev of data.events) {
+      const tag = sectionNames[ev.tag] ?? ev.tag ?? "";
+      agenda.appendChild(el("li", null,
+        `<span class="agenda-date">${esc(fmtEventRange(ev.start, ev.end))}</span>` +
+        `<span class="agenda-body"><a href="${esc(ev.url)}" target="_blank" rel="noopener">${esc(ev.name)}</a>` +
+        `<span class="agenda-tag">${esc(tag)}</span>` +
+        `<span class="agenda-where">${esc(ev.where ?? "")}</span></span>`));
+    }
+  } else {
+    document.getElementById("agenda").style.display = "none";
   }
 
   // seções
@@ -102,7 +129,7 @@ async function main() {
 
   const gen = new Date(data.generatedAt);
   document.getElementById("generated-at").textContent =
-    `Esta edição foi impressa em ${fmtDate(gen)} às ${gen.toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit" })}.`;
+    `Edição compilada em ${fmtDate(gen)} às ${gen.toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit" })}.`;
 
   setupListen(data);
 }

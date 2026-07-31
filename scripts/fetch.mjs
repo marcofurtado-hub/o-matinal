@@ -139,12 +139,32 @@ async function fetchFeed({ source, url, lang }) {
   }
 }
 
+// Filtro de relevância: derruba manchetes com termos bloqueados
+// (celebridades, futebol etc.) — configurável em feeds.json > "block".
+function blockedBy(item, terms) {
+  const text = `${item.title} ${item.snippet}`.toLowerCase();
+  // termos curtos (ex.: "bbb", "fifa") só casam como palavra inteira
+  return terms.find((t) =>
+    t.length <= 6
+      ? new RegExp(`(^|[^\\p{L}])${t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}($|[^\\p{L}])`, "u").test(text)
+      : text.includes(t));
+}
+
 const sections = [];
 for (const section of CONFIG.sections) {
   console.log(`\n== ${section.name} ==`);
+  const blockTerms = [
+    ...(CONFIG.block?.global ?? []),
+    ...(CONFIG.block?.[section.id] ?? []),
+  ].map((t) => t.toLowerCase());
   const results = await Promise.all(section.feeds.map(fetchFeed));
   const items = results
     .flat()
+    .filter((i) => {
+      const hit = blockedBy(i, blockTerms);
+      if (hit) console.log(`  bloqueado ("${hit}"): ${i.title.slice(0, 60)}`);
+      return !hit;
+    })
     .sort((a, b) => (b.date ?? "").localeCompare(a.date ?? ""))
     .slice(0, PER_SECTION);
   const toTranslate = items.filter((i) => i.lang !== "pt");
@@ -167,7 +187,13 @@ const highlights = sections
   .map((s) => s.items[0] && { ...s.items[0], sectionName: s.name, sectionId: s.id })
   .filter(Boolean);
 
-const out = { generatedAt: new Date().toISOString(), highlights, sections };
+// Agenda: só eventos que ainda não terminaram, em ordem de início
+const today = new Date().toISOString().slice(0, 10);
+const events = (CONFIG.events ?? [])
+  .filter((e) => (e.end ?? e.start) >= today)
+  .sort((a, b) => a.start.localeCompare(b.start));
+
+const out = { generatedAt: new Date().toISOString(), highlights, events, sections };
 mkdirSync(join(ROOT, "data"), { recursive: true });
 writeFileSync(join(ROOT, "data/news.json"), JSON.stringify(out, null, 2));
 
