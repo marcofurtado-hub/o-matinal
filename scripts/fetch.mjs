@@ -51,6 +51,20 @@ function atomLink(xml) {
   return href ? href[1] : "";
 }
 
+function firstImage(c) {
+  const media =
+    c.match(/<media:content[^>]*url=["']([^"']+)["'][^>]*>/i) ??
+    c.match(/<media:thumbnail[^>]*url=["']([^"']+)["']/i);
+  if (media) return decode(media[1]);
+  const enclosure = c.match(/<enclosure\b[^>]*>/i)?.[0];
+  if (enclosure && /image\/|\.(?:jpe?g|png|webp|gif)/i.test(enclosure)) {
+    const url = enclosure.match(/url=["']([^"']+)["']/i);
+    if (url) return decode(url[1]);
+  }
+  const img = c.match(/<img[^>]*src=["']([^"']+)["']/i);
+  return img ? decode(img[1]) : "";
+}
+
 function parseItems(xml, source) {
   const chunks = [...xml.matchAll(/<(item|entry)\b[\s\S]*?<\/\1>/gi)].map((m) => m[0]);
   return chunks.map((c) => {
@@ -63,12 +77,14 @@ function parseItems(xml, source) {
       tag(c, "description") || tag(c, "summary") || tag(c, "content:encoded") || tag(c, "content");
     let snippet = cleanText(snippetRaw);
     if (snippet.length > 240) snippet = snippet.slice(0, 237).trimEnd() + "…";
+    const image = firstImage(c);
     return {
       title: cleanText(tag(c, "title")),
       link,
       source,
       date: isNaN(date) ? null : date.toISOString(),
       snippet,
+      image: /^https:\/\//.test(image) ? image : "",
     };
   }).filter((i) => i.title && i.link);
 }

@@ -115,6 +115,9 @@ async function main() {
     const [lead, ...rest] = s.items;
     if (lead) {
       const leadEl = el("article", "lead-story",
+        (lead.image
+          ? `<figure class="dither"><img src="${esc(lead.image)}" alt="" loading="lazy" onerror="this.closest('.dither').remove()"></figure>`
+          : "") +
         `<h3><a href="${esc(lead.link)}" target="_blank" rel="noopener"${lead.titleOriginal ? ` title="${esc(lead.titleOriginal)}"` : ""}>${esc(lead.title)}</a></h3>` +
         (lead.snippet ? `<p>${esc(lead.snippet)}</p>` : "") +
         `<span class="byline"><span class="src">${esc(lead.source)}</span> — ${relTime(lead.date)}</span>`);
@@ -125,6 +128,7 @@ async function main() {
     for (const item of rest) {
       list.appendChild(el("li", null,
         `<a href="${esc(item.link)}" target="_blank" rel="noopener"${item.titleOriginal ? ` title="${esc(item.titleOriginal)}"` : ""}>${esc(item.title)}</a>` +
+        (item.snippet ? `<span class="mini-snippet">${esc(item.snippet)}</span>` : "") +
         `<span class="byline"><span class="src">${esc(item.source)}</span> — ${relTime(item.date)}</span>`));
     }
     sec.appendChild(list);

@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-07-31T16:57:14.102Z",
+  "generatedAt": "2026-07-31T17:10:00.668Z",
   "highlights": [
     {
-      "title": "O filme X-Men da Marvel encontrou sua Emma Frost, diz novo relatório",
-      "link": "https://www.polygon.com/marvels-mcu-x-men-movie-emma-frost-samara-weaving/",
+      "title": "Homem-Aranha: Novo Dia quebra recorde de Ultimato com grande estreia nas bilheterias",
+      "link": "https://www.polygon.com/spider-man-brand-new-daybreaks-box-office-record-opening-day/",
       "source": "Polygon",
-      "date": "2026-07-31T16:53:06.000Z",
-      "snippet": "A Marvel Studios está reiniciando a franquia X-Men e, após semanas de rumores, há notícias de um novo papel: Samara Weaving como Emma Frost.",
-      "titleOriginal": "Marvel's X-Men movie has found its Emma Frost, new report says",
+      "date": "2026-07-31T17:06:56.000Z",
+      "snippet": "Homem-Aranha: Novo Dia teve um início incrível nas bilheterias nacionais, batendo o recorde de Vingadores: Ultimato.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/spider-man-brand-new-day.jpg",
+      "titleOriginal": "Spider-Man: Brand New Day breaks Endgame's record with massive box office debut",
       "sectionName": "Jogos & Indie",
       "sectionId": "jogos"
     },
@@ -17,16 +18,18 @@
       "source": "Colossal",
       "date": "2026-07-31T16:14:37.000Z",
       "snippet": "A Sociedade Astronômica do Centro-Oeste de Nova Gales do Sul marca seu AstroFest anual com uma competição de fotografia amadora. Histórias e artistas como esse são importantes para você? Torne-se um membro Colossal hoje e apoie publicações de artes independentes…",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/cwas-3.jpg",
       "titleOriginal": "The Top Photos in the CWAS David Malin Awards Highlight Astronomical Wonders",
       "sectionName": "Arte, Ilustração & Quadrinhos",
       "sectionId": "arte"
     },
     {
-      "title": "B3: atraso ocorreu depois de intercorrência operacional em pós-negociação",
-      "link": "https://www.infomoney.com.br/mercados/b3-atraso-ocorreu-depois-de-intercorrencia-operacional-em-pos-negociacao/",
-      "source": "InfoMoney",
-      "date": "2026-07-31T16:56:11.000Z",
-      "snippet": "De acordo com a B3, a companhia decidiu no início da manhã postergar o início da negociação contínua em seus ambientes de negócios como medida preventiva The post B3: atraso ocorreu depois de intercorrência operacional em pós-negociação…",
+      "title": "Navio japonês com mais de 1.000 prisioneiros é encontrado após 80 anos no Pacífico",
+      "link": "https://exame.com/ciencia/navio-japones-com-mais-de-1-000-prisioneiros-e-encontrado-apos-80-anos-no-pacifico/",
+      "source": "Exame",
+      "date": "2026-07-31T17:04:23.000Z",
+      "snippet": "Hōfuku Maru afundou durante a Segunda Guerra Mundial com 1.289 prisioneiros de guerra a bordo; apenas 242 sobreviveram ao ataque",
+      "image": "",
       "sectionName": "Finanças & Empreendedorismo",
       "sectionId": "financas"
     },
@@ -36,6 +39,7 @@
       "source": "Tim Challies",
       "date": "2026-07-31T16:01:00.000Z",
       "snippet": "Sextas-feiras de coisas grátis: sorteio de livros! Veja também Sextas-feiras de coisas grátis (New Growth Press) Sextas-feiras de coisas grátis (New Growth Press) Sextas-feiras de coisas grátis",
+      "image": "https://www.challies.com/media/2026/07/Single-Together_Challies-Giveaway.jpg",
       "titleOriginal": "Free Stuff Fridays (New Growth Press)",
       "sectionName": "Teologia Reformada",
       "sectionId": "teologia"
@@ -46,6 +50,7 @@
       "source": "80 Level",
       "date": "2026-08-01T11:00:00.000Z",
       "snippet": "<p><span>Se você deseja uma névoa leve ou uma névoa atmosférica espessa, o complemento do Lazy3D facilita a criação da aparência desejada.</span></p>",
+      "image": "https://cdn.80.lv/api/upload/post/41097/images/6a6caa2216544/cover_800x800.jpg",
       "titleOriginal": "Add Cinematic Volumetric Fog To Blender Scenes In Just Minutes",
       "sectionName": "CGI, IA & Animação",
       "sectionId": "cgi"
@@ -56,6 +61,7 @@
       "source": "Designboom",
       "date": "2026-07-31T16:36:07.000Z",
       "snippet": "comentários públicos ajudarão a definir uma lista para duas encomendas monumentais planejadas para 2029 e 2030. A postagem de maçãs cobertas de joias a relógios congelados: 62 ideias para a próxima escultura da linha alta apareceram primeiro no designboom | arquiteta…",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/high-line-plinth-artist-commissions-competition-fall-2027-designboom-700-500x400-22b08q85r409.jpg",
       "titleOriginal": "from jewel-covered apples to frozen clocks: 62 ideas for the high line’s next sculpture",
       "sectionName": "Design Avançado",
       "sectionId": "design"
@@ -262,11 +268,39 @@
       ],
       "items": [
         {
+          "title": "Homem-Aranha: Novo Dia quebra recorde de Ultimato com grande estreia nas bilheterias",
+          "link": "https://www.polygon.com/spider-man-brand-new-daybreaks-box-office-record-opening-day/",
+          "source": "Polygon",
+          "date": "2026-07-31T17:06:56.000Z",
+          "snippet": "Homem-Aranha: Novo Dia teve um início incrível nas bilheterias nacionais, batendo o recorde de Vingadores: Ultimato.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/spider-man-brand-new-day.jpg",
+          "titleOriginal": "Spider-Man: Brand New Day breaks Endgame's record with massive box office debut"
+        },
+        {
+          "title": "Magic: The Gathering provavelmente terá um cenário de World of Warcraft com crossover de D&D",
+          "link": "https://www.polygon.com/magic-world-of-warcraft-universes-beyond/",
+          "source": "Polygon",
+          "date": "2026-07-31T17:04:40.000Z",
+          "snippet": "A Wizards of the Coast está estendendo a estratégia Universes Beyond para D&D, e as sinergias são óbvias",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/dnd-wow_342628_cn.jpg",
+          "titleOriginal": "Magic: The Gathering likely to get a World of Warcraft set with D&D crossover"
+        },
+        {
+          "title": "Switch 2 tem oficialmente 5 novos jogos imperdíveis lançados em agosto de 2026",
+          "link": "https://www.polygon.com/new-switch-2-games-august-2026/",
+          "source": "Polygon",
+          "date": "2026-07-31T17:00:12.000Z",
+          "snippet": "Os lançamentos do Nintendo Switch 2 em agosto incluem a sensação indie Big Walk e alguns grandes portes e remasterizações, incluindo Elden Ring",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/elden-ring.jpg",
+          "titleOriginal": "Switch 2 officially has 5 must-play new games releasing in August 2026"
+        },
+        {
           "title": "O filme X-Men da Marvel encontrou sua Emma Frost, diz novo relatório",
           "link": "https://www.polygon.com/marvels-mcu-x-men-movie-emma-frost-samara-weaving/",
           "source": "Polygon",
           "date": "2026-07-31T16:53:06.000Z",
           "snippet": "A Marvel Studios está reiniciando a franquia X-Men e, após semanas de rumores, há notícias de um novo papel: Samara Weaving como Emma Frost.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/emma-frost-artgerm.jpg",
           "titleOriginal": "Marvel's X-Men movie has found its Emma Frost, new report says"
         },
         {
@@ -275,6 +309,7 @@
           "source": "Polygon",
           "date": "2026-07-31T16:41:45.000Z",
           "snippet": "Ali diz que saiu totalmente do filme MCU Blade antes do novo filme com o diretor original do projeto",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22488444/GettyImages_1200627704.jpg",
           "titleOriginal": "Mahershala Ali confirms he won't be part of Marvel's Blade anymore"
         },
         {
@@ -283,6 +318,7 @@
           "source": "Rock Paper Shotgun",
           "date": "2026-07-31T16:12:02.000Z",
           "snippet": "O mod Fallout: New Vegas do tamanho de DLC Fallout: New California agora está disponível via GOG, oferecendo uma maneira fácil de experimentá-lo se estiver há muito tempo sem mods para tentar em algum momento antes que o universo morra. Leia mais",
+          "image": "https://assetsio.gnwcdn.com/fallout-new-california-gog-01.jpg?width=690&quality=85&format=jpg&auto=webp",
           "titleOriginal": "Massive Fallout: New Vegas mod Fallout: New California hits GOG, offering another way to get some \"proper, story-driven Fallout\" in your belly"
         },
         {
@@ -291,15 +327,8 @@
           "source": "Polygon",
           "date": "2026-07-31T15:56:35.000Z",
           "snippet": "Nintendo Switch Online receberá dois títulos Virtual Boy inéditos em breve, incluindo um jogo de corrida F-Zero esquecido",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/virtual-boy-polygon.jpg",
           "titleOriginal": "Nintendo Switch’s Virtual Boy pays off with 2 newly released games"
-        },
-        {
-          "title": "PlayStation diz que não vai recuar no fim do disco físico",
-          "link": "https://www.polygon.com/sony-playstation-physical-discs-response-cfo-tao-lin/",
-          "source": "Polygon",
-          "date": "2026-07-31T15:47:13.000Z",
-          "snippet": "O CFO Lin Tao confirmou que a Sony seguirá em frente com sua abordagem apenas digital para futuros lançamentos do PlayStation, apesar do feedback negativo dos fãs.",
-          "titleOriginal": "PlayStation says it's not backing down on ending physical disc"
         },
         {
           "title": "CEO do Xbox declara prioridades após ‘reset’",
@@ -307,6 +336,7 @@
           "source": "Game Developer",
           "date": "2026-07-31T15:45:42.000Z",
           "snippet": "O CEO do Xbox, Asha Sharma, apresenta um plano para colocar o Xbox de volta nos trilhos após a última rodada de demissões.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt741634c1e062b2ec/6a3d65ea81f8283d9a6219dd/xboxseriesxspriceincreasefeatured.jpg?width=720&quality=80&disable=upscale",
           "titleOriginal": "Xbox CEO declares priorities after 'reset'"
         },
         {
@@ -315,6 +345,7 @@
           "source": "Eurogamer",
           "date": "2026-07-31T15:42:38.000Z",
           "snippet": "A ArenaNet revelou o compositor principal de seu próximo MMORPG Guild Wars 3. Kazuma Jinnouchi, conhecido por seu trabalho em Star Wars, Metal Gear e jogos pós-Bungie Halo, está colaborando na trilha sonora. Leia mais",
+          "image": "https://assetsio.gnwcdn.com/guild-wars-3-mount.png?width=690&quality=85&format=jpg&auto=webp",
           "titleOriginal": "Star Wars, Metal Gear, and Halo composer Kazuma Jinnouchi confirmed as lead composer for Guild Wars 3"
         },
         {
@@ -323,23 +354,8 @@
           "source": "Rock Paper Shotgun",
           "date": "2026-07-31T15:18:18.000Z",
           "snippet": "Como você deve saber, os mods feitos usando IA generativa - seja para gerar diretamente vozes de personagens ou para tarefas ligadas ao desenvolvimento - parecem estar se tornando mais comuns à medida que a controversa tecnologia continua a se tornar mais difícil de lidar.",
+          "image": "https://assetsio.gnwcdn.com/nexus-mods-logo-01.jpg?width=690&quality=85&format=jpg&auto=webp",
           "titleOriginal": "Nexus Mods update their generative AI-made mod tagging policy, dividing one label into three for more specific search filtering"
-        },
-        {
-          "title": "Quem é Barbatos? Batman: o vilão mais estranho de Caped Crusader explicado",
-          "link": "https://www.polygon.com/barbatos-batman-caped-crusader-explained/",
-          "source": "Polygon",
-          "date": "2026-07-31T15:00:12.000Z",
-          "snippet": "A série Prime Video reinventa membros da galeria de bandidos do Batman, incluindo a força demoníaca que ataca Gotham",
-          "titleOriginal": "Who is Barbatos? Batman: Caped Crusader’s weirdest villain explained"
-        },
-        {
-          "title": "Critical Role acaba de anunciar uma nova campanha Daggerheart com veterano de D&D no comando",
-          "link": "https://www.polygon.com/critical-role-new-campaign-daggerheart-reign-of-the-weredragon-chris-perkins/",
-          "source": "Polygon",
-          "date": "2026-07-31T14:57:51.000Z",
-          "snippet": "Se você precisa de um motivo para entrar em Daggerheart, Reign of the Weredragon, do ex-diretor criativo de D&D, Chris Perkins, pode ser a opção certa.",
-          "titleOriginal": "Critical Role just announced a new Daggerheart campaign with D&D veteran at the helm"
         },
         {
           "title": "EA Sports FC 26 pode ter quase 10 milhões de usuários ativos diariamente, uma contagem de jogadores muito maior do que os dados públicos podem fazer você acreditar",
@@ -347,6 +363,7 @@
           "source": "Eurogamer",
           "date": "2026-07-31T14:45:01.000Z",
           "snippet": "Parece que o EA Sports FC 26 tem um número impressionante de usuários ativos diariamente, de acordo com um criador de conteúdo que afirma ter ouvido falar em primeira mão de um desenvolvedor sobre sua popularidade. Leia mais",
+          "image": "https://assetsio.gnwcdn.com/ea-sports-fc-26.jpeg?width=690&quality=85&format=jpg&auto=webp",
           "titleOriginal": "EA Sports FC 26 may have almost 10 million daily active users, a far larger player count than public data may have you believe"
         },
         {
@@ -355,6 +372,7 @@
           "source": "Eurogamer",
           "date": "2026-07-31T14:07:10.000Z",
           "snippet": "Você está animado para Mortal Shell 2? O jogo, que está se mostrando tão popular antes do lançamento que recentemente esgotou sua Revered Edition física no PS5, acaba de anunciar uma versão beta surpresa – permitindo aos jogadores mergulhar e conferir seu…",
+          "image": "https://assetsio.gnwcdn.com/Mortal-shell-2_QH3Ctj6.jpg?width=690&quality=85&format=jpg&auto=webp",
           "titleOriginal": "Surprise! After getting over 500,000 downloads on Steam, there's a Mortal Shell 2 beta live right now on PlayStation 5 and Xbox Series X/S"
         }
       ]
@@ -380,6 +398,7 @@
           "source": "Colossal",
           "date": "2026-07-31T16:14:37.000Z",
           "snippet": "A Sociedade Astronômica do Centro-Oeste de Nova Gales do Sul marca seu AstroFest anual com uma competição de fotografia amadora. Histórias e artistas como esse são importantes para você? Torne-se um membro Colossal hoje e apoie publicações de artes independentes…",
+          "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/cwas-3.jpg",
           "titleOriginal": "The Top Photos in the CWAS David Malin Awards Highlight Astronomical Wonders"
         },
         {
@@ -388,6 +407,7 @@
           "source": "Bleeding Cool — Comics",
           "date": "2026-07-31T15:27:10.000Z",
           "snippet": "As lojas de quadrinhos podem deixar o Absolute Batman brilhar com um novo letreiro LED da DC Comics... este é um Absolute Batsignal?",
+          "image": "",
           "titleOriginal": "Comic Shops Can Let Absolute Batman Shine Out With New LED Sign"
         },
         {
@@ -396,6 +416,7 @@
           "source": "Colossal",
           "date": "2026-07-31T14:39:52.000Z",
           "snippet": "Situados em fundos ininterruptos, os retratos metálicos flutuam quase como uma divindade em meio a cores vibrantes. Histórias e artistas como esse são importantes para você? Torne-se um membro Colossal hoje e apoie a publicação de artes independentes por apenas…",
+          "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/omolade-3.jpg",
           "titleOriginal": "Reflections Dazzle in Hyperrealistic Chrome Faces in Kip Omolade’s Vivid Portraits"
         },
         {
@@ -404,6 +425,7 @@
           "source": "Bleeding Cool — Comics",
           "date": "2026-07-31T14:27:12.000Z",
           "snippet": "Sonic The Hedgehog está um pouco atrasado na DC Comics... e mais atrasos para Mulher Maravilha, Batman, Superman, DC/Marvel e muito mais",
+          "image": "",
           "titleOriginal": "Sonic The Hedgehog Is Running A Little Late From DC Comics"
         },
         {
@@ -412,6 +434,7 @@
           "source": "Bleeding Cool — Comics",
           "date": "2026-07-31T13:57:10.000Z",
           "snippet": "A Marvel oferece às lojas de quadrinhos 10% de desconto no custo de encomenda de quadrinhos do Punisher e do Deadpool se encomendarem mais para o crossover do Big Guns",
+          "image": "",
           "titleOriginal": "Marvel Gives Shops 10% Off Punisher & Deadpool If They Order More"
         },
         {
@@ -420,6 +443,7 @@
           "source": "Bleeding Cool — Comics",
           "date": "2026-07-31T11:57:14.000Z",
           "snippet": "A DC Comics distribui máscaras do Batman gratuitamente para as lojas, dependendo de quantas cópias de Batman: Bad Seeds elas encomendam",
+          "image": "",
           "titleOriginal": "DC Comics Gives Out Batman Masks To Shops Who Order Lots Of Bad Seeds"
         },
         {
@@ -428,6 +452,7 @@
           "source": "The Comics Journal",
           "date": "2026-07-31T11:00:43.000Z",
           "snippet": "Deve-se gastar tempo agradecendo mais uma vez a July pelo seu serviço. O post Let’s Not, But Say We Did – This Week’s Links apareceu pela primeira vez no The Comics Journal.",
+          "image": "",
           "titleOriginal": "Let’s Not, But Say We Did — This Week’s Links"
         },
         {
@@ -436,6 +461,7 @@
           "source": "Bleeding Cool — Comics",
           "date": "2026-07-31T10:01:09.000Z",
           "snippet": "Spider-Man: Brand New Day Comic Book Creator Credits foi o artigo mais lido no Bleeding Cool ontem.",
+          "image": "",
           "titleOriginal": "Spider-Man: Brand New Day Credits In The Daily LITG, 31st July, 2026"
         },
         {
@@ -444,6 +470,7 @@
           "source": "DailyArt Magazine",
           "date": "2026-07-31T03:00:50.000Z",
           "snippet": "O post Este artista transformou o fundo do oceano em um museu vivo apareceu pela primeira vez na DailyArt Magazine.",
+          "image": "",
           "titleOriginal": "This Artist Turned the Ocean Floor Into a Living Museum"
         },
         {
@@ -452,6 +479,7 @@
           "source": "DailyArt Magazine",
           "date": "2026-07-31T03:00:47.000Z",
           "snippet": "O post 7 paisagens marinhas luministas para fazer você querer férias na praia apareceu pela primeira vez na DailyArt Magazine.",
+          "image": "",
           "titleOriginal": "7 Luminist Seascapes to Make You Want a Beach Vacation"
         },
         {
@@ -460,6 +488,7 @@
           "source": "DailyArt Magazine",
           "date": "2026-07-31T03:00:10.000Z",
           "snippet": "O post Camille Pissarro: o mestre impressionista moldado pelo Caribe apareceu pela primeira vez na DailyArt Magazine.",
+          "image": "",
           "titleOriginal": "Camille Pissarro: The Impressionist Master Shaped by the Caribbean"
         },
         {
@@ -468,6 +497,7 @@
           "source": "DailyArt Magazine",
           "date": "2026-07-31T03:00:00.000Z",
           "snippet": "O post Masterpiece Story: Sea Watchers de Edward Hopper apareceu pela primeira vez na DailyArt Magazine.",
+          "image": "",
           "titleOriginal": "Masterpiece Story: Sea Watchers by Edward Hopper"
         }
       ]
@@ -488,88 +518,100 @@
       ],
       "items": [
         {
+          "title": "Navio japonês com mais de 1.000 prisioneiros é encontrado após 80 anos no Pacífico",
+          "link": "https://exame.com/ciencia/navio-japones-com-mais-de-1-000-prisioneiros-e-encontrado-apos-80-anos-no-pacifico/",
+          "source": "Exame",
+          "date": "2026-07-31T17:04:23.000Z",
+          "snippet": "Hōfuku Maru afundou durante a Segunda Guerra Mundial com 1.289 prisioneiros de guerra a bordo; apenas 242 sobreviveram ao ataque",
+          "image": ""
+        },
+        {
+          "title": "Evertec conclui compra da BBChain de olho no mercado de tokenização do Brasil",
+          "link": "https://exame.com/future-of-money/evertec-conclui-compra-da-bbchain-de-olho-no-mercado-de-tokenizacao-do-brasil/",
+          "source": "Exame",
+          "date": "2026-07-31T17:00:49.000Z",
+          "snippet": "Executivo da empresa porto-riquenha diz que o blockchain deixou de ser uma 'solução a procura de um problema' e que benefícios no crédito já estão claros",
+          "image": ""
+        },
+        {
+          "title": "Dia do Vira-Lata: por que os cães sem raça definida são os mais populares do Brasil",
+          "link": "https://exame.com/pop/dia-do-vira-lata-por-que-os-caes-sem-raca-definida-sao-os-mais-populares-do-brasil/",
+          "source": "Exame",
+          "date": "2026-07-31T17:00:25.000Z",
+          "snippet": "Levantamento mostra que os SRDs (Sem Raça Definida) lideram o ranking nacional de cachorros, à frente de raças como Shih Tzu e Yorkshire Terrier",
+          "image": ""
+        },
+        {
+          "title": "Roubo da Coldcard: o que se sabe sobre o ataque hacker que abalou o mercado cripto?",
+          "link": "https://exame.com/future-of-money/roubo-da-coldcard-o-que-se-sabe-sobre-o-ataque-hacker-que-abalou-o-mercado-cripto/",
+          "source": "Exame",
+          "date": "2026-07-31T16:58:05.000Z",
+          "snippet": "Cibercriminosos conseguiram tirar dinheiro de dispositivos de criptoativos sem acesso à internet, algo inédito",
+          "image": ""
+        },
+        {
+          "title": "Bolsas da Europa fecham em alta com atenção dividida entre inflação, IA e guerra",
+          "link": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-em-alta-com-atencao-dividida-entre-inflacao-ia-e-guerra/",
+          "source": "InfoMoney",
+          "date": "2026-07-31T16:58:01.000Z",
+          "snippet": "Entre os destaques corporativos, o setor europeu de semicondutores foi destaque, refletindo o forte desempenho das empresas ligadas à IA The post Bolsas da Europa fecham em alta com atenção dividida entre inflação, IA e guerra appeared f…",
+          "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-11T173817Z_1_LYNXMPELBA137_RTROPTP_4_EUROPE-STOCKS.jpg?fit=300%2C199&quality=70&strip=all"
+        },
+        {
           "title": "B3: atraso ocorreu depois de intercorrência operacional em pós-negociação",
           "link": "https://www.infomoney.com.br/mercados/b3-atraso-ocorreu-depois-de-intercorrencia-operacional-em-pos-negociacao/",
           "source": "InfoMoney",
           "date": "2026-07-31T16:56:11.000Z",
-          "snippet": "De acordo com a B3, a companhia decidiu no início da manhã postergar o início da negociação contínua em seus ambientes de negócios como medida preventiva The post B3: atraso ocorreu depois de intercorrência operacional em pós-negociação…"
+          "snippet": "De acordo com a B3, a companhia decidiu no início da manhã postergar o início da negociação contínua em seus ambientes de negócios como medida preventiva The post B3: atraso ocorreu depois de intercorrência operacional em pós-negociação…",
+          "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_04.jpg?fit=300%2C200&quality=70&strip=all"
         },
         {
           "title": "Premiê espanhol atribui crise migratória a 'máfias de tráfico humano'",
           "link": "https://exame.com/mundo/premie-espanhol-atribui-crise-migratoria-a-mafias-de-trafico-humano/",
           "source": "Exame",
           "date": "2026-07-31T16:54:40.000Z",
-          "snippet": "Pedro Sánchez associou a chegada de centenas de imigrantes marroquinos, que chegaram nadando ao enclave espanhol de Ceuta, na África do Norte, ao tráfico humano"
-        },
-        {
-          "title": "Oitavas da Sul-Americana 2026: veja confrontos e chaveamento",
-          "link": "https://exame.com/esporte/oitavas-da-sul-americana-2026-veja-confrontos-e-chaveamento/",
-          "source": "Exame",
-          "date": "2026-07-31T16:53:06.000Z",
-          "snippet": "Com os playoffs definidos, o torneio continental conheceu as 16 equipes classificadas para a próxima fase da competição"
+          "snippet": "Pedro Sánchez associou a chegada de centenas de imigrantes marroquinos, que chegaram nadando ao enclave espanhol de Ceuta, na África do Norte, ao tráfico humano",
+          "image": ""
         },
         {
           "title": "Morgan Stanley eleva Copasa para compra e mantém Sabesp e Equatorial como favoritas",
           "link": "https://www.infomoney.com.br/mercados/morgan-stanley-eleva-copasa-para-compra-e-mantem-sabesp-e-equatorial-como-favoritas/",
           "source": "InfoMoney",
           "date": "2026-07-31T16:50:53.000Z",
-          "snippet": "Sanepar teve recomendação mantida em neutra The post Morgan Stanley eleva Copasa para compra e mantém Sabesp e Equatorial como favoritas appeared first on InfoMoney ."
+          "snippet": "Sanepar teve recomendação mantida em neutra The post Morgan Stanley eleva Copasa para compra e mantém Sabesp e Equatorial como favoritas appeared first on InfoMoney .",
+          "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/copasa-csmg3.png?fit=300%2C169&quality=70&strip=all"
         },
         {
           "title": "PF tentou evitar distribuição automática para Mendonça de investigação sobre Lulinha",
           "link": "https://www.infomoney.com.br/politica/pf-tentou-evitar-distribuicao-automatica-para-mendonca-de-investigacao-sobre-lulinha/",
           "source": "InfoMoney",
           "date": "2026-07-31T16:48:30.000Z",
-          "snippet": "Novo sorteio eletrônico, porém, manteve o caso do ministro The post PF tentou evitar distribuição automática para Mendonça de investigação sobre Lulinha appeared first on InfoMoney ."
-        },
-        {
-          "title": "Real Madrid contrata promessa espanhola e aumenta concorrência para Endrick",
-          "link": "https://exame.com/esporte/real-madrid-contrata-promessa-espanhola-e-aumenta-concorrencia-para-endrick/",
-          "source": "Exame",
-          "date": "2026-07-31T16:48:24.000Z",
-          "snippet": "Carlos Espí chega do Levante por 25 milhões de euros, enquanto o futuro do brasileiro no elenco de Xabi Alonso segue indefinido"
-        },
-        {
-          "title": "Petróleo mais caro e real mais forte elevaram custos de mineração da Vale",
-          "link": "https://exame.com/invest/mercados/petroleo-mais-caro-e-real-mais-forte-elevaram-custos-de-mineracao-da-vale/",
-          "source": "Exame",
-          "date": "2026-07-31T16:40:38.000Z",
-          "snippet": "Companhia revisou projeções para o ano: 'são fatores que a gente não controla', diz CFO"
+          "snippet": "Novo sorteio eletrônico, porém, manteve o caso do ministro The post PF tentou evitar distribuição automática para Mendonça de investigação sobre Lulinha appeared first on InfoMoney .",
+          "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/55268422526_630e61248b_k.jpg?fit=300%2C200&quality=70&strip=all"
         },
         {
           "title": "Antes dos investimentos, as pessoas: a receita da melhor assessoria em alocação",
           "link": "https://www.infomoney.com.br/advisor/antes-dos-investimentos-as-pessoas-a-receita-da-melhor-assessoria-em-alocacao/",
           "source": "InfoMoney",
           "date": "2026-07-31T16:30:00.000Z",
-          "snippet": "Escritório conquistou o primeiro lugar no A20, categoria do Brazil Advisor Awards 2026 que reúne as assessorias referência em alocação da rede parceira da XP The post Antes dos investimentos, as pessoas: a receita da melhor assessoria em…"
+          "snippet": "Escritório conquistou o primeiro lugar no A20, categoria do Brazil Advisor Awards 2026 que reúne as assessorias referência em alocação da rede parceira da XP The post Antes dos investimentos, as pessoas: a receita da melhor assessoria em…",
+          "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/IMG_7565.jpg?fit=300%2C199&quality=70&strip=all"
         },
         {
           "title": "Veja como construir viveiros escavados",
           "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/07/31/veja-como-construir-viveiros-escavados.ghtml",
           "source": "G1 Economia",
           "date": "2026-07-31T16:16:24.000Z",
-          "snippet": "Nota técnica defende que tilápia atende a critérios de espécie exótica invasora e amplia debate científico alma_p / iNatualist A Empresa Brasileira de Pesquisa Agropecuária (Embrapa) publicou uma cartilha gratuita que mostra como planeja…"
+          "snippet": "Nota técnica defende que tilápia atende a critérios de espécie exótica invasora e amplia debate científico alma_p / iNatualist A Empresa Brasileira de Pesquisa Agropecuária (Embrapa) publicou uma cartilha gratuita que mostra como planeja…",
+          "image": "https://s2-g1.glbimg.com/KSQflgiKybVywmauHM6VXAzlSqk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/f/exK4RFR9ADe273rbnYYg/design-sem-nome-29-.jpg"
         },
         {
           "title": "Ibovespa Hoje Ao Vivo: Bolsa finalmente abre e sobe, após atraso; SANB11 dispara 12%",
           "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-31072026/",
           "source": "InfoMoney",
           "date": "2026-07-31T16:13:46.000Z",
-          "snippet": "Índices nos EUA perdem força e operam mistos The post Ibovespa Hoje Ao Vivo: Bolsa finalmente abre e sobe, após atraso; SANB11 dispara 12% appeared first on InfoMoney ."
-        },
-        {
-          "title": "SANB11: ações do Santander Brasil saltam 13% na B3 após intenção de OPA pela matriz",
-          "link": "https://www.infomoney.com.br/mercados/sanb11-acoes-do-santander-brasil-saltam-13-na-b3-apos-intencao-de-opa-pela-matriz/",
-          "source": "InfoMoney",
-          "date": "2026-07-31T16:10:15.000Z",
-          "snippet": "O Santander disse que a oferta envolve um prêmio de 15% sobre o preço dos papéis, em um total de até 1,9 bilhão de euros, afirmou o grupo espanhol The post SANB11: ações do Santander Brasil saltam 13% na B3 após intenção de OPA pela matr…"
-        },
-        {
-          "title": "Stellantis faz recall de mais de 1,5 milhão de picapes RAM 1500 por defeito nos cintos, diz agência",
-          "link": "https://g1.globo.com/carros/noticia/2026/07/31/stellantis-faz-recall-de-ram-1500-defeito-cinto-de-seguranca.ghtml",
-          "source": "G1 Economia",
-          "date": "2026-07-31T15:17:15.000Z",
-          "snippet": "RAM 1500 Divulgação / Stellantis A Stellantis, dona da marca RAM, vai fazer um recall de mais de 1,5 milhão de unidades da picape 1500 por problemas nos cintos de segurança. As informações são da agência Reuters. ✅ Clique aqui para segui…"
+          "snippet": "Índices nos EUA perdem força e operam mistos The post Ibovespa Hoje Ao Vivo: Bolsa finalmente abre e sobe, após atraso; SANB11 dispara 12% appeared first on InfoMoney .",
+          "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ibovespa-ao-vivo-5.png?fit=300%2C200&quality=70&strip=all"
         }
       ]
     },
@@ -594,6 +636,7 @@
           "source": "Tim Challies",
           "date": "2026-07-31T16:01:00.000Z",
           "snippet": "Sextas-feiras de coisas grátis: sorteio de livros! Veja também Sextas-feiras de coisas grátis (New Growth Press) Sextas-feiras de coisas grátis (New Growth Press) Sextas-feiras de coisas grátis",
+          "image": "https://www.challies.com/media/2026/07/Single-Together_Challies-Giveaway.jpg",
           "titleOriginal": "Free Stuff Fridays (New Growth Press)"
         },
         {
@@ -602,6 +645,7 @@
           "source": "Tim Challies",
           "date": "2026-07-31T04:02:00.000Z",
           "snippet": "Nenhum pecador pode endurecer o coração além do alcance de Deus. Uma reflexão sobre por que podemos orar com confiança até pelas almas mais endurecidas e incrédulas. Veja também E então houve um poupando a vara, estrague os pais, ela é um incômodo público",
+          "image": "https://www.challies.com/media/2026/07/getty-images-xaDj2zRnfic-unsplash.jpg",
           "titleOriginal": "Can Anyone Harden Their Heart Beyond God’s Reach?"
         },
         {
@@ -610,6 +654,7 @@
           "source": "Tim Challies",
           "date": "2026-07-31T04:01:00.000Z",
           "snippet": "Ajudado por um hipócrita / Um número do Google Voice transformou meu ministério / Deus nos pune pelo pecado de nossos pais? / Quando os cristãos não se dão bem / Cuidado com o que você acredita / A liberdade usa uma corrente / A La Quite / Ofertas de livros e Kindle…",
+          "image": "https://www.challies.com/media/2026/06/Friday-2.jpg",
           "titleOriginal": "A La Carte (July 31)"
         },
         {
@@ -618,6 +663,7 @@
           "source": "Ligonier",
           "date": "2026-07-31T00:00:00.000Z",
           "snippet": "Enquanto caminhava perto do Mar da Galiléia, Jesus encontrou dois pescadores – Simão Pedro e seu irmão André (Mateus 4:18). Sabemos pouco sobre os dois irmãos antes do chamado de Jesus para segui-lo. Simão era casado (Mateus 8:14–15; 1 Coríntios 9:…",
+          "image": "https://images.ctfassets.net/ukqj0ybhazqg/4LrOT5tmdPNPQMsMemggKu/1ab646aa3cc6124a80bde8eb87a96278/Who-Was-Peter_2560.jpg",
           "titleOriginal": "Who Was Peter?"
         },
         {
@@ -626,6 +672,7 @@
           "source": "Tim Challies",
           "date": "2026-07-30T04:01:00.000Z",
           "snippet": "Jovens adultos ou adultos-adultos? / Quem está faltando na sua igreja? / Respeito bíblico em uma época desrespeitosa / Conte a alegria das missões / Palavras são muito desnecessárias / Amigos piedosos e esquemas evangélicos / Resenhas de livros / e muito mais. Veja também A La…",
+          "image": "https://www.challies.com/media/2026/06/Thursday-2.jpg",
           "titleOriginal": "A La Carte (July 30)"
         },
         {
@@ -634,6 +681,7 @@
           "source": "Ligonier",
           "date": "2026-07-30T00:00:00.000Z",
           "snippet": "A Bíblia oferece inúmeras instruções sobre como os pais devem criar os seus filhos, orientando-os não apenas a viver vidas morais e corretas, mas também a compreender e abraçar a sua identidade dentro do lar, da igreja e do estado. Mas meu Deus, pare…",
+          "image": "https://images.ctfassets.net/ukqj0ybhazqg/grZ0qhltWwFikpXng1Ncr/b79e4334a367f9bb6617c0d7013665df/Godly-Parenting-as-a-Witness-to-the-World_2560.jpg",
           "titleOriginal": "Godly Parenting as a Witness to the World"
         },
         {
@@ -642,6 +690,7 @@
           "source": "Reformation21",
           "date": "2026-07-29T14:55:52.000Z",
           "snippet": "Joe Carter, em “How to Wait for Cultural Reckoning”, destaca uma verdade que é vital para a nossa capacidade de compreender um testemunho cristão e como ele se relaciona com a visão cristã da apologética e do evangelismo. Em particular, ele demonstra…",
+          "image": "https://reformation21.org/wp-content/uploads/2022/02/phir_covconfusion.jpg",
           "titleOriginal": "Carter’s Confusion?"
         },
         {
@@ -650,6 +699,7 @@
           "source": "Tim Challies",
           "date": "2026-07-29T04:02:00.000Z",
           "snippet": "À medida que um mês se transforma em outro, quero ter certeza de que você está atualizado sobre alguns dos novos livros cristãos notáveis ​​que foram lançados em julho. Em cada caso, forneci a descrição editorial para que você possa aprender um pouco sobre…",
+          "image": "https://www.challies.com/media/2026/07/New-Notable-2026-Templates.jpg",
           "titleOriginal": "New and Notable Christian Books for July 2026"
         },
         {
@@ -658,6 +708,7 @@
           "source": "Tim Challies",
           "date": "2026-07-29T04:01:00.000Z",
           "snippet": "Os cristãos na Nigéria enfrentam o genocídio? / Sabedoria e escolhas difíceis / Um bestiário de pecado / A fé vem pelo ouvir / Melhor do que eu / Você ainda precisa comer nas férias / Manchetes de notícias / e muito mais. Veja também Fim de semana à la carte (27 de dezembro…",
+          "image": "https://www.challies.com/media/2026/06/Wednesday-2.jpg",
           "titleOriginal": "A La Carte (July 29)"
         },
         {
@@ -666,6 +717,7 @@
           "source": "Ligonier",
           "date": "2026-07-29T00:00:00.000Z",
           "snippet": "Não é só você; ser pai é uma loucura. Para alguns, isso acontece naturalmente, como um sonho realizado – uma graça para provar e ver o que é bom. Para outros, parece um território desconhecido, exigindo uma fé que tenha esperança em coisas ainda não vistas. Não importa como…",
+          "image": "https://images.ctfassets.net/ukqj0ybhazqg/4Qc7vaK0mkeNXbrIvIuNM6/3dafd4918fa1de002bf8b9fbd668ad20/3-Things-to-Remember-When-Parenting-Feels-Crazy_2560.jpg",
           "titleOriginal": "3 Things to Remember When Parenting Feels Crazy"
         },
         {
@@ -674,6 +726,7 @@
           "source": "Ligonier",
           "date": "2026-07-28T00:00:00.000Z",
           "snippet": "Para muitos, a ideia de gentileza transmite uma forma fraca de cristianismo. No entanto, a gentileza, a penúltima qualidade dos frutos listados que o Espírito Santo produz em nossas vidas, precisa de consideração. Aprendemos com as Escrituras que é essencial…",
+          "image": "https://images.ctfassets.net/ukqj0ybhazqg/1jXCMYbHZSgifGWmqRI9BG/99ea8a79e3663e2ac7345a992f6c8911/What-Is-the-Fruit-of-Gentleness_2560.jpg",
           "titleOriginal": "What Is the Fruit of Gentleness?"
         },
         {
@@ -682,6 +735,7 @@
           "source": "Reformation21",
           "date": "2026-07-27T16:29:40.000Z",
           "snippet": "A teologia gay celibatária – que afirma defender uma visão bíblica tradicional da sexualidade – acredita na mentira “nascido assim” e tornou-se o compromisso padrão nas igrejas evangélicas e nos ministérios paraeclesiásticos. A teologia gay celibatária abraça…",
+          "image": "https://reformation21.org/wp-content/uploads/2011/07/4fb3e-gay2bflag.jpg",
           "titleOriginal": "Celibate Gay Theology Believes the Born This Way Lie"
         }
       ]
@@ -707,7 +761,17 @@
           "source": "80 Level",
           "date": "2026-08-01T11:00:00.000Z",
           "snippet": "<p><span>Se você deseja uma névoa leve ou uma névoa atmosférica espessa, o complemento do Lazy3D facilita a criação da aparência desejada.</span></p>",
+          "image": "https://cdn.80.lv/api/upload/post/41097/images/6a6caa2216544/cover_800x800.jpg",
           "titleOriginal": "Add Cinematic Volumetric Fog To Blender Scenes In Just Minutes"
+        },
+        {
+          "title": "Aqui está o problema de colocar um gerador de imagens de IA no Google Earth",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+          "source": "The Verge — IA",
+          "date": "2026-07-31T17:05:46.000Z",
+          "snippet": "Agora, basta um prompt de texto para gerar imagens que distorcem a realidade usando imagens de satélite, aéreas e 3D do Google Earth, como essas imagens geradas por Henk van Ess da Digital Digging que mostram \"refugiados perto da fronteira mexicana\" e um…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "titleOriginal": "Here’s the problem with putting an AI image generator in Google Earth"
         },
         {
           "title": "Confira este efeito legal tipo VHS feito no Blender",
@@ -715,6 +779,7 @@
           "source": "80 Level",
           "date": "2026-07-31T16:42:00.000Z",
           "snippet": "<p>Triqlide Studios traz de volta os tempos retrô.</p>",
+          "image": "https://cdn.80.lv/api/upload/post/41099/images/6a6cd08a70a89/cover_800x800.jpg",
           "titleOriginal": "Check Out This Cool VHS-Like Effect Made in Blender"
         },
         {
@@ -723,6 +788,7 @@
           "source": "The Verge — IA",
           "date": "2026-07-31T16:36:48.000Z",
           "snippet": "Várias gravadoras, incluindo as três grandes – Universal Music Group, Sony Music e Warner Music Group – propuseram regras relativas à elegibilidade para músicas de IA nas paradas. Em suma, eles não seriam. A proposta vai um pouco além…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&strip=all&crop=0,0,100,100",
           "titleOriginal": "The major labels propose rules to keep AI slop off the charts"
         },
         {
@@ -731,6 +797,7 @@
           "source": "80 Level",
           "date": "2026-07-31T16:10:00.000Z",
           "snippet": "<p>Estamos comemorando o próximo <a href=\"https://dev.gamescom.global/\" target=\"_blank\" rel=\"noopener\"><strong data-start=\"421\" data-end=\"442\">gamescom dev</strong></a> 2026 com um divertido teste da comunidade! </p>",
+          "image": "https://cdn.80.lv/api/upload/post/40940/images/6a68c229baf99/cover_800x800.jpg",
           "titleOriginal": "80 Level Contest: Win Tickets to gamescom dev 2026, Europe's Biggest Game Development Event"
         },
         {
@@ -739,6 +806,7 @@
           "source": "Cartoon Brew",
           "date": "2026-07-31T15:59:02.000Z",
           "snippet": "O filme de animação de maior bilheteria da Malásia está caminhando para sua maior expansão internacional até agora. Temos um teaser técnico exclusivo do Filme Papa Zola, que em breve alcançará novos públicos… Continuação",
+          "image": "",
           "titleOriginal": "‘Papa Zola’ Goes Global; ‘Evangelion’ To Criterion; Hasbro Wins ‘Peppa Pig’ Copyright Case"
         },
         {
@@ -747,6 +815,7 @@
           "source": "80 Level",
           "date": "2026-07-31T15:56:00.000Z",
           "snippet": "<p>Um remake ou uma remasterização?</p>",
+          "image": "https://cdn.80.lv/api/upload/post/41098/images/6a6cc5a68b4ec/cover_800x800.jpg",
           "titleOriginal": "Game That Shaped YouTube Might Get New Version This Year"
         },
         {
@@ -755,6 +824,7 @@
           "source": "Cartoon Brew",
           "date": "2026-07-31T15:25:11.000Z",
           "snippet": "EP Mark Evestaff discute a evolução criativa por trás do novo especial e homenageia a visão de Charles Schulz para os personagens amados.",
+          "image": "",
           "titleOriginal": "‘There’s No Place Like Home, Snoopy’ Takes Apple TV+’s Peanuts Into Longer-Form Storytelling"
         },
         {
@@ -763,6 +833,7 @@
           "source": "Cartoon Brew",
           "date": "2026-07-31T14:24:55.000Z",
           "snippet": "O fundador do Monsta, Nizam Razak, discute o herói da classe trabalhadora do blockbuster de animação da Malásia, a identidade local e a jornada do sucesso local ao lançamento global.",
+          "image": "",
           "titleOriginal": "Malaysia’s Highest-Grossing Animated Film Ever, ‘Papa Zola The Movie,’ Sets Its Biggest International Expansion Yet (EXCLUSIVE CLIP)"
         },
         {
@@ -771,6 +842,7 @@
           "source": "The Verge — IA",
           "date": "2026-07-31T14:03:04.000Z",
           "snippet": "Quando a frase “OpenAI hackeou Hugging Face” mais ou menos entrou na cultura dominante, você sabe que temos um problema de IA. Esta semana, aprendemos mais sobre exatamente como o agente da OpenAI saiu de uma sandbox e atravessou autonomamente o mundo…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
           "titleOriginal": "It’s time to panic about AI safety"
         },
         {
@@ -779,6 +851,7 @@
           "source": "Cartoon Brew",
           "date": "2026-07-31T14:00:21.000Z",
           "snippet": "As séries completas de anime, ‘The End of Evangelion’ e ‘Neon Genesis Evangelion: Death & Rebirth’ serão transmitidas em 1º de setembro com a dublagem clássica em inglês.",
+          "image": "",
           "titleOriginal": "‘Neon Genesis Evangelion’ Is Coming To The Criterion Channel With Its Pre-Netflix English Dub"
         },
         {
@@ -787,15 +860,8 @@
           "source": "80 Level",
           "date": "2026-07-31T13:42:00.000Z",
           "snippet": "<p>Mark Darrah acredita que uma remasterização de Origins venderia bem.</p>",
+          "image": "https://cdn.80.lv/api/upload/post/41096/images/6a6ca65d3b26a/cover_800x800.jpg",
           "titleOriginal": "Don't Expect Dragon Age Remasters: No One at BioWare Understands Old Engine"
-        },
-        {
-          "title": "Anthropic diz que Claude acidentalmente hackeou empresas reais também",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-          "source": "The Verge — IA",
-          "date": "2026-07-31T13:41:17.000Z",
-          "snippet": "A Anthropic acaba de perceber que vários de seus modelos Claude AI foram hackeados nos sistemas de três organizações diferentes durante os testes, agindo por conta própria e sem que a empresa percebesse. A revelação vem dias depois que a rival OpenAI disse um…",
-          "titleOriginal": "Anthropic says Claude accidentally hacked real companies too"
         }
       ]
     },
@@ -820,6 +886,7 @@
           "source": "Designboom",
           "date": "2026-07-31T16:36:07.000Z",
           "snippet": "comentários públicos ajudarão a definir uma lista para duas encomendas monumentais planejadas para 2029 e 2030. A postagem de maçãs cobertas de joias a relógios congelados: 62 ideias para a próxima escultura da linha alta apareceram primeiro no designboom | arquiteta…",
+          "image": "https://www.designboom.com/wp-content/uploads/2026/07/high-line-plinth-artist-commissions-competition-fall-2027-designboom-700-500x400-22b08q85r409.jpg",
           "titleOriginal": "from jewel-covered apples to frozen clocks: 62 ideas for the high line’s next sculpture"
         },
         {
@@ -828,6 +895,7 @@
           "source": "Yanko Design",
           "date": "2026-07-31T16:20:03.000Z",
           "snippet": "Funis que captam chuva e energia solar enquanto protegem uma praça pública A escassez de água e o calor urbano são duas crises distintas que a infraestrutura pública raramente aborda em conjunto. A maioria dos espaços públicos são projetados principalmente para uso social,…",
+          "image": "https://www.yankodesign.com/images/design_news/2026/07/funnels-that-harvest-rain-and-solar-power-while-shading-a-public-plaza/solar-rain-funnels-01.jpg",
           "titleOriginal": "Funnels That Harvest Rain and Solar Power While Shading a Public Plaza"
         },
         {
@@ -836,6 +904,7 @@
           "source": "Yanko Design",
           "date": "2026-07-31T15:20:48.000Z",
           "snippet": "A única coisa que a gastronomia requintada não consegue controlar é a temperatura, até agora A temperatura é uma das poucas coisas na gastronomia requintada que ninguém controla totalmente quando um prato sai da cozinha. Um pedaço perfeitamente cozido...",
+          "image": "https://www.yankodesign.com/images/design_news/2026/07/temper-hold-is-a-basalt-serving-system-designed-to-slow-the-one-thing-fine-dining-cant-control/temper-hold-01.jpg",
           "titleOriginal": "The One Thing Fine Dining Can’t Control Is Temperature, Until Now"
         },
         {
@@ -844,6 +913,7 @@
           "source": "Yanko Design",
           "date": "2026-07-31T14:20:46.000Z",
           "snippet": "Um drone de 40 gramas agora está caçando o animal mais mortal do mundo O mosquito nunca foi superado pela elegância. Jogámos tudo: velas de citronela que cheiram a loja de produtos naturais, zappers que parecem...",
+          "image": "https://www.yankodesign.com/images/design_news/2026/07/a-40-gram-drone-is-now-hunting-the-worlds-deadliest-animal/LeSonar2-01.jpg",
           "titleOriginal": "A 40-Gram Drone Is Now Hunting the World’s Deadliest Animal"
         },
         {
@@ -852,6 +922,7 @@
           "source": "Designboom",
           "date": "2026-07-31T14:15:56.000Z",
           "snippet": "o programa de uso misto da casa reformada combina acomodações para hóspedes, um retiro familiar e uma choperia de cerveja artesanal. Os materiais pós-recuperados e os acabamentos artesanais remodelam a casa histórica na República Tcheca apareceram primeiro no design…",
+          "image": "https://www.designboom.com/wp-content/uploads/2026/07/obloukova-171-ora-zatec-czech-republicrenovation-townhouse-designboom-700-500x400-22b08q85r707.jpg",
           "titleOriginal": "reclaimed materials and handcrafted finishes reshape historic townhouse in czech republic"
         },
         {
@@ -860,6 +931,7 @@
           "source": "Yanko Design",
           "date": "2026-07-31T13:20:00.000Z",
           "snippet": "ASUS ROG NUC 16 Edition 20 traz potência de jogo RTX 5090 para desktop compacto 3L A Asus percorreu um longo caminho desde 2 de abril de 1989. Segundo esses dados, a ROG existe apenas duas décadas. Indiscutivelmente o...",
+          "image": "https://www.yankodesign.com/images/design_news/2026/07/asus-rog-nuc-16-edition-20-brings-rtx-5090-gaming-power-to-compact-3l-desktop/ROG-NUC-16-Edition-20-Mini-PC_1.jpg",
           "titleOriginal": "ASUS ROG NUC 16 Edition 20 brings RTX 5090 gaming power to compact 3L desktop"
         },
         {
@@ -868,6 +940,7 @@
           "source": "Yanko Design",
           "date": "2026-07-31T11:40:53.000Z",
           "snippet": "Os 5 melhores presentes de gadgets retrô para homens que acham que a nova tecnologia atingiu o pico muito cedo Há um tipo de homem que demora mais no balcão de eletrônicos, não porque não consegue decidir, mas porque está procurando por algo...",
+          "image": "https://www.yankodesign.com/images/design_news/2026/07/retro-gadget-gifts-for-men-who-think-new-tech-peaked-too-early/5_best_retro_gadgets_men_yanko_design_hero.jpg",
           "titleOriginal": "5 Best Retro Gadget Gifts for Men Who Think New Tech Peaked Too Early"
         },
         {
@@ -876,6 +949,7 @@
           "source": "Designboom",
           "date": "2026-07-31T10:10:03.000Z",
           "snippet": "no Japão do pós-guerra, os artistas utilizaram meios de comunicação indisciplinados e performances lúdicas que envolveram o público para praticar uma nova forma de liberdade criativa. Depois de rasgar papel e lutar com lama, Gutai brincou com liberdade criativa no Japão do pós-guerra apareceu…",
+          "image": "https://www.designboom.com/wp-content/uploads/2026/07/gutai-art-association-japanese-postwar-performance-play-designboom-700-500x400-22b08q85r996.jpg",
           "titleOriginal": "tearing paper and wrestling mud, gutai played with creative freedom in postwar japan"
         },
         {
@@ -884,6 +958,7 @@
           "source": "Yanko Design",
           "date": "2026-07-31T10:07:10.000Z",
           "snippet": "Os alunos construíram o melhor lugar neste festival de música a partir de sucatas Os festivais de música gastam muito dinheiro em palcos. Grandes plataformas, sistemas de iluminação elaborados, tendas de marca que bloqueiam a visão das montanhas. E então...",
+          "image": "https://www.yankodesign.com/images/design_news/2026/07/students-built-the-best-seat-at-this-music-festival-from-scraps/Music-festival-Gabonsa-hero2.jpg",
           "titleOriginal": "Students Built the Best Seat at This Music Festival From Scraps"
         },
         {
@@ -892,6 +967,7 @@
           "source": "Designboom",
           "date": "2026-07-31T09:57:47.000Z",
           "snippet": "A scooter elétrica de dois lugares da otherlab combina painel solar de 240 W, armazenamento de carga com chave e motores de cubo duplo. A scooter de carga solar pós-lightfoot armazena luz solar para tarefas diárias apareceu pela primeira vez no designboom | arquitetura e design…",
+          "image": "https://www.designboom.com/wp-content/uploads/2026/07/lightfoot-solar-cargo-scooter-sunlight-everyday-errands-designboom-2-500x400-22b08q85r653.jpeg",
           "titleOriginal": "lightfoot solar cargo scooter stores sunlight for everyday errands"
         },
         {
@@ -900,6 +976,7 @@
           "source": "Designboom",
           "date": "2026-07-31T08:55:32.000Z",
           "snippet": "o CRW-H001 combina cronometragem digital com sensores biométricos e conectividade de smartphone em um dispositivo do tamanho de um dedo. O post casio transforma seu relógio de anel em wearable inteligente com rastreamento de saúde e notificações apareceu pela primeira vez no design…",
+          "image": "https://www.designboom.com/wp-content/uploads/2026/07/casio-ring-watch-smart-wearable-health-tracking-notifications-designboom-700-500x400-22b08q85r541.jpg",
           "titleOriginal": "casio turns its ring watch into smart wearable with health tracking and notifications"
         },
         {
@@ -908,6 +985,7 @@
           "source": "Designboom",
           "date": "2026-07-31T02:10:21.000Z",
           "snippet": "O estúdio pachapasa mantém a casa original enquanto abre seu interior em uma sala de jantar contínua. O pavilhão em forma de lanterna e o bar de tijolos reciclados transformam a casa de Bangkok no restaurante Arvie apareceram pela primeira vez no designboom | arco…",
+          "image": "https://www.designboom.com/wp-content/uploads/2026/07/glowing-lanterns-recycled-brick-arvie-bangkok-restaurant-pachapasa-studio-designboom-700-500x400-22b08q85r097.jpg",
           "titleOriginal": "lantern-like pavilion and recycled brick bar reshape bangkok house into arvie restaurant"
         }
       ]
