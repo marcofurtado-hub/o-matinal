@@ -73,7 +73,47 @@ function parseItems(xml, source) {
   }).filter((i) => i.title && i.link);
 }
 
-async function fetchFeed({ source, url }) {
+// Tradução gratuita via endpoint público do Google Tradutor.
+// Se falhar, mantém o texto original — o jornal nunca deixa de sair por causa disso.
+async function translate(text) {
+  if (!text) return text;
+  const params = new URLSearchParams({
+    client: "gtx", sl: "auto", tl: "pt-BR", dt: "t", q: text,
+  });
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), TIMEOUT_MS);
+  try {
+    const res = await fetch(`https://translate.googleapis.com/translate_a/single?${params}`, {
+      signal: ctrl.signal,
+      headers: { "user-agent": "Mozilla/5.0 (compatible; PersonalHubBot/1.0)" },
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    const out = (data[0] ?? []).map((seg) => seg[0]).join("");
+    return out.trim() || text;
+  } catch {
+    return text;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function translateItems(items) {
+  let failures = 0;
+  for (const item of items) {
+    const [title, snippet] = await Promise.all([
+      translate(item.title),
+      translate(item.snippet),
+    ]);
+    if (title === item.title) failures++;
+    if (title !== item.title) item.titleOriginal = item.title;
+    item.title = title;
+    item.snippet = snippet;
+  }
+  return failures;
+}
+
+async function fetchFeed({ source, url, lang }) {
   const ctrl = new AbortController();
   const timer = setTimeout(() => ctrl.abort(), TIMEOUT_MS);
   try {
@@ -88,6 +128,7 @@ async function fetchFeed({ source, url }) {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const xml = await res.text();
     const items = parseItems(xml, source).slice(0, PER_FEED);
+    for (const i of items) i.lang = lang ?? "en";
     console.log(`  ok   ${source} (${items.length} itens)`);
     return items;
   } catch (err) {
@@ -106,6 +147,12 @@ for (const section of CONFIG.sections) {
     .flat()
     .sort((a, b) => (b.date ?? "").localeCompare(a.date ?? ""))
     .slice(0, PER_SECTION);
+  const toTranslate = items.filter((i) => i.lang !== "pt");
+  if (toTranslate.length) {
+    const failures = await translateItems(toTranslate);
+    console.log(`  traduzidos ${toTranslate.length - failures}/${toTranslate.length} itens para pt-BR`);
+  }
+  for (const i of items) delete i.lang;
   sections.push({
     id: section.id,
     name: section.name,

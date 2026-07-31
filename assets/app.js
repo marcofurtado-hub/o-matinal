@@ -77,7 +77,7 @@ async function main() {
     const [lead, ...rest] = s.items;
     if (lead) {
       const leadEl = el("article", "lead-story",
-        `<h3><a href="${esc(lead.link)}" target="_blank" rel="noopener">${esc(lead.title)}</a></h3>` +
+        `<h3><a href="${esc(lead.link)}" target="_blank" rel="noopener"${lead.titleOriginal ? ` title="${esc(lead.titleOriginal)}"` : ""}>${esc(lead.title)}</a></h3>` +
         (lead.snippet ? `<p>${esc(lead.snippet)}</p>` : "") +
         `<span class="byline"><span class="src">${esc(lead.source)}</span> — ${relTime(lead.date)}</span>`);
       sec.appendChild(leadEl);
@@ -86,7 +86,7 @@ async function main() {
     const list = el("ul", "story-list");
     for (const item of rest) {
       list.appendChild(el("li", null,
-        `<a href="${esc(item.link)}" target="_blank" rel="noopener">${esc(item.title)}</a>` +
+        `<a href="${esc(item.link)}" target="_blank" rel="noopener"${item.titleOriginal ? ` title="${esc(item.titleOriginal)}"` : ""}>${esc(item.title)}</a>` +
         `<span class="byline"><span class="src">${esc(item.source)}</span> — ${relTime(item.date)}</span>`));
     }
     sec.appendChild(list);
