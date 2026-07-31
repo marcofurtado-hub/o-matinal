@@ -1,0 +1,96 @@
+{
+  "sections": [
+    {
+      "id": "jogos",
+      "name": "Jogos & Indie",
+      "kicker": "Games, cena indie e a indústria",
+      "feeds": [
+        { "source": "Rock Paper Shotgun", "url": "https://www.rockpapershotgun.com/feed" },
+        { "source": "Game Developer", "url": "https://www.gamedeveloper.com/rss.xml" },
+        { "source": "Eurogamer", "url": "https://www.eurogamer.net/feed" },
+        { "source": "Polygon", "url": "https://www.polygon.com/rss/index.xml" },
+        { "source": "IndieGamesPlus", "url": "https://indiegamesplus.com/feed" }
+      ],
+      "links": [
+        { "label": "itch.io — novidades indie", "url": "https://itch.io/games/newest" },
+        { "label": "Steam Next Fest", "url": "https://store.steampowered.com/sale/nextfest" }
+      ]
+    },
+    {
+      "id": "arte",
+      "name": "Arte, Ilustração & Quadrinhos",
+      "kicker": "Ilustração, HQs e mestres clássicos — zero pós-modernismo",
+      "feeds": [
+        { "source": "Muddy Colors", "url": "https://www.muddycolors.com/feed/" },
+        { "source": "Colossal", "url": "https://www.thisiscolossal.com/feed/" },
+        { "source": "DailyArt Magazine", "url": "https://www.dailyartmagazine.com/feed/" },
+        { "source": "The Comics Journal", "url": "https://www.tcj.com/feed/" },
+        { "source": "Bleeding Cool — Comics", "url": "https://bleedingcool.com/comics/feed/" }
+      ],
+      "links": [
+        { "label": "ArtStation — em alta", "url": "https://www.artstation.com/?sort_by=trending" },
+        { "label": "Society of Illustrators", "url": "https://societyillustrators.org/" }
+      ]
+    },
+    {
+      "id": "financas",
+      "name": "Finanças & Empreendedorismo",
+      "kicker": "Investimentos, negócios, franquias e feiras",
+      "feeds": [
+        { "source": "InfoMoney", "url": "https://www.infomoney.com.br/feed/" },
+        { "source": "Exame", "url": "https://exame.com/feed/" },
+        { "source": "G1 Economia", "url": "https://g1.globo.com/rss/g1/economia/" },
+        { "source": "NeoFeed", "url": "https://neofeed.com.br/feed/" }
+      ],
+      "links": [
+        { "label": "ABF Franchising Expo", "url": "https://www.abfexpo.com.br/" },
+        { "label": "Sebrae — eventos", "url": "https://sebrae.com.br/sites/PortalSebrae/cursoseeventos" }
+      ]
+    },
+    {
+      "id": "teologia",
+      "name": "Teologia Reformada",
+      "kicker": "Fé reformada, artigos e recursos",
+      "feeds": [
+        { "source": "Voltemos ao Evangelho", "url": "https://voltemosaoevangelho.com/blog/feed/" },
+        { "source": "Ligonier", "url": "https://www.ligonier.org/feed/" },
+        { "source": "Tim Challies", "url": "https://www.challies.com/feed/" },
+        { "source": "Reformation21", "url": "https://www.reformation21.org/feed" }
+      ],
+      "links": [
+        { "label": "Fiel Ministérios — eventos", "url": "https://www.ministeriofiel.com.br/" },
+        { "label": "Monergismo — biblioteca", "url": "https://www.monergismo.com/" }
+      ]
+    },
+    {
+      "id": "cgi",
+      "name": "CGI, IA & Animação",
+      "kicker": "3D, inteligência artificial, motion e animação",
+      "feeds": [
+        { "source": "Motionographer", "url": "https://motionographer.com/feed/" },
+        { "source": "Cartoon Brew", "url": "https://www.cartoonbrew.com/feed" },
+        { "source": "BlenderNation", "url": "https://www.blendernation.com/feed/" },
+        { "source": "80 Level", "url": "https://80.lv/feed/" },
+        { "source": "The Verge — IA", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" }
+      ],
+      "links": [
+        { "label": "SIGGRAPH", "url": "https://www.siggraph.org/" },
+        { "label": "Annecy Festival", "url": "https://www.annecyfestival.com/" }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "Design Avançado",
+      "kicker": "Industrial, produto e direção de arte",
+      "feeds": [
+        { "source": "Core77", "url": "http://feeds.feedburner.com/core77/blog" },
+        { "source": "Yanko Design", "url": "https://www.yankodesign.com/feed/" },
+        { "source": "Designboom", "url": "https://www.designboom.com/feed/" }
+      ],
+      "links": [
+        { "label": "LeManoosh", "url": "https://www.lemanoosh.com/" },
+        { "label": "Behance — Industrial Design", "url": "https://www.behance.net/galleries/industrial-design" }
+      ]
+    }
+  ]
+}

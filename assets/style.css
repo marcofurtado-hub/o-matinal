@@ -1,0 +1,280 @@
+/* ============ O MATINAL — folha de estilo ============ */
+/* Jornal retrô: papel envelhecido, tinta preta, serifas. */
+
+:root {
+  --paper: #f1e8d5;
+  --paper-dark: #e8dcc3;
+  --ink: #221c12;
+  --ink-soft: #4a4234;
+  --ink-faint: #7a7060;
+  --accent: #8b2f1c;       /* vermelho tijolo de carimbo */
+  --rule: #3a3226;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--paper-dark);
+  color: var(--ink);
+  font-family: "Lora", Georgia, "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 1.55;
+}
+
+.paper {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 28px 40px 60px;
+  background:
+    radial-gradient(ellipse at 20% 0%, rgba(255,255,255,.35), transparent 55%),
+    radial-gradient(ellipse at 90% 100%, rgba(120,90,40,.10), transparent 50%),
+    var(--paper);
+  box-shadow: 0 0 40px rgba(50, 35, 10, .35);
+  min-height: 100vh;
+}
+
+a { color: inherit; text-decoration: none; }
+a:hover { color: var(--accent); }
+
+/* ---------- Cabeçalho ---------- */
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  font-family: "Oswald", sans-serif;
+  font-size: 12px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  border-top: 3px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+  padding: 6px 2px;
+}
+
+.listen-btn {
+  font-family: "Oswald", sans-serif;
+  font-size: 12px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  background: transparent;
+  color: var(--ink);
+  border: 1.5px solid var(--rule);
+  border-radius: 2px;
+  padding: 4px 12px;
+  cursor: pointer;
+  transition: background .15s, color .15s;
+}
+.listen-btn:hover { background: var(--ink); color: var(--paper); }
+.listen-btn.playing { background: var(--accent); border-color: var(--accent); color: var(--paper); }
+
+.masthead .title {
+  font-family: "Playfair Display", serif;
+  font-weight: 900;
+  font-size: clamp(56px, 9vw, 110px);
+  text-align: center;
+  letter-spacing: .01em;
+  line-height: 1.05;
+  margin: 18px 0 6px;
+  text-shadow: 2px 2px 0 rgba(120, 90, 40, .15);
+}
+
+.masthead .subtitle {
+  text-align: center;
+  font-style: italic;
+  color: var(--ink-soft);
+  font-size: 15px;
+  margin-bottom: 14px;
+}
+
+.section-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4px 22px;
+  font-family: "Oswald", sans-serif;
+  font-size: 13px;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  border-top: 1px solid var(--rule);
+  border-bottom: 3px double var(--rule);
+  padding: 8px 0;
+}
+.section-nav a:hover { color: var(--accent); }
+
+/* ---------- Manchetes ---------- */
+
+.highlights {
+  margin: 26px 0 10px;
+  border: 1.5px solid var(--rule);
+  padding: 16px 22px 18px;
+  background: rgba(255, 252, 240, .45);
+}
+
+.highlights-title {
+  font-family: "Playfair Display", serif;
+  font-size: 21px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .22em;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 8px;
+  margin-bottom: 12px;
+}
+
+.highlights-list {
+  list-style: none;
+  columns: 2;
+  column-gap: 40px;
+  column-rule: 1px solid rgba(58, 50, 38, .35);
+}
+
+.highlights-list li {
+  break-inside: avoid;
+  padding: 6px 0;
+  border-bottom: 1px dotted rgba(58, 50, 38, .4);
+  font-size: 15.5px;
+}
+.highlights-list li:last-child { border-bottom: none; }
+
+.highlights-list .hl-section {
+  font-family: "Oswald", sans-serif;
+  font-size: 10.5px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-right: 8px;
+  white-space: nowrap;
+}
+
+/* ---------- Seções ---------- */
+
+.sections {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 44px;
+  margin-top: 24px;
+}
+
+.section {
+  padding: 22px 0 26px;
+  border-bottom: 1px solid rgba(58, 50, 38, .35);
+  position: relative;
+}
+
+/* fio vertical entre as colunas */
+.sections .section:nth-child(odd)::after {
+  content: "";
+  position: absolute;
+  top: 22px; bottom: 26px;
+  right: -22px;
+  width: 1px;
+  background: rgba(58, 50, 38, .3);
+}
+
+.section-header { margin-bottom: 10px; }
+
+.section-header h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: 900;
+  font-size: 27px;
+  line-height: 1.1;
+  border-bottom: 3px solid var(--rule);
+  padding-bottom: 6px;
+}
+
+.section-header .kicker {
+  font-family: "Oswald", sans-serif;
+  font-size: 11px;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  padding-top: 5px;
+  display: block;
+}
+
+/* matéria de destaque da seção */
+.lead-story { padding: 8px 0 12px; border-bottom: 1px dotted rgba(58,50,38,.45); }
+
+.lead-story h3 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 1.22;
+  margin-bottom: 6px;
+}
+
+.lead-story p {
+  font-size: 14.5px;
+  color: var(--ink-soft);
+}
+
+.lead-story p::first-letter {
+  font-family: "Playfair Display", serif;
+  font-weight: 900;
+  font-size: 2.5em;
+  float: left;
+  line-height: .85;
+  padding-right: 6px;
+}
+
+.story-list { list-style: none; }
+
+.story-list li {
+  padding: 8px 0;
+  border-bottom: 1px dotted rgba(58, 50, 38, .35);
+  font-size: 15px;
+  line-height: 1.35;
+}
+.story-list li:last-child { border-bottom: none; }
+
+.byline {
+  font-family: "Oswald", sans-serif;
+  font-size: 10.5px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  display: block;
+  margin-top: 3px;
+}
+.byline .src { color: var(--accent); }
+
+.deep-links {
+  margin-top: 12px;
+  padding: 8px 12px;
+  background: rgba(58, 50, 38, .07);
+  border-left: 3px solid var(--accent);
+  font-size: 13.5px;
+}
+.deep-links strong {
+  font-family: "Oswald", sans-serif;
+  font-weight: 500;
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+.deep-links a { text-decoration: underline; text-underline-offset: 3px; }
+.deep-links a + a::before { content: " · "; color: var(--ink-faint); }
+
+/* ---------- Rodapé ---------- */
+
+.colophon { margin-top: 36px; text-align: center; color: var(--ink-soft); font-size: 14px; }
+.colophon .small { font-size: 12.5px; font-style: italic; color: var(--ink-faint); margin-top: 4px; }
+
+.rule-double { border-top: 1px solid var(--rule); border-bottom: 3px solid var(--rule); height: 5px; margin-bottom: 14px; }
+
+.loading { font-style: italic; color: var(--ink-faint); }
+
+/* ---------- Responsivo ---------- */
+
+@media (max-width: 860px) {
+  .paper { padding: 18px 18px 40px; }
+  .sections { grid-template-columns: 1fr; gap: 0; }
+  .sections .section:nth-child(odd)::after { display: none; }
+  .highlights-list { columns: 1; }
+  .topbar { flex-wrap: wrap; }
+}
