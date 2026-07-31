@@ -85,7 +85,7 @@ a:hover { background: var(--pink); color: var(--paper); }
   padding: 16px 6px 14px;
   overflow-x: hidden;
   white-space: pre;
-  box-shadow: 8px 8px 0 var(--pink), 16px 16px 0 var(--aqua);
+  box-shadow: 10px 10px 0 var(--pink), -10px -10px 0 var(--aqua);
 }
 
 .subtitle {
@@ -233,7 +233,9 @@ a:hover { background: var(--pink); color: var(--paper); }
   width: 100%;
   max-height: 220px;
   object-fit: cover;
-  filter: grayscale(1) contrast(1.25) brightness(1.05);
+  /* borra e estoura o contraste para "achatar" os tons (low-res) */
+  filter: grayscale(1) blur(1.2px) contrast(2) brightness(1.1);
+  image-rendering: pixelated;
 }
 .dither::after {
   content: "";
@@ -241,9 +243,9 @@ a:hover { background: var(--pink); color: var(--paper); }
   inset: 0;
   pointer-events: none;
   background-image: repeating-conic-gradient(#000 0% 25%, transparent 0% 50%);
-  background-size: 3px 3px;
-  opacity: .4;
-  mix-blend-mode: overlay;
+  background-size: 4px 4px;
+  opacity: .55;
+  mix-blend-mode: hard-light;
 }
 .dither::before {
   content: "";
