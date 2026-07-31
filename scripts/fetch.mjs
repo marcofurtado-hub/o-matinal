@@ -193,7 +193,13 @@ const events = (CONFIG.events ?? [])
   .filter((e) => (e.end ?? e.start) >= today)
   .sort((a, b) => a.start.localeCompare(b.start));
 
-const out = { generatedAt: new Date().toISOString(), highlights, events, sections };
+const out = {
+  generatedAt: new Date().toISOString(),
+  highlights,
+  events,
+  courses: CONFIG.courses ?? [],
+  sections,
+};
 mkdirSync(join(ROOT, "data"), { recursive: true });
 writeFileSync(join(ROOT, "data/news.json"), JSON.stringify(out, null, 2));
 

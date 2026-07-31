@@ -52,7 +52,7 @@ async function main() {
     const res = await fetch("data/news.json", { cache: "no-store" });
     data = await res.json();
   } catch {
-    document.getElementById("highlights-list").innerHTML =
+    document.getElementById("agenda-list").innerHTML =
       '<li class="loading">ERRO DE LEITURA NO DRIVE A: — tente recarregar a página.</li>';
     return;
   }
@@ -76,19 +76,30 @@ async function main() {
   }
 
   // agenda de eventos
-  const sectionNames = Object.fromEntries(data.sections.map((s) => [s.id, s.name]));
   const agenda = document.getElementById("agenda-list");
+  agenda.innerHTML = "";
   if (data.events?.length) {
     for (const ev of data.events) {
-      const tag = sectionNames[ev.tag] ?? ev.tag ?? "";
       agenda.appendChild(el("li", null,
         `<span class="agenda-date">${esc(fmtEventRange(ev.start, ev.end))}</span>` +
         `<span class="agenda-body"><a href="${esc(ev.url)}" target="_blank" rel="noopener">${esc(ev.name)}</a>` +
-        `<span class="agenda-tag">${esc(tag)}</span>` +
+        `<span class="agenda-tag">${esc(ev.tag ?? "")}</span>` +
         `<span class="agenda-where">${esc(ev.where ?? "")}</span></span>`));
     }
   } else {
     document.getElementById("agenda").style.display = "none";
+  }
+
+  // cursos e formação
+  const courses = document.getElementById("courses-list");
+  if (data.courses?.length) {
+    for (const c of data.courses) {
+      courses.appendChild(el("li", null,
+        `<span class="agenda-date">${esc(c.tag ?? "")}</span>` +
+        `<span class="agenda-body"><a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.label)}</a></span>`));
+    }
+  } else {
+    document.getElementById("cursos").style.display = "none";
   }
 
   // seções

@@ -1,16 +1,17 @@
-/* ============ O MATINAL — MS-DOS edition ============ */
-/* Tela azul clássica, bordas de janela DOS, fonte de terminal, CRT. */
+/* ============ O MATINAL — CGA edition ============ */
+/* Paleta CGA clássica dos jogos MS-DOS: preto, branco,   */
+/* magenta (#ff55ff) e ciano (#55ffff). Fonte de terminal. */
 
 :root {
   --bg: #000000;
-  --screen: #0000a8;        /* azul DOS clássico */
-  --screen-deep: #000070;
-  --border: #55ffff;        /* ciano */
+  --screen: #000000;
+  --ink: #0a0a0a;
+  --border: #e8e8e8;        /* branco levemente apagado */
+  --border-dim: #7a7a7a;
   --text: #e8e8e8;
-  --text-dim: #9a9ad0;
-  --title: #ffff55;         /* amarelo DOS */
-  --hot: #55ff55;           /* verde fósforo */
-  --alert: #ff5555;
+  --text-dim: #9a9a9a;
+  --pink: #ff55ff;          /* magenta CGA */
+  --aqua: #55ffff;          /* ciano CGA */
   --white: #ffffff;
 }
 
@@ -37,7 +38,7 @@ body {
     to bottom,
     rgba(0, 0, 0, 0) 0px,
     rgba(0, 0, 0, 0) 2px,
-    rgba(0, 0, 0, .18) 3px
+    rgba(0, 0, 0, .22) 3px
   );
   z-index: 10;
 }
@@ -47,14 +48,14 @@ body {
   margin: 0 auto;
   background: var(--screen);
   border: 3px double var(--border);
-  box-shadow: 0 0 24px rgba(85, 255, 255, .25), inset 0 0 80px rgba(0, 0, 40, .6);
+  box-shadow: 0 0 26px rgba(255, 85, 255, .18), 0 0 12px rgba(85, 255, 255, .12);
   padding: 14px 22px 30px;
 }
 
 a { color: var(--white); text-decoration: none; }
-a:hover { background: var(--title); color: var(--screen-deep); }
+a:hover { background: var(--pink); color: var(--ink); }
 
-.cursor { animation: blink 1s steps(1) infinite; color: var(--hot); }
+.cursor { animation: blink 1s steps(1) infinite; color: var(--aqua); }
 @keyframes blink { 50% { opacity: 0; } }
 
 /* ---------- Cabeçalho ---------- */
@@ -66,8 +67,8 @@ a:hover { background: var(--title); color: var(--screen-deep); }
   gap: 12px;
   flex-wrap: wrap;
   font-size: 18px;
-  color: var(--hot);
-  border-bottom: 1px solid var(--border);
+  color: var(--aqua);
+  border-bottom: 1px solid var(--border-dim);
   padding-bottom: 6px;
 }
 
@@ -77,15 +78,15 @@ a:hover { background: var(--title); color: var(--screen-deep); }
   font-family: "VT323", monospace;
   font-size: 18px;
   background: transparent;
-  color: var(--title);
+  color: var(--pink);
   border: none;
   cursor: pointer;
 }
-.dos-btn:hover { background: var(--title); color: var(--screen-deep); }
-.dos-btn.playing { background: var(--alert); color: var(--white); }
+.dos-btn:hover { background: var(--pink); color: var(--ink); }
+.dos-btn.playing { background: var(--aqua); color: var(--ink); }
 
 .ascii-title {
-  color: var(--title);
+  color: var(--white);
   text-align: center;
   font-family: "Courier New", ui-monospace, monospace;
   font-weight: bold;
@@ -93,13 +94,13 @@ a:hover { background: var(--title); color: var(--screen-deep); }
   line-height: 1.12;
   margin: 16px auto 8px;
   overflow-x: hidden;
-  text-shadow: 0 0 8px rgba(255, 255, 85, .45);
+  text-shadow: 2px 0 0 rgba(255, 85, 255, .55), -2px 0 0 rgba(85, 255, 255, .55);
   white-space: pre;
 }
 
 .subtitle {
   text-align: center;
-  color: var(--border);
+  color: var(--pink);
   font-size: 19px;
   margin-bottom: 12px;
 }
@@ -111,14 +112,15 @@ a:hover { background: var(--title); color: var(--screen-deep); }
   justify-content: center;
   gap: 2px 18px;
   font-size: 18px;
-  border-top: 1px solid var(--border);
-  border-bottom: 1px solid var(--border);
+  border-top: 1px solid var(--border-dim);
+  border-bottom: 1px solid var(--border-dim);
   padding: 5px 0;
   text-transform: uppercase;
 }
-.section-nav a { color: var(--hot); }
+.section-nav a { color: var(--aqua); }
 .section-nav a::before { content: "["; color: var(--text-dim); }
 .section-nav a::after { content: "]"; color: var(--text-dim); }
+.section-nav a:hover { background: var(--aqua); color: var(--ink); }
 
 /* ---------- Painéis (janelas DOS) ---------- */
 
@@ -126,50 +128,51 @@ a:hover { background: var(--title); color: var(--screen-deep); }
   border: 2px solid var(--border);
   margin: 18px 0;
   padding: 0 16px 12px;
-  background: var(--screen-deep);
-  box-shadow: 6px 6px 0 rgba(0, 0, 0, .55);
+  background: var(--ink);
+  box-shadow: 6px 6px 0 rgba(232, 232, 232, .22);
 }
 
 .panel-title {
   font-family: "Press Start 2P", "VT323", monospace;
   font-size: 13px;
-  color: var(--screen-deep);
-  background: var(--border);
+  color: var(--ink);
+  background: var(--pink);
   margin: 0 -16px 10px;
   padding: 6px 12px;
   letter-spacing: .04em;
 }
+.panel-title.alt { background: var(--aqua); }
 
 /* manchetes */
 .highlights-list { list-style: none; }
 .highlights-list li {
   padding: 4px 0;
-  border-bottom: 1px dashed rgba(85, 255, 255, .3);
+  border-bottom: 1px dashed rgba(232, 232, 232, .25);
   font-size: 20px;
 }
 .highlights-list li:last-child { border-bottom: none; }
-.highlights-list li::before { content: "► "; color: var(--title); }
+.highlights-list li::before { content: "► "; color: var(--pink); }
 
 .hl-section {
-  color: var(--hot);
+  color: var(--aqua);
   text-transform: uppercase;
   font-size: 16px;
   margin-right: 8px;
 }
 
-/* agenda */
+/* agenda + cursos */
 .agenda-list { list-style: none; }
 .agenda-list li {
   display: flex;
   gap: 14px;
   align-items: baseline;
   padding: 5px 0;
-  border-bottom: 1px dashed rgba(85, 255, 255, .3);
+  border-bottom: 1px dashed rgba(232, 232, 232, .25);
 }
 .agenda-list li:last-child { border-bottom: none; }
 
 .agenda-date {
-  color: var(--title);
+  color: var(--pink);
   min-width: 148px;
   white-space: nowrap;
   font-size: 19px;
@@ -177,8 +180,8 @@ a:hover { background: var(--title); color: var(--screen-deep); }
 
 .agenda-body { flex: 1; font-size: 20px; }
 .agenda-tag {
-  color: var(--screen-deep);
-  background: var(--hot);
+  color: var(--ink);
+  background: var(--aqua);
   font-size: 15px;
   padding: 0 6px;
   margin-left: 8px;
@@ -186,6 +189,9 @@ a:hover { background: var(--title); color: var(--screen-deep); }
   white-space: nowrap;
 }
 .agenda-where { display: block; color: var(--text-dim); font-size: 17px; }
+
+.courses-list .agenda-date { min-width: 178px; color: var(--aqua); }
+.courses-list .agenda-tag { background: var(--pink); }
 
 /* ---------- Seções ---------- */
 
@@ -197,17 +203,17 @@ a:hover { background: var(--title); color: var(--screen-deep); }
 }
 
 .section {
-  border: 2px solid var(--border);
-  background: var(--screen-deep);
-  box-shadow: 6px 6px 0 rgba(0, 0, 0, .55);
+  border: 2px solid var(--border-dim);
+  background: var(--ink);
+  box-shadow: 6px 6px 0 rgba(232, 232, 232, .15);
   padding: 0 14px 12px;
 }
 
 .section-header h2 {
   font-family: "Press Start 2P", "VT323", monospace;
   font-size: 12px;
-  color: var(--screen-deep);
-  background: var(--title);
+  color: var(--ink);
+  background: var(--border);
   margin: 0 -14px;
   padding: 7px 12px;
 }
@@ -217,14 +223,14 @@ a:hover { background: var(--title); color: var(--screen-deep); }
   color: var(--text-dim);
   font-size: 17px;
   padding: 6px 0 2px;
-  border-bottom: 1px solid rgba(85, 255, 255, .4);
+  border-bottom: 1px solid rgba(232, 232, 232, .3);
 }
 
-.lead-story { padding: 8px 0; border-bottom: 1px dashed rgba(85, 255, 255, .3); }
+.lead-story { padding: 8px 0; border-bottom: 1px dashed rgba(232, 232, 232, .25); }
 
 .lead-story h3 { font-size: 23px; font-weight: normal; line-height: 1.2; }
 .lead-story h3 a { color: var(--white); }
-.lead-story h3 a::before { content: "► "; color: var(--hot); }
+.lead-story h3 a::before { content: "► "; color: var(--pink); }
 
 .lead-story p { font-size: 18px; color: var(--text-dim); margin-top: 4px; }
 
@@ -232,41 +238,42 @@ a:hover { background: var(--title); color: var(--screen-deep); }
 
 .story-list li {
   padding: 6px 0;
-  border-bottom: 1px dashed rgba(85, 255, 255, .25);
+  border-bottom: 1px dashed rgba(232, 232, 232, .2);
   font-size: 20px;
   line-height: 1.25;
 }
 .story-list li:last-child { border-bottom: none; }
-.story-list li a::before { content: "· "; color: var(--hot); }
+.story-list li a::before { content: "· "; color: var(--aqua); }
 
 .byline {
   display: block;
-  color: var(--hot);
+  color: var(--aqua);
   font-size: 15px;
   text-transform: uppercase;
   margin-top: 2px;
-  opacity: .85;
+  opacity: .8;
 }
 .byline .src { color: var(--text-dim); }
 
 .deep-links {
   margin-top: 10px;
-  border: 1px dashed var(--border);
+  border: 1px dashed var(--border-dim);
   padding: 6px 10px;
   font-size: 18px;
 }
-.deep-links strong { color: var(--title); font-weight: normal; text-transform: uppercase; font-size: 16px; }
-.deep-links a { color: var(--hot); }
+.deep-links strong { color: var(--pink); font-weight: normal; text-transform: uppercase; font-size: 16px; }
+.deep-links a { color: var(--aqua); }
+.deep-links a:hover { background: var(--aqua); color: var(--ink); }
 .deep-links a + a::before { content: " │ "; color: var(--text-dim); }
 
 /* ---------- Rodapé ---------- */
 
 .colophon { margin-top: 24px; text-align: center; color: var(--text-dim); font-size: 18px; }
-.colophon p:first-child { color: var(--border); overflow: hidden; white-space: nowrap; }
-.colophon strong { color: var(--title); font-weight: normal; }
+.colophon p:first-child { color: var(--border-dim); overflow: hidden; white-space: nowrap; }
+.colophon strong { color: var(--pink); font-weight: normal; }
 .colophon .small { font-size: 16px; margin-top: 6px; }
 
-.loading { color: var(--hot); }
+.loading { color: var(--aqua); }
 
 /* ---------- Responsivo ---------- */
 
@@ -278,4 +285,5 @@ a:hover { background: var(--title); color: var(--screen-deep); }
   .sections { grid-template-columns: 1fr; }
   .agenda-list li { flex-direction: column; gap: 0; }
   .agenda-date { min-width: 0; }
+  .courses-list .agenda-date { min-width: 0; }
 }
