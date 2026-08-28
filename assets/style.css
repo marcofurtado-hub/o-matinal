@@ -13,6 +13,31 @@
   --aqua: #55ffff;          /* ciano CGA (fundos) */
   --aqua-deep: #008787;     /* ciano p/ texto sobre branco */
   --rule: #111111;
+  --bar-ink: #111111;       /* texto sobre barras rosa/ciano */
+}
+
+/* modo escuro automático (sistema) — a menos que o usuário force o claro */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0b0b0b;
+    --ink: #e8e8e8;
+    --ink-soft: #c2c2c2;
+    --ink-faint: #909090;
+    --pink-deep: #ff7bff;
+    --aqua-deep: #55ffff;
+    --rule: #e8e8e8;
+  }
+}
+
+/* modo escuro forçado pelo botão */
+:root[data-theme="dark"] {
+  --paper: #0b0b0b;
+  --ink: #e8e8e8;
+  --ink-soft: #c2c2c2;
+  --ink-faint: #909090;
+  --pink-deep: #ff7bff;
+  --aqua-deep: #55ffff;
+  --rule: #e8e8e8;
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -37,7 +62,7 @@ body {
 }
 
 a { color: var(--ink); text-decoration: none; }
-a:hover { background: var(--pink); color: var(--paper); }
+a:hover { background: var(--pink); color: var(--bar-ink); }
 
 .cursor { animation: blink 1s steps(1) infinite; color: var(--pink-deep); }
 @keyframes blink { 50% { opacity: 0; } }
@@ -59,6 +84,8 @@ a:hover { background: var(--pink); color: var(--paper); }
 
 .topbar #edition { color: var(--ink-faint); }
 
+.topbar-actions { display: flex; gap: 8px; align-items: center; }
+
 .dos-btn {
   font-family: "VT323", monospace;
   font-size: 18px;
@@ -69,8 +96,8 @@ a:hover { background: var(--pink); color: var(--paper); }
   cursor: pointer;
   box-shadow: 3px 3px 0 var(--aqua);
 }
-.dos-btn:hover { background: var(--pink); color: var(--paper); border-color: var(--pink); }
-.dos-btn.playing { background: var(--aqua); color: var(--ink); border-color: var(--aqua); }
+.dos-btn:hover { background: var(--pink); color: var(--bar-ink); border-color: var(--pink); }
+.dos-btn.playing { background: var(--aqua); color: var(--bar-ink); border-color: var(--aqua); }
 
 .logo-title {
   color: var(--ink);
@@ -122,7 +149,7 @@ a:hover { background: var(--pink); color: var(--paper); }
 .section-nav a { color: var(--ink); }
 .section-nav a::before { content: "["; color: var(--pink-deep); }
 .section-nav a::after { content: "]"; color: var(--pink-deep); }
-.section-nav a:hover { background: var(--aqua); color: var(--ink); }
+.section-nav a:hover { background: var(--aqua); color: var(--bar-ink); }
 
 /* ---------- Painéis ---------- */
 
@@ -139,7 +166,7 @@ a:hover { background: var(--pink); color: var(--paper); }
 .panel-title {
   font-family: "Press Start 2P", "VT323", monospace;
   font-size: 13px;
-  color: var(--ink);
+  color: var(--bar-ink);
   background: var(--pink);
   margin: 0 -16px 10px;
   padding: 7px 12px;
@@ -185,7 +212,7 @@ a:hover { background: var(--pink); color: var(--paper); }
 
 .agenda-body { flex: 1; font-size: 20px; }
 .agenda-tag {
-  color: var(--ink);
+  color: var(--bar-ink);
   background: var(--aqua);
   border: 1px solid var(--rule);
   font-size: 15px;
@@ -315,7 +342,7 @@ a:hover { background: var(--pink); color: var(--paper); }
 }
 .deep-links strong { color: var(--pink-deep); font-weight: normal; text-transform: uppercase; font-size: 16px; }
 .deep-links a { color: var(--aqua-deep); }
-.deep-links a:hover { background: var(--aqua); color: var(--ink); }
+.deep-links a:hover { background: var(--aqua); color: var(--bar-ink); }
 .deep-links a + a::before { content: " │ "; color: var(--ink-faint); }
 
 /* ---------- Rodapé ---------- */

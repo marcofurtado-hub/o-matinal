@@ -149,6 +149,28 @@ async function main() {
   setupListen(data);
 }
 
+// ---- ◐ Modo claro/escuro ----
+function setupTheme() {
+  const btn = document.getElementById("theme-toggle");
+  const root = document.documentElement;
+  const systemDark = window.matchMedia("(prefers-color-scheme: dark)");
+
+  const isDark = () =>
+    root.dataset.theme === "dark" ||
+    (root.dataset.theme !== "light" && systemDark.matches);
+
+  const label = () => { btn.textContent = isDark() ? "[ ☀ ]" : "[ ☾ ]"; };
+  label();
+
+  btn.addEventListener("click", () => {
+    const next = isDark() ? "light" : "dark";
+    root.dataset.theme = next;
+    try { localStorage.setItem("tema", next); } catch (e) {}
+    label();
+  });
+}
+setupTheme();
+
 // ---- 🎧 Ouvir manchetes (voz do navegador, sem custo) ----
 function setupListen(data) {
   const btn = document.getElementById("listen");

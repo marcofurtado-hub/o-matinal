@@ -5,6 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>O MATINAL.EXE — edição diária</title>
   <meta name="description" content="Jornal pessoal diário: jogos, arte, finanças, teologia reformada, CGI e design.">
+  <script>
+    // aplica o tema salvo antes do primeiro paint (evita "flash")
+    try {
+      const t = localStorage.getItem("tema");
+      if (t) document.documentElement.dataset.theme = t;
+    } catch (e) {}
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=VT323&family=Press+Start+2P&display=swap" rel="stylesheet">
@@ -19,7 +26,10 @@
         <div class="topbar">
           <span class="prompt">C:\HUB&gt; matinal.exe <span class="cursor">▮</span></span>
           <span id="edition">EDICAO #—</span>
-          <button id="listen" class="dos-btn" title="Ouvir as manchetes do dia">[ &#9836; OUVIR MANCHETES ]</button>
+          <span class="topbar-actions">
+            <button id="theme-toggle" class="dos-btn" title="Alternar modo claro/escuro">[ ◐ ]</button>
+            <button id="listen" class="dos-btn" title="Ouvir as manchetes do dia">[ &#9836; OUVIR MANCHETES ]</button>
+          </span>
         </div>
         <h1 class="logo-title">O MATINAL</h1>
         <p class="subtitle">&gt;&gt; EVENTOS · CURSOS · PALESTRAS · SUMMITS · NETWORKING &lt;&lt;<br>
