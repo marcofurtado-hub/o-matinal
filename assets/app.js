@@ -75,11 +75,13 @@ async function main() {
     hl.appendChild(li);
   }
 
-  // agenda de eventos
+  // agenda de eventos — descarta os que já terminaram, mesmo em edição antiga
+  const hoje = new Date().toISOString().slice(0, 10);
+  const eventos = (data.events ?? []).filter((ev) => (ev.end ?? ev.start) >= hoje);
   const agenda = document.getElementById("agenda-list");
   agenda.innerHTML = "";
-  if (data.events?.length) {
-    for (const ev of data.events) {
+  if (eventos.length) {
+    for (const ev of eventos) {
       agenda.appendChild(el("li", null,
         `<span class="agenda-date">${esc(fmtEventRange(ev.start, ev.end))}</span>` +
         `<span class="agenda-body"><a href="${esc(ev.url)}" target="_blank" rel="noopener">${esc(ev.name)}</a>` +

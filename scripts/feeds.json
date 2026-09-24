@@ -270,44 +270,12 @@
   },
   "events": [
     {
-      "start": "2026-08-11",
-      "end": "2026-08-16",
-      "tag": "DESIGN",
-      "name": "DW! Semana de Design — Rio de Janeiro",
-      "where": "CasaShopping, Rio de Janeiro",
-      "url": "https://dwsemanadedesign.com.br/"
-    },
-    {
-      "start": "2026-08-26",
-      "end": "2026-08-30",
+      "start": "2026-09-29",
+      "end": "2026-10-02",
       "tag": "GAMES",
-      "name": "gamescom 2026",
-      "where": "Colônia, Alemanha (Opening Night Live: 25/08)",
-      "url": "https://www.gamescom.global/en"
-    },
-    {
-      "start": "2026-08-26",
-      "end": "2026-08-28",
-      "tag": "STARTUPS",
-      "name": "Startup Summit 2026",
-      "where": "CentroSul, Florianópolis — Sebrae/ACATE",
-      "url": "https://www.startupsummit.com.br/"
-    },
-    {
-      "start": "2026-09-17",
-      "end": "2026-09-21",
-      "tag": "GAMES",
-      "name": "Tokyo Game Show 2026 — 30ª edição",
-      "where": "Makuhari Messe, Japão (público: 19–21/09)",
-      "url": "https://tgs.cesa.or.jp/2026/en"
-    },
-    {
-      "start": "2026-09-23",
-      "end": "2026-09-25",
-      "tag": "CGI",
-      "name": "Blender Conference 2026",
-      "where": "Felix Meritis, Amsterdã",
-      "url": "https://conference.blender.org/2026/"
+      "name": "SBGames 2026 — XXV Simpósio Brasileiro de Jogos",
+      "where": "Goiânia, GO — academia + indústria de games",
+      "url": "https://www.sbgames.org/"
     },
     {
       "start": "2026-10-06",
@@ -334,28 +302,12 @@
       "url": "https://www.cantonfair.net/"
     },
     {
-      "start": "2026-10-17",
-      "end": "2026-10-25",
-      "tag": "DESIGN",
-      "name": "Dutch Design Week 2026",
-      "where": "Eindhoven, Holanda",
-      "url": "https://ddw.nl/"
-    },
-    {
       "start": "2026-10-19",
       "end": "2026-10-22",
       "tag": "EMPREENDEDORISMO",
       "name": "Feira do Empreendedor Sebrae-SP 2026 — gratuita",
       "where": "São Paulo Expo — +100 mil visitantes",
       "url": "https://feiradoempreendedor.sebraesp.com.br/"
-    },
-    {
-      "start": "2026-10-23",
-      "end": "2026-10-25",
-      "tag": "ARTE",
-      "name": "LightBox Expo 2026 — ilustração, animação e games",
-      "where": "Pasadena Convention Center, EUA",
-      "url": "https://lightboxexpo.com/"
     },
     {
       "start": "2026-11-04",
@@ -374,20 +326,20 @@
       "url": "https://expofranchisingabf.rio.br/"
     },
     {
-      "start": "2026-11-09",
-      "end": "2026-11-12",
-      "tag": "TECH",
-      "name": "Web Summit 2026",
-      "where": "Altice Arena + FIL, Lisboa, Portugal",
-      "url": "https://websummit.com/"
-    },
-    {
       "start": "2026-12-03",
       "end": "2026-12-06",
       "tag": "ARTE",
       "name": "CCXP26",
       "where": "São Paulo Expo (Spoiler Night: 02/12)",
       "url": "https://ccxp.com.br/"
+    },
+    {
+      "start": "2027-04-22",
+      "end": "2027-04-25",
+      "tag": "GAMES",
+      "name": "gamescom latam 2027",
+      "where": "Distrito Anhembi, São Paulo",
+      "url": "https://latam.gamescom.global/pt/"
     }
   ],
   "courses": [
