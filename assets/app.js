@@ -57,6 +57,23 @@ async function main() {
     return;
   }
 
+  // ticker de cotações
+  if (data.ticker?.length) {
+    const track = document.getElementById("ticker-track");
+    const strip = data.ticker.map((t) =>
+      `<span class="tk-item"><span class="tk-label">${esc(t.label)}</span> ${esc(t.value)}` +
+      (t.delta ? ` <span class="tk-delta ${t.up ? "up" : "down"}">${esc(t.delta)}</span>` : "") +
+      `</span>`).join('<span class="tk-sep">◆</span>');
+    track.innerHTML = `${strip}<span class="tk-sep">◆</span>`.repeat(4);
+    document.getElementById("ticker").hidden = false;
+  }
+
+  // editorial do dia
+  if (data.editorial) {
+    document.getElementById("editorial-text").textContent = data.editorial;
+    document.getElementById("editorial").hidden = false;
+  }
+
   // navegação
   const nav = document.getElementById("section-nav");
   for (const s of data.sections) {
@@ -173,9 +190,34 @@ function setupTheme() {
 }
 setupTheme();
 
-// ---- 🎧 Ouvir manchetes (voz do navegador, sem custo) ----
-function setupListen(data) {
+// ---- 🎧 Ouvir manchetes: episódio do podcast, ou voz do navegador ----
+async function setupListen(data) {
   const btn = document.getElementById("listen");
+
+  // se existe episódio de hoje (ou o mais recente), toca o MP3 com voz neural
+  let episode = null;
+  try {
+    const res = await fetch("data/episodes.json", { cache: "no-store" });
+    if (res.ok) episode = (await res.json())[0] ?? null;
+  } catch {}
+
+  if (episode) {
+    const player = new Audio(episode.url);
+    const idle = () => { btn.classList.remove("playing"); btn.textContent = "[ ♬ OUVIR MANCHETES ]"; };
+    player.onended = player.onerror = idle;
+    btn.addEventListener("click", () => {
+      if (player.paused) {
+        player.play();
+        btn.classList.add("playing");
+        btn.textContent = "⏸ PAUSAR";
+      } else {
+        player.pause();
+        idle();
+      }
+    });
+    return;
+  }
+
   if (!("speechSynthesis" in window)) { btn.style.display = "none"; return; }
 
   let playing = false;

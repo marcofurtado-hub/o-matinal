@@ -99,6 +99,55 @@ a:hover { background: var(--pink); color: var(--bar-ink); }
 .dos-btn:hover { background: var(--pink); color: var(--bar-ink); border-color: var(--pink); }
 .dos-btn.playing { background: var(--aqua); color: var(--bar-ink); border-color: var(--aqua); }
 
+/* ---------- Ticker de cotações ---------- */
+
+.ticker {
+  overflow: hidden;
+  border-bottom: 1px solid var(--rule);
+  padding: 3px 0;
+  white-space: nowrap;
+}
+.ticker-track {
+  display: inline-block;
+  animation: ticker-scroll 45s linear infinite;
+}
+.ticker:hover .ticker-track { animation-play-state: paused; }
+@keyframes ticker-scroll {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+.tk-item { font-size: 18px; }
+.tk-label { color: var(--pink-deep); }
+.tk-delta.up { color: var(--aqua-deep); }
+.tk-delta.down { color: var(--pink-deep); }
+.tk-sep { color: var(--ink-faint); margin: 0 14px; font-size: 12px; vertical-align: 2px; }
+
+@media (prefers-reduced-motion: reduce) {
+  .ticker-track { animation: none; }
+}
+
+/* ---------- Editorial ---------- */
+
+.panel-title.dark { background: var(--ink); color: var(--paper); }
+
+.editorial-text {
+  font-size: 21px;
+  line-height: 1.45;
+  padding: 2px 0 4px;
+}
+.editorial-text::first-letter {
+  font-family: "Press Start 2P", monospace;
+  font-size: 1.6em;
+  color: var(--pink-deep);
+  padding-right: 4px;
+}
+.editorial-byline {
+  color: var(--ink-faint);
+  font-size: 16px;
+  font-style: italic;
+  text-align: right;
+}
+
 .logo-title {
   color: var(--ink);
   background: var(--paper);

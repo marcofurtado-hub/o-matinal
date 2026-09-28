@@ -2,9 +2,10 @@
 // Busca os feeds RSS/Atom configurados em feeds.json e gera data/news.json.
 // Sem dependências externas — roda com Node >= 18.
 
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { homedir } from "node:os";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const CONFIG = JSON.parse(readFileSync(join(ROOT, "scripts/feeds.json"), "utf8"));
@@ -203,14 +204,118 @@ const highlights = sections
   .map((s) => s.items[0] && { ...s.items[0], sectionName: s.name, sectionId: s.id })
   .filter(Boolean);
 
+// ---- Ticker de cotações (APIs públicas gratuitas) ----
+async function fetchJson(url) {
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), TIMEOUT_MS);
+  try {
+    const res = await fetch(url, { signal: ctrl.signal });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return await res.json();
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function buildTicker() {
+  const ticker = [];
+  try {
+    const fx = await fetchJson("https://economia.awesomeapi.com.br/json/last/USD-BRL,EUR-BRL,BTC-BRL");
+    const fmt = (v, dec = 2) =>
+      Number(v).toLocaleString("pt-BR", { minimumFractionDigits: dec, maximumFractionDigits: dec });
+    for (const [key, label, dec] of [["USDBRL", "DÓLAR", 2], ["EURBRL", "EURO", 2], ["BTCBRL", "BITCOIN", 0]]) {
+      const q = fx[key];
+      if (!q) continue;
+      const pct = Number(q.pctChange);
+      ticker.push({
+        label,
+        value: `R$ ${fmt(q.bid, dec)}`,
+        delta: `${pct >= 0 ? "▲" : "▼"} ${fmt(Math.abs(pct))}%`,
+        up: pct >= 0,
+      });
+    }
+  } catch (err) {
+    console.warn(`  FALHOU cotações: ${err.message}`);
+  }
+  try {
+    const selic = await fetchJson("https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados/ultimos/1?formato=json");
+    const v = selic?.[0]?.valor;
+    if (v) ticker.push({ label: "SELIC", value: `${String(v).replace(".", ",")}% a.a.` });
+  } catch (err) {
+    console.warn(`  FALHOU Selic: ${err.message}`);
+  }
+  return ticker;
+}
+
+// ---- Editorial do dia (Claude Haiku — centavos por edição) ----
+// Lê a chave de ~/.config/omatinal/env (ANTHROPIC_API_KEY=...) ou do ambiente.
+function apiKey() {
+  if (process.env.ANTHROPIC_API_KEY) return process.env.ANTHROPIC_API_KEY;
+  const envFile = join(homedir(), ".config/omatinal/env");
+  if (!existsSync(envFile)) return null;
+  const m = readFileSync(envFile, "utf8").match(/^ANTHROPIC_API_KEY=(.+)$/m);
+  return m ? m[1].trim() : null;
+}
+
+async function buildEditorial(sections) {
+  const key = apiKey();
+  if (!key) {
+    console.log("\n(editorial desligado: sem ANTHROPIC_API_KEY em ~/.config/omatinal/env)");
+    return null;
+  }
+  const resumo = sections
+    .map((s) => `## ${s.name}\n` + s.items.slice(0, 5).map((i) => `- ${i.title}`).join("\n"))
+    .join("\n\n");
+  const hoje = new Date().toLocaleDateString("pt-BR", { weekday: "long", day: "numeric", month: "long" });
+  try {
+    const res = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: {
+        "x-api-key": key,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+      },
+      body: JSON.stringify({
+        model: "claude-haiku-4-5",
+        max_tokens: 1000,
+        system:
+          "Você é o editor-chefe de 'O Matinal', jornal pessoal diário de um leitor brasileiro " +
+          "interessado em jogos indie, arte clássica e ilustração, quadrinhos, finanças e " +
+          "empreendedorismo, teologia reformada, CGI/IA e design industrial. Escreva o editorial " +
+          "de abertura da edição: um único parágrafo de 90 a 130 palavras, em português do Brasil, " +
+          "costurando os 3 ou 4 assuntos mais relevantes das manchetes do dia. Tom sóbrio e caloroso " +
+          "de coluna de jornal, sem hype. Texto corrido, sem markdown, sem listas, sem saudação inicial.",
+        messages: [
+          { role: "user", content: `Manchetes de hoje, ${hoje}:\n\n${resumo}` },
+        ],
+      }),
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`);
+    const data = await res.json();
+    const text = (data.content ?? []).filter((b) => b.type === "text").map((b) => b.text).join(" ").trim();
+    if (!text) throw new Error("resposta vazia");
+    const usage = data.usage ?? {};
+    console.log(`\nEditorial gerado (${usage.input_tokens ?? "?"} tokens in, ${usage.output_tokens ?? "?"} out).`);
+    return text;
+  } catch (err) {
+    console.warn(`\nFALHOU editorial: ${err.message} — a edição sai sem ele.`);
+    return null;
+  }
+}
+
 // Agenda: só eventos que ainda não terminaram, em ordem de início
 const today = new Date().toISOString().slice(0, 10);
 const events = (CONFIG.events ?? [])
   .filter((e) => (e.end ?? e.start) >= today)
   .sort((a, b) => a.start.localeCompare(b.start));
 
+const ticker = await buildTicker();
+const editorial = await buildEditorial(sections);
+
 const out = {
   generatedAt: new Date().toISOString(),
+  ticker,
+  editorial,
   highlights,
   events,
   courses: CONFIG.courses ?? [],

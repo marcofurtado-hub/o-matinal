@@ -31,11 +31,20 @@
             <button id="listen" class="dos-btn" title="Ouvir as manchetes do dia">[ &#9836; OUVIR MANCHETES ]</button>
           </span>
         </div>
+        <div class="ticker" id="ticker" hidden>
+          <div class="ticker-track" id="ticker-track"></div>
+        </div>
         <h1 class="logo-title">O MATINAL</h1>
         <p class="subtitle">&gt;&gt; EVENTOS · CURSOS · PALESTRAS · SUMMITS · NETWORKING &lt;&lt;<br>
         <span id="today-date">—</span> · o café da manhã de Marco Furtado</p>
         <nav class="section-nav" id="section-nav"></nav>
       </header>
+
+      <section class="panel editorial" id="editorial" aria-label="Editorial do dia" hidden>
+        <h2 class="panel-title dark">■ EDITORIAL.TXT</h2>
+        <p class="editorial-text" id="editorial-text"></p>
+        <p class="editorial-byline">— o editor-robô, sobre a edição de hoje</p>
+      </section>
 
       <section class="panel agenda" id="agenda" aria-label="Agenda de eventos">
         <h2 class="panel-title">■ AGENDA.DAT — eventos e summits</h2>
@@ -60,6 +69,7 @@
         <p>═══════════════════════════════════════════</p>
         <p><strong>O MATINAL</strong> — nova edição compilada todos os dias às 06:00 (Brasília).</p>
         <p id="generated-at"></p>
+        <p class="small"><a href="podcast.xml" id="podcast-link">📻 PODCAST.RSS — assine e ouça as manchetes no carro</a></p>
         <p class="small">Pressione qualquer manchete para ler na fonte original<span class="cursor">▮</span></p>
       </footer>
 

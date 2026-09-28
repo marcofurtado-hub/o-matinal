@@ -9,7 +9,10 @@ cd "$(dirname "$0")/.."
 echo "=== O Matinal — $(date '+%Y-%m-%d %H:%M') ==="
 node scripts/fetch.mjs
 
-git add data/news.json
+# episódio de áudio (não derruba a edição se falhar)
+node scripts/podcast.mjs || echo "AVISO: podcast falhou; edição segue sem áudio."
+
+git add data/news.json data/episodes.json podcast.xml 2>/dev/null || git add data/news.json
 if git diff --cached --quiet; then
   echo "Nada de novo hoje."
   exit 0
