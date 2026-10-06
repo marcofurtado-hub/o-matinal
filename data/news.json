@@ -1,89 +1,89 @@
 {
-  "generatedAt": "2026-10-05T09:01:30.674Z",
+  "generatedAt": "2026-10-06T09:01:23.300Z",
   "ticker": [
     {
       "label": "DÓLAR",
-      "value": "R$ 5,22",
-      "delta": "▲ 0,11%",
-      "up": true
-    },
-    {
-      "label": "EURO",
-      "value": "R$ 5,86",
-      "delta": "▼ 0,35%",
+      "value": "R$ 5,00",
+      "delta": "▼ 4,27%",
       "up": false
     },
     {
+      "label": "EURO",
+      "value": "R$ 5,62",
+      "delta": "▲ 0,19%",
+      "up": true
+    },
+    {
       "label": "BITCOIN",
-      "value": "R$ 446.001",
-      "delta": "▼ 0,39%",
+      "value": "R$ 433.344",
+      "delta": "▼ 2,84%",
       "up": false
     }
   ],
   "editorial": null,
   "highlights": [
     {
-      "title": "Filme O Senhor dos Anéis de Stephen Colbert ainda em desenvolvimento após a fusão Paramount-Warner Bros.",
-      "link": "https://www.polygon.com/stephen-colbert-lord-of-the-rings-shadows-of-the-past-still-in-development-skydance/",
-      "source": "Polygon",
-      "date": "2026-10-05T08:58:50.000Z",
-      "snippet": "O Senhor dos Anéis: Sombras do Passado ainda está em desenvolvimento após a fusão da Skydance, apesar dos rumores em contrário.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/elijah-wood-the-lord-of-the-rings.jpg",
-      "titleOriginal": "Stephen Colbert's Lord of the Rings Movie Still in Development after Paramount-Warner Bros. Merger",
+      "title": "“Esta é a experiência definitiva de tiro com extração de Call of Duty” – Infinity Ward detalha o novo modo DMZ em Modern Warfare 4",
+      "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-reveal",
+      "source": "Eurogamer",
+      "date": "2026-10-06T08:57:36.000Z",
+      "snippet": "O estúdio Infinity Ward de Call of Duty: Modern Warfare 4 está apostando alto no DMZ – o modo de tiro de extração do jogo – se tornando outro pilar importante da série. Em uma ampla postagem no blog e no diário do desenvolvedor, aprendemos mais sobre o estudo…",
+      "image": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-screen-2-crop.jpeg?width=690&quality=85&format=jpg&auto=webp",
+      "titleOriginal": "\"This is Call of Duty's definitive extraction shooter experience\" - Infinity Ward details the new DMZ mode in Modern Warfare 4",
       "sectionName": "Jogos & Indie",
       "sectionId": "jogos"
     },
     {
-      "title": "Debaixo das árvores onde ninguém vê: prévia do especial de Halloween nº 1",
-      "link": "https://bleedingcool.com/comics/beneath-the-trees-where-nobody-sees-halloween-special-1-preview/",
+      "title": "Buffy, Angel & Firefly 2027 Relançamento: Daily LITG, 6 de outubro de 2026",
+      "link": "https://bleedingcool.com/comics/buffy-angel-firefly-2027-relaunch-daily-litg-6th-of-october-2026/",
       "source": "Bleeding Cool — Comics",
-      "date": "2026-10-05T04:26:09.000Z",
-      "snippet": "Sob as árvores onde ninguém vê: Especial de Halloween nº 1 reúne Tynion, Fleecs e muito mais ao redor da fogueira para contar histórias assustadoras dos feitos de Samantha Strong.",
+      "date": "2026-10-06T07:02:09.000Z",
+      "snippet": "O relançamento de Buffy, Angel e Firefly 2027 foi o artigo mais lido no Bleeding Cool ontem. Lying In The Gutters é a correria diária",
       "image": "",
-      "titleOriginal": "Beneath the Trees Where Nobody Sees: Halloween Special #1 Preview",
+      "titleOriginal": "Buffy, Angel & Firefly 2027 Relaunch: Daily LITG, 6th Of October, 2026",
       "sectionName": "Arte, Ilustração & Quadrinhos",
       "sectionId": "arte"
     },
     {
-      "title": "Eleições 2026: quem não votou no 1º turno pode votar no 2º? Veja a regra do TSE",
-      "link": "https://exame.com/brasil/quem-nao-votou-no-1o-turno-pode-votar-no-2o-veja-a-regra-do-tse/",
-      "source": "Exame",
-      "date": "2026-10-05T09:00:15.000Z",
-      "snippet": "Segundo turno acontece em 25 de outubro; veja como justificar a ausência no primeiro turno",
-      "image": "",
+      "title": "Moda ‘western’ influenciou o consumo e o comportamento, avaliam influenciadoras",
+      "link": "https://www.infomoney.com.br/business/moda-western-influenciou-o-consumo-e-o-comportamento-avaliam-influenciadoras/",
+      "source": "InfoMoney",
+      "date": "2026-10-06T09:00:00.000Z",
+      "snippet": "Música e audiovisual capturaram sentimento em direção ao campo e, no Brasil, tentam capturar dinheiro do agro The post Moda ‘western’ influenciou o consumo e o comportamento, avaliam influenciadoras appeared first on InfoMoney .",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/001_20250428_CCT_LA_Dakdouk_WEB_red.jpg?fit=300%2C200&quality=70&strip=all",
       "sectionName": "Finanças & Empreendedorismo",
       "sectionId": "financas"
     },
     {
-      "title": "Ed Sheeran prova que Trueman está certo: todos nós vivemos no mundo de Marx agora",
-      "link": "https://www.challies.com/articles/ed-sheeran-proves-trueman-right-we-all-live-in-marxs-world-now/",
+      "title": "Dias de grandes negócios para cristãos",
+      "link": "https://www.challies.com/articles/prime-big-deals-days-for-christians/",
       "source": "Tim Challies",
-      "date": "2026-10-05T04:02:00.000Z",
-      "snippet": "Ed Sheeran está com muitos problemas. A sua mudança da neutralidade para a tentativa de apaziguar ambos os lados pouco fez para resgatá-lo da multidão. Para entender por quê, fui ajudado por Carl Trueman. Veja também A La Carte (6 de março) A La Car…",
-      "image": "https://www.challies.com/media/2026/10/Emptystage.png",
-      "titleOriginal": "Ed Sheeran Proves Trueman Right: We All Live in Marx’s World Now",
+      "date": "2026-10-06T04:02:00.000Z",
+      "snippet": "Estes são os primeiros dias de grandes negócios na Amazon. Esta página é um resumo de algumas das melhores ofertas que consegui rastrear. Verifique algumas vezes na terça e quarta-feira, pois adicionarei ofertas à medida que as encontrar. Veja também as ofertas do primeiro dia…",
+      "image": "https://www.challies.com/media/2026/10/pbdd-2026-everything-to-know-hero-5-amazon-news-lt-090926-scaled.jpg",
+      "titleOriginal": "Prime Big Deals Days for Christians",
       "sectionName": "Teologia Reformada",
       "sectionId": "teologia"
     },
     {
-      "title": "Chappell Roan reinventado como um personagem 3D no estilo League of Legends",
-      "link": "https://80.lv/articles/chappell-roan-reimagined-as-a-league-of-legends-style-3d-character/",
+      "title": "“Prêmios não são o que mais me lembrarei”: Hellblade Dev supostamente inicia demissões",
+      "link": "https://80.lv/articles/ninja-theory-reportedly-begins-layoffs/",
       "source": "80 Level",
-      "date": "2026-10-05T08:37:00.000Z",
-      "snippet": "<p>Tereza Rozumkova, ex-artista de personagens da Riot Games, compartilhou sua brilhante recriação do visual de Chappell Roan no Festival de Música Daisy Chain Fields.</p>",
-      "image": "https://cdn.80.lv/api/upload/post/41844/images/6ac35ff827052/cover_800x800.jpg",
-      "titleOriginal": "Chappell Roan Reimagined as a League of Legends-Style 3D Character",
+      "date": "2026-10-06T08:48:00.000Z",
+      "snippet": "<p>O que acontecerá com Senua?</p>",
+      "image": "https://cdn.80.lv/api/upload/post/41860/images/6ac4b5f752267/cover_800x800.jpg",
+      "titleOriginal": "\"Awards Aren't What I Will Remember Most\": Hellblade Dev Reportedly Begins Layoffs",
       "sectionName": "CGI, IA & Animação",
       "sectionId": "cgi"
     },
     {
-      "title": "Móveis planos que realmente sobrevivem ao seu próximo passo",
-      "link": "https://www.yankodesign.com/2026/10/05/flat-pack-furniture-that-actually-survives-your-next-move/?utm_source=rss&utm_medium=rss&utm_campaign=flat-pack-furniture-that-actually-survives-your-next-move",
-      "source": "Yanko Design",
-      "date": "2026-10-05T08:15:00.000Z",
-      "snippet": "Móveis flat-pack que realmente sobrevivem ao seu próximo passo Móveis flat-pack são fáceis de apreciar no dia em que chegam. Ele passa pela porta e geralmente você consegue montá-lo sem muito...",
-      "image": "https://www.yankodesign.com/images/design_news/2026/10/flat-pack-furniture-that-actually-survives-your-next-move/flat-pack-08.jpg",
-      "titleOriginal": "Flat-Pack Furniture That Actually Survives Your Next Move",
+      "title": "no 139º aniversário de Le Corbusier, por que a Capela Ronchamp ainda desafia a arquitetura moderna",
+      "link": "https://www.designboom.com/architecture/le-corbusiers-ronchamp-chapel-modern-architecture/",
+      "source": "Designboom",
+      "date": "2026-10-06T08:58:28.000Z",
+      "snippet": "no 139º aniversário de Le Corbusier, a Capela Ronchamp ainda parece radical no uso da luz, do concreto e da paisagem. A postagem sobre o 139º aniversário de Le Corbusier, por que a Capela Ronchamp ainda desafia a arquitetura moderna apareceu primeiro no desi…",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/le-corbusiers-ronchamp-chapel-modern-architecture-designboom11-500x400-22b08q85r576.jpg",
+      "titleOriginal": "on le corbusier’s 139th birthday, why ronchamp chapel still challenges modern architecture",
       "sectionName": "Design Avançado",
       "sectionId": "design"
     }
@@ -233,112 +233,112 @@
       ],
       "items": [
         {
-          "title": "Filme O Senhor dos Anéis de Stephen Colbert ainda em desenvolvimento após a fusão Paramount-Warner Bros.",
-          "link": "https://www.polygon.com/stephen-colbert-lord-of-the-rings-shadows-of-the-past-still-in-development-skydance/",
-          "source": "Polygon",
-          "date": "2026-10-05T08:58:50.000Z",
-          "snippet": "O Senhor dos Anéis: Sombras do Passado ainda está em desenvolvimento após a fusão da Skydance, apesar dos rumores em contrário.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/elijah-wood-the-lord-of-the-rings.jpg",
-          "titleOriginal": "Stephen Colbert's Lord of the Rings Movie Still in Development after Paramount-Warner Bros. Merger"
-        },
-        {
-          "title": "“Optamos por não participar de algumas coisas logo no início”: como a pequena equipe que está fazendo o No Law planeja fazer com que pareça tão grande quanto Cyberpunk 2077",
-          "link": "https://www.rockpapershotgun.com/we-opted-out-of-some-things-really-early-on-how-the-24-person-team-making-no-law-plan-to-make-it-look-as-big-as-cyberpunk-2077",
-          "source": "Rock Paper Shotgun",
-          "date": "2026-10-05T08:30:00.000Z",
-          "snippet": "If you've watched the trailers for No Law or the tech demo that developer Neon Giant showed off at Unreal Fest earlier this year, it would be easy to believe the game has a similar scope to CD Projekt Red's Cyberpunk 2077 . After all, bo…",
-          "image": "https://assetsio.gnwcdn.com/No-Law-grimy-alley.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "titleOriginal": "\"We opted out of some things really early on\": How the small team making No Law plan to make it look as big as Cyberpunk 2077"
-        },
-        {
-          "title": "Arc Raiders está recebendo um teste gratuito para comemorar sua maior atualização até agora",
-          "link": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail",
+          "title": "“Esta é a experiência definitiva de tiro com extração de Call of Duty” – Infinity Ward detalha o novo modo DMZ em Modern Warfare 4",
+          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-reveal",
           "source": "Eurogamer",
-          "date": "2026-10-05T08:21:21.000Z",
-          "snippet": "Arc Raiders studio Embark is making the extraction shooter free to play for four days alongside the launch of the game's biggest update yet, Frozen Trail. The studio spent the last few days detailing all the new aspects of the update, an…",
-          "image": "https://assetsio.gnwcdn.com/Arc-Raiders-deluxe-set.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "titleOriginal": "Arc Raiders is getting a free trial to celebrate its biggest update yet"
+          "date": "2026-10-06T08:57:36.000Z",
+          "snippet": "O estúdio Infinity Ward de Call of Duty: Modern Warfare 4 está apostando alto no DMZ – o modo de tiro de extração do jogo – se tornando outro pilar importante da série. Em uma ampla postagem no blog e no diário do desenvolvedor, aprendemos mais sobre o estudo…",
+          "image": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-screen-2-crop.jpeg?width=690&quality=85&format=jpg&auto=webp",
+          "titleOriginal": "\"This is Call of Duty's definitive extraction shooter experience\" - Infinity Ward details the new DMZ mode in Modern Warfare 4"
         },
         {
-          "title": "21 anos atrás, uma brilhante série de ficção científica mudou a TV para sempre com uma mudança de última hora",
-          "link": "https://www.polygon.com/lost-orientation-episode-mystery-box-21st-anniversary/",
+          "title": "As 8 maiores perguntas após o final da 1ª temporada de 'Lanterns', explicadas",
+          "link": "https://www.polygon.com/8-burning-questions-after-lanterns-season-1-finale/",
           "source": "Polygon",
-          "date": "2026-10-05T08:00:15.000Z",
-          "snippet": "Lost season 2 is where the show's mysteries really began to deepen, and \"Orientation\" marked a real turning point.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/lost-s2e2-desmond.jpg",
-          "titleOriginal": "21 Years Ago, a Brilliant Sci-Fi Series Changed TV Forever With One Last-Minute Change"
+          "date": "2026-10-06T08:00:15.000Z",
+          "snippet": "Hal's fate, John's rogue turn, and sleeper agents are only some of the lingering threads left at the end of Lanterns",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/l-intro-1787582241.jpg",
+          "titleOriginal": "8 Biggest Questions After the 'Lanterns' Season 1 Finale, Explained"
         },
         {
-          "title": "5 mudanças cruciais na 4ª temporada de 'Legend of Vox Machina' feitas para a campanha de papel crítico 1",
-          "link": "https://www.polygon.com/legend-of-vox-machina-season-4-vs-critical-role-campaign-1-differences/",
+          "title": "A nova atualização PvE de Escape From Tarkov torna oficialmente o jogo mais fácil para iniciantes",
+          "link": "https://www.polygon.com/escape-from-tarkov-pve-update-1-2-0-0-exfil-brothers-prestige/",
           "source": "Polygon",
-          "date": "2026-10-05T07:48:15.000Z",
-          "snippet": "Aqui estão as maiores diferenças entre a peça real de D&D de Critical Role e o show animado, Vox Machina",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/1-2.jpg",
-          "titleOriginal": "5 Crucial Changes 'Legend of Vox Machina' Season 4 Made to Critical Role Campaign 1"
+          "date": "2026-10-06T07:00:17.000Z",
+          "snippet": "The EXFIL Brothers program rewards veterans for playing with noobs, bot behavior has been overhauled, and more in Escape From Tarkov's PvE update.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/escape-from-tarkov-pve-update-1200.jpg",
+          "titleOriginal": "Escape From Tarkov’s New PvE Update Officially Makes the Game Easier for Newbies"
         },
         {
-          "title": "65 anos atrás, o episódio mais aterrorizante de 'The Twilight Zone' quebrou todas as suas próprias regras",
-          "link": "https://www.polygon.com/the-twilight-zone-the-shelter-anniversary/",
+          "title": "A nova série quase perfeita de 8 partes de Stephen King é lançada oficialmente no Prime Video esta semana",
+          "link": "https://www.polygon.com/stephen-king-carrie-prime-video/",
           "source": "Polygon",
-          "date": "2026-10-05T04:00:20.000Z",
-          "snippet": "The 1961 epsidoe of The Twilight Zone, \"The Shelter\" was all about the worst of human nature",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/image.png",
-          "titleOriginal": "65 Years Ago, the Most Terrifying Episode of 'The Twilight Zone' Broke All Its Own Rules"
+          "date": "2026-10-06T05:00:15.000Z",
+          "snippet": "Assista agora à nova adaptação da série ‘Carrie’ em 8 partes no Prime Video!",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/carrie.jpg",
+          "titleOriginal": "Stephen King’s New Near-Perfect 8-Part Series Officially Releases on Prime Video This Week"
         },
         {
-          "title": "25 anos depois, um dos maiores thrillers policiais já feitos é gratuito em streaming",
-          "link": "https://www.polygon.com/training-day-denzel-washington-free-to-stream-on-roku/",
+          "title": "61 anos depois, a lendária sequência de faroeste de 132 minutos de Clint Eastwood é gratuita no YouTube",
+          "link": "https://www.polygon.com/for-a-few-dollars-more-clint-eastwood-free-on-youtube-october-2026/",
           "source": "Polygon",
-          "date": "2026-10-05T03:00:17.000Z",
-          "snippet": "A atuação inesquecível de Denzel Washington em Training Day é inesquecível e teve um grande impacto nas representações cinematográficas de vilões.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/denzel-thrainign-day.jpg",
-          "titleOriginal": "25 Years Later, One of the Greatest Crime Thrillers Ever Made Is Free on Streaming"
+          "date": "2026-10-06T04:00:21.000Z",
+          "snippet": "The second film in Clint Eastwood's \"The Man with No Name Trilogy,\" For a Few Dollars More, is free on youtube, making this perfect time to watch",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/clint-eastwood.jpg",
+          "titleOriginal": "61 Years Later, Clint Eastwood's 132-Minute Legendary Western Sequel Is Free on YouTube"
         },
         {
-          "title": "Link e Epona de Zelda: Ocarina of Time ganham novo conjunto oficial de Lego",
-          "link": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-lego-set/",
+          "title": "GTA 6 pode finalmente resolver o enorme problema com drogas nos jogos",
+          "link": "https://www.polygon.com/gta-6-cocaine-drugs-effects/",
           "source": "Polygon",
-          "date": "2026-10-05T02:36:33.000Z",
-          "snippet": "Nintendo and Lego have announced a new Legend of Zelda: Ocarina of Time set for the series' 40th anniversary.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_02.jpg",
-          "titleOriginal": "Zelda: Ocarina of Time's Link and Epona Get Official New Lego Set"
+          "date": "2026-10-06T00:00:16.000Z",
+          "snippet": "O conselho de classificação PEGI da Europa revelou que GTA 6 permitirá que os jogadores usem cocaína a qualquer momento; veja como isso pode afetar a jogabilidade.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/gta-6-disc-physical-edition-leak.jpg",
+          "titleOriginal": "GTA 6 Could Finally Fix Gaming's Huge Drug Problem"
         },
         {
-          "title": "O produtor de Dynasty Warriors prefere fazer novos jogos do que mais remasterizações",
-          "link": "https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters",
+          "title": "38 anos atrás, 'Doctor Who' dobrou seu conceito de ficção científica mais inventivo",
+          "link": "https://www.polygon.com/doctor-who-remembrance-of-the-daleks/",
+          "source": "Polygon",
+          "date": "2026-10-05T23:00:16.000Z",
+          "snippet": "Doctor Who made history 38 years ago by beginning the end of the Doctor's most monstrous foe.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/doctor-who-sylvester-mccoy-1.jpg",
+          "titleOriginal": "38 Years Ago, 'Doctor Who' Doubled Down on Its Most Inventive Sci-Fi Concept"
+        },
+        {
+          "title": "Os desenvolvedores do GTA 6 tentaram “não entrar na onda” das tendências passageiras e, em vez disso, criaram suas “próprias versões tendenciosas e exageradas”",
+          "link": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
           "source": "Eurogamer",
-          "date": "2026-10-04T17:07:59.000Z",
-          "snippet": "O produtor de Dynasty Warriors, Tomohiko Sho, diz que prefere gastar o que resta de sua carreira fazendo novos jogos do que remasterizar os antigos. Leia mais",
-          "image": "https://assetsio.gnwcdn.com/ss_7aa2b9e95e7fd430a64edcbd66cbb66617b6b4f3.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "titleOriginal": "Dynasty Warriors producer would rather make new games than more remasters"
+          "date": "2026-10-05T20:14:26.000Z",
+          "snippet": "Criar uma sátira oportuna pode ser difícil quando o desenvolvimento leva meia década ou mais - é a razão pela qual South Park ficou preso com seu estilo de arte bruto por décadas, mas os desenvolvedores do GTA 6 não podem simplesmente substituir sua tecnologia de classe mundial por…",
+          "image": "https://assetsio.gnwcdn.com/jason-lucia-gta-6-romance-relationship.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "titleOriginal": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\""
         },
         {
-          "title": "Os modders ficam furiosos quando os mods de mashup movidos por Claude inundam as redes sociais",
-          "link": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
+          "title": "Halo Studios diz que “é absolutamente nossa intenção” lançar um novo livro de Halo, apesar das demissões e de rumores de reinicialização da história da Activision",
+          "link": "https://www.eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot",
           "source": "Eurogamer",
-          "date": "2026-10-04T16:38:22.000Z",
-          "snippet": "Long-time mod makers are not happy about the latest trend to take over their corner of the internet - the \"bullshit 'trend'\" of AI-generated, or \"vibe-coded\", mods. Read more",
-          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=690&quality=85&format=jpg&auto=webp",
-          "titleOriginal": "Modders are furious as Claude-powered mashup mods flood social media"
+          "date": "2026-10-05T18:54:20.000Z",
+          "snippet": "Halo Studios can't promise that the previously-announced Halo novel will land on shop shelves, but the company is \"determined\" to see the project cross the finish line regardless. Read more",
+          "image": "https://assetsio.gnwcdn.com/halo-infinite-photo-1382120.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "titleOriginal": "Halo Studios says \"it is absolutely our intent\" to release new Halo book, despite layoffs and a rumored lore reboot from Activision"
         },
         {
-          "title": "O chefe da PlatinumGames sugere que deseja expandir Bayonetta, já que o diretor de Stellar Blade chama a série de “indispensável”",
-          "link": "https://www.eurogamer.net/platinumgames-bayonetta-expand-atsushi-inaba-stellar-blade",
-          "source": "Eurogamer",
-          "date": "2026-10-04T13:37:29.000Z",
-          "snippet": "O presidente da PlatinumGames, Atsushi Inaba, deu a entender que gostaria de expandir a personagem de Bayonetta e ampliar seu mundo. Leia mais",
-          "image": "https://assetsio.gnwcdn.com/ab6a64d8e877d123f474ca0403ffcab42.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "titleOriginal": "PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series \"indispensable\""
+          "title": "Arc Raiders e The Finals definidos para adaptações para TV e cinema do co-produtor de Backrooms",
+          "link": "https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer",
+          "source": "Game Developer",
+          "date": "2026-10-05T18:30:00.000Z",
+          "snippet": "A Embark Studios, com sede na Suécia, garantiu adaptações para seus dois jogos de tiro multijogador, The Finals e ARC Raiders.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltaf56080e8948be9a/6aabc4cce6ac84edd3172ca7/Arc_Header.png?width=720&quality=80&disable=upscale",
+          "titleOriginal": "Arc Raiders and The Finals set for TV and film adaptations from Backrooms co-producer"
         },
         {
-          "title": "RuneScape Reignited será lançado em 2 de dezembro",
-          "link": "https://www.eurogamer.net/runescape-reignited-launch-date-2-december-economy-reset",
+          "title": "Arc Raiders e The Finals estão recebendo adaptações para cinema e TV em colaboração com a produtora Backrooms",
+          "link": "https://www.eurogamer.net/arc-raiders-the-finals-film-tv-show-backrooms",
           "source": "Eurogamer",
-          "date": "2026-10-04T12:40:21.000Z",
-          "snippet": "Jagex is offering long-time, lapsed, and new RuneScape players a clean slate with RuneScape Reignited. Read more",
-          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-13.25.20.png?width=690&quality=85&format=jpg&auto=webp",
-          "titleOriginal": "RuneScape Reignited launches 2 December"
+          "date": "2026-10-05T17:00:32.000Z",
+          "snippet": "Film and TV show adaptations of Arc Raiders and The Finals are in the works - and developer Embark Studios is collaborating with Chernin Entertainment to get the job done. Read more",
+          "image": "https://assetsio.gnwcdn.com/arc-raiders-spider.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "titleOriginal": "Arc Raiders and The Finals are getting film and TV adaptations in collaboration with the Backrooms production company"
+        },
+        {
+          "title": "Relatório: Ninja Theory demite trabalhadores após não conseguir se separar do Xbox",
+          "link": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
+          "source": "Game Developer",
+          "date": "2026-10-05T16:45:00.000Z",
+          "snippet": "O desenvolvedor dos títulos Hellblade e do recentemente anunciado Senua está supostamente cortando empregos depois que as tentativas de alienar o estúdio da empresa-mãe não tiveram sucesso.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt08fd428b64a8edaf/6ac3cb061cfa733f1aa10aba/senuasteam.jpg?width=720&quality=80&disable=upscale",
+          "titleOriginal": "Report: Ninja Theory lays off workers after failing to spin off from Xbox"
         }
       ]
     },
@@ -358,112 +358,112 @@
       ],
       "items": [
         {
-          "title": "Debaixo das árvores onde ninguém vê: prévia do especial de Halloween nº 1",
-          "link": "https://bleedingcool.com/comics/beneath-the-trees-where-nobody-sees-halloween-special-1-preview/",
+          "title": "Buffy, Angel & Firefly 2027 Relançamento: Daily LITG, 6 de outubro de 2026",
+          "link": "https://bleedingcool.com/comics/buffy-angel-firefly-2027-relaunch-daily-litg-6th-of-october-2026/",
           "source": "Bleeding Cool — Comics",
-          "date": "2026-10-05T04:26:09.000Z",
-          "snippet": "Sob as árvores onde ninguém vê: Especial de Halloween nº 1 reúne Tynion, Fleecs e muito mais ao redor da fogueira para contar histórias assustadoras dos feitos de Samantha Strong.",
+          "date": "2026-10-06T07:02:09.000Z",
+          "snippet": "O relançamento de Buffy, Angel e Firefly 2027 foi o artigo mais lido no Bleeding Cool ontem. Lying In The Gutters é a correria diária",
           "image": "",
-          "titleOriginal": "Beneath the Trees Where Nobody Sees: Halloween Special #1 Preview"
+          "titleOriginal": "Buffy, Angel & Firefly 2027 Relaunch: Daily LITG, 6th Of October, 2026"
         },
         {
-          "title": "Dragões na arte do Leste Asiático",
-          "link": "https://www.dailyartmagazine.com/dragons-in-east-asian-art/",
-          "source": "DailyArt Magazine",
-          "date": "2026-10-05T03:00:57.000Z",
-          "snippet": "The post Dragons in East Asian Art appeared first on DailyArt Magazine .",
-          "image": "",
-          "titleOriginal": "Dragons in East Asian Art"
-        },
-        {
-          "title": "O artista por trás do famoso retrato de Egon Schiele",
-          "link": "https://www.dailyartmagazine.com/karl-zakovsek-egon-schiele/",
-          "source": "DailyArt Magazine",
-          "date": "2026-10-05T03:00:50.000Z",
-          "snippet": "The post The Artist Behind Egon Schiele’s Famous Portrait appeared first on DailyArt Magazine .",
-          "image": "",
-          "titleOriginal": "The Artist Behind Egon Schiele’s Famous Portrait"
-        },
-        {
-          "title": "Peter Paul Rubens em 10 pinturas",
-          "link": "https://www.dailyartmagazine.com/rubens-in-10-paintings/",
-          "source": "DailyArt Magazine",
-          "date": "2026-10-05T03:00:42.000Z",
-          "snippet": "The post Peter Paul Rubens in 10 Paintings appeared first on DailyArt Magazine .",
-          "image": "",
-          "titleOriginal": "Peter Paul Rubens in 10 Paintings"
-        },
-        {
-          "title": "Por que as culturas antigas valorizavam mais o jade do que o ouro",
-          "link": "https://www.dailyartmagazine.com/the-pursuit-of-jade-art/",
-          "source": "DailyArt Magazine",
-          "date": "2026-10-05T03:00:42.000Z",
-          "snippet": "The post Why Ancient Cultures Valued Jade More Than Gold appeared first on DailyArt Magazine .",
-          "image": "",
-          "titleOriginal": "Why Ancient Cultures Valued Jade More Than Gold"
-        },
-        {
-          "title": "5 maiores pintores barrocos e suas obras",
-          "link": "https://www.dailyartmagazine.com/5-greatest-baroque-painters/",
-          "source": "DailyArt Magazine",
-          "date": "2026-10-05T03:00:25.000Z",
-          "snippet": "O post Os 5 Maiores Pintores Barrocos e Suas Obras apareceu pela primeira vez na Revista DailyArt.",
-          "image": "",
-          "titleOriginal": "5 Greatest Baroque Painters and Their Works"
-        },
-        {
-          "title": "A arte de Peter Paul Rubens em três pinturas mitológicas",
-          "link": "https://www.dailyartmagazine.com/peter-paulus-rubens-3-mythological-paintings/",
-          "source": "DailyArt Magazine",
-          "date": "2026-10-05T03:00:25.000Z",
-          "snippet": "The post The Art of Peter Paul Rubens in 3 Mythological Paintings appeared first on DailyArt Magazine .",
-          "image": "",
-          "titleOriginal": "The Art of Peter Paul Rubens in 3 Mythological Paintings"
-        },
-        {
-          "title": "Amostra do Demônio nº 1: Jason Blood tem um transtorno de personalidade dividida",
-          "link": "https://bleedingcool.com/comics/the-demon-1-preview-jason-blood-has-a-split-personality-disorder/",
+          "title": "Antevisão da Vigília da Morte #3: Colegas de trabalho imortais, drama antigo no local de trabalho",
+          "link": "https://bleedingcool.com/comics/death-vigil-3-preview-immortal-coworkers-ancient-workplace-drama/",
           "source": "Bleeding Cool — Comics",
-          "date": "2026-10-05T02:27:09.000Z",
-          "snippet": "The Demon #1 follows Jason Blood, a man with a shattered mind and a split soul, as a voice from Hell and soul-eating beasts close in. Out October 7.",
+          "date": "2026-10-06T04:26:09.000Z",
+          "snippet": "Vigília da Morte #3 chega às lojas em 7 de outubro, enquanto os aliados e inimigos de Clara se confundem e os novos problemas de Mia despertam memórias do passado longo e mortal de Bernadette.",
           "image": "",
-          "titleOriginal": "The Demon #1 Preview: Jason Blood Has a Split Personality Disorder"
+          "titleOriginal": "Death Vigil #3 Preview: Immortal Coworkers, Ancient Workplace Drama"
         },
         {
-          "title": "Prévia de Tales of Wonder # 2: Para onde foram todos os vilões?",
-          "link": "https://bleedingcool.com/comics/tales-of-wonder-2-preview-where-did-all-the-villains-go/",
-          "source": "Bleeding Cool — Comics",
-          "date": "2026-10-05T00:27:09.000Z",
-          "snippet": "Tales of Wonder #2 hits stores October 7th as America's Freedom Force lands in our world, and Stu and Jake start wondering where the villains are hiding.",
+          "title": "As melhores pinturas de lagos da história da arte",
+          "link": "https://www.dailyartmagazine.com/lake-paintings/",
+          "source": "DailyArt Magazine",
+          "date": "2026-10-06T03:00:53.000Z",
+          "snippet": "O post As melhores pinturas de lagos da história da arte apareceu pela primeira vez na revista DailyArt.",
           "image": "",
-          "titleOriginal": "Tales of Wonder #2 Preview: Where Did All the Villains Go?"
+          "titleOriginal": "Finest Lake Paintings in Art History"
         },
         {
-          "title": "Prévia de The Deadman #5: Marca Boston se prepara para o futuro",
-          "link": "https://bleedingcool.com/comics/the-deadman-5-preview-boston-brand-gets-wired-for-the-future/",
-          "source": "Bleeding Cool — Comics",
-          "date": "2026-10-04T22:27:09.000Z",
-          "snippet": "The Deadman #5 flings Boston Brand into a soulless future where the dead no longer move on, and he's human once more in the swampy Gr33n.",
+          "title": "História de obra-prima: Niágara, de Frederic Edwin Church",
+          "link": "https://www.dailyartmagazine.com/niagara-by-frederic-edwin-church/",
+          "source": "DailyArt Magazine",
+          "date": "2026-10-06T03:00:47.000Z",
+          "snippet": "O post Masterpiece Story: Niagara de Frederic Edwin Church apareceu pela primeira vez na DailyArt Magazine.",
           "image": "",
-          "titleOriginal": "The Deadman #5 Preview: Boston Brand Gets Wired for the Future"
+          "titleOriginal": "Masterpiece Story: Niagara by Frederic Edwin Church"
         },
         {
-          "title": "Prévia da meia-noite X-Men # 1: Vampiros finalmente mordem os X-Men",
-          "link": "https://bleedingcool.com/comics/midnight-x-men-1-preview-vampires-finally-bite-into-the-x-men/",
-          "source": "Bleeding Cool — Comics",
-          "date": "2026-10-04T20:27:09.000Z",
-          "snippet": "Midnight X-Men #1 brings Jonathan Hickman back to the X-Men as vampires and mutants edge toward war in the shadows of New York City this Wednesday.",
+          "title": "História de obra-prima: Noite de verão, de Kitty Kielland",
+          "link": "https://www.dailyartmagazine.com/kitty-kielland/",
+          "source": "DailyArt Magazine",
+          "date": "2026-10-06T03:00:06.000Z",
+          "snippet": "O post Masterpiece Story: Summer Night de Kitty Kielland apareceu pela primeira vez na DailyArt Magazine.",
           "image": "",
-          "titleOriginal": "Midnight X-Men #1 Preview: Vampires Finally Bite Into the X-Men"
+          "titleOriginal": "Masterpiece Story: Summer Night by Kitty Kielland"
         },
         {
-          "title": "Prévia de Superman: The Stranger # 2: Lois Lane cura Stranger Danger",
-          "link": "https://bleedingcool.com/comics/superman-the-stranger-2-preview-lois-lane-cures-stranger-danger/",
-          "source": "Bleeding Cool — Comics",
-          "date": "2026-10-04T18:26:08.000Z",
-          "snippet": "Superman: The Stranger #2 introduces Lois Lane as Clark searches for a way to help Metropolis's most invisible people in DC's Black Label series.",
+          "title": "História de obra-prima: Reno II, de Andreas Gursky",
+          "link": "https://www.dailyartmagazine.com/andreas-gursky-rhine-ii/",
+          "source": "DailyArt Magazine",
+          "date": "2026-10-06T03:00:00.000Z",
+          "snippet": "O post Masterpiece Story: Rhine II de Andreas Gursky apareceu pela primeira vez na DailyArt Magazine.",
           "image": "",
-          "titleOriginal": "Superman: The Stranger #2 Preview: Lois Lane Cures Stranger Danger"
+          "titleOriginal": "Masterpiece Story: Rhine II by Andreas Gursky"
+        },
+        {
+          "title": "Junto ao rio: rios famosos em 10 pinturas",
+          "link": "https://www.dailyartmagazine.com/rivers-in-paintings/",
+          "source": "DailyArt Magazine",
+          "date": "2026-10-06T03:00:00.000Z",
+          "snippet": "O post Down by the River: rios famosos em 10 pinturas apareceu pela primeira vez na revista DailyArt.",
+          "image": "",
+          "titleOriginal": "Down by the River: Famous Rivers in 10 Paintings"
+        },
+        {
+          "title": "Prévia da Terra do Nunca # 4: Pais lutam contra pesadelos flutuantes",
+          "link": "https://bleedingcool.com/comics/land-of-never-4-preview-dads-fight-floating-nightmares/",
+          "source": "Bleeding Cool — Comics",
+          "date": "2026-10-06T02:27:09.000Z",
+          "snippet": "Land of Never #4 envia dois pais para confrontar a Dra. Lily Williams enquanto seus filhos semeiam a rebelião no país das maravilhas do Homem Flutuante. Visualize as páginas internas.",
+          "image": "",
+          "titleOriginal": "Land of Never #4 Preview: Dads Fight Floating Nightmares"
+        },
+        {
+          "title": "Prévia de Avengelyne # 1: O inferno não tem fúria como uma reinicialização",
+          "link": "https://bleedingcool.com/comics/avengelyne-1-preview-hell-hath-no-fury-like-a-reboot/",
+          "source": "Bleeding Cool — Comics",
+          "date": "2026-10-06T00:26:09.000Z",
+          "snippet": "Avengelyne #1 relaunches Rob Liefeld's Avenging Angel as a doubting priest meets a mysterious angel and a wealthy demon lord comes calling.",
+          "image": "",
+          "titleOriginal": "Avengelyne #1 Preview: Hell Hath No Fury Like a Reboot"
+        },
+        {
+          "title": "Honra e Maldição: Prévia Eterna # 7: Tengu não vai desistir",
+          "link": "https://bleedingcool.com/comics/honor-and-curse-eternal-7-preview-tengu-wont-let-go/",
+          "source": "Bleeding Cool — Comics",
+          "date": "2026-10-05T22:26:08.000Z",
+          "snippet": "Honor and Curse: Eternal #7 chega às lojas em 7 de outubro, enquanto Genshi corre por Exit City, com o Tengu ainda segurando sua alma e uma traição se aproximando.",
+          "image": "",
+          "titleOriginal": "Honor and Curse: Eternal #7 Preview: Tengu Won't Let Go"
+        },
+        {
+          "title": "TMNT: Antevisão das Jornadas #14: Abril faz uma chamada de longa distância",
+          "link": "https://bleedingcool.com/comics/tmnt-journeys-14-preview-april-makes-a-long-distance-call/",
+          "source": "Bleeding Cool — Comics",
+          "date": "2026-10-05T20:26:09.000Z",
+          "snippet": "TMNT: Journeys # 14 envia April O'Neil através do espaço e do tempo em busca de ajuda enquanto a mutação de Raphael gira em espiral e Leo demarca um novo inimigo na prévia desta semana.",
+          "image": "",
+          "titleOriginal": "TMNT: Journeys #14 Preview: April Makes a Long-Distance Call"
+        },
+        {
+          "title": "A arqueologia pré-colombiana encontra a ficção científica nas esculturas peculiares de Max Lehman",
+          "link": "https://www.thisiscolossal.com/2026/10/max-lehman-ceramic-sculptures/",
+          "source": "Colossal",
+          "date": "2026-10-05T18:56:17.000Z",
+          "snippet": "“As esculturas nos pedem para considerar o que acontece quando os seres artificiais atingem idade suficiente para ter ancestrais...” Histórias e artistas como esse são importantes para você? Torne-se um membro Colossal hoje e apoie a publicação de artes independentes por quanto…",
+          "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/lehman-1.jpg",
+          "titleOriginal": "Pre-Columbian Archaeology Meets Science Fiction in Max Lehman’s Quirky Sculptures"
         }
       ]
     },
@@ -483,100 +483,100 @@
       ],
       "items": [
         {
-          "title": "Eleições 2026: quem não votou no 1º turno pode votar no 2º? Veja a regra do TSE",
-          "link": "https://exame.com/brasil/quem-nao-votou-no-1o-turno-pode-votar-no-2o-veja-a-regra-do-tse/",
-          "source": "Exame",
-          "date": "2026-10-05T09:00:15.000Z",
-          "snippet": "Segundo turno acontece em 25 de outubro; veja como justificar a ausência no primeiro turno",
-          "image": ""
-        },
-        {
-          "title": "Flávio à frente de Lula domina mercado, com PMI e Focus na agenda desta segunda",
-          "link": "https://www.infomoney.com.br/mercados/eleicao-pmi-focus-agenda-05102026/",
+          "title": "Moda ‘western’ influenciou o consumo e o comportamento, avaliam influenciadoras",
+          "link": "https://www.infomoney.com.br/business/moda-western-influenciou-o-consumo-e-o-comportamento-avaliam-influenciadoras/",
           "source": "InfoMoney",
-          "date": "2026-10-05T08:56:50.000Z",
-          "snippet": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta segunda-feira (5) The post Flávio à frente de Lula domina mercado, com PMI e Focus na agenda desta segunda appeared first on InfoMoney .",
-          "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes2026-pesquisa-lula-flavio-01.jpg?fit=300%2C193&quality=70&strip=all"
+          "date": "2026-10-06T09:00:00.000Z",
+          "snippet": "Música e audiovisual capturaram sentimento em direção ao campo e, no Brasil, tentam capturar dinheiro do agro The post Moda ‘western’ influenciou o consumo e o comportamento, avaliam influenciadoras appeared first on InfoMoney .",
+          "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/001_20250428_CCT_LA_Dakdouk_WEB_red.jpg?fit=300%2C200&quality=70&strip=all"
         },
         {
-          "title": "Futuros de Nova York oscilam perto da estabilidade com Fed e Treasuries no foco",
-          "link": "https://www.infomoney.com.br/mercados/futuros-de-nova-york-oscilam-perto-da-estabilidade-com-fed-e-treasuries-no-foco/",
+          "title": "‘Carrie: A Estranha’: quando estreia e onde assistir à nova série?",
+          "link": "https://exame.com/pop/carrie-a-estranha-quando-estreia-e-onde-assistir-a-nova-serie/",
+          "source": "Exame",
+          "date": "2026-10-06T08:45:03.000Z",
+          "snippet": "Nova adaptação da obra de sucesso de Stephen King chega ao streaming ainda nesta semana; confira todas as informações",
+          "image": ""
+        },
+        {
+          "title": "Balança comercial do Brasil e EUA e leilão de títulos públicos: o que move os mercados",
+          "link": "https://exame.com/invest/mercados/balanca-comercial-do-brasil-e-eua-e-leilao-de-titulos-publicos-o-que-move-os-mercados/",
+          "source": "Exame",
+          "date": "2026-10-06T08:30:00.000Z",
+          "snippet": "A política brasileira deve continuar sendo o principal fator de movimentação dos ativos locais",
+          "image": ""
+        },
+        {
+          "title": "Os profissionais que aprendem IA mais rápido têm um hábito em comum",
+          "link": "https://exame.com/inteligencia-artificial/os-profissionais-que-aprendem-ia-mais-rapido-tem-um-habito-em-comum/",
+          "source": "Exame",
+          "date": "2026-10-06T08:10:10.000Z",
+          "snippet": "A familiaridade com a tecnologia não aparece de uma hora para outra. Ela se constrói na forma como cada pessoa incorpora a ferramenta à rotina",
+          "image": ""
+        },
+        {
+          "title": "BGS 2026: veja preços dos ingressos, horários e o que esperar do evento",
+          "link": "https://exame.com/pop/bgs-2026-veja-precos-dos-ingressos-horarios-e-o-que-esperar-do-evento/",
+          "source": "Exame",
+          "date": "2026-10-06T08:02:24.000Z",
+          "snippet": "A Brasil Game Show será realizada no Distrito Anhembi, em São Paulo, entre 9 e 12 de outubro; confira os horários, preços atuais e opções de transporte",
+          "image": ""
+        },
+        {
+          "title": "INSS avança com folha de setembro nesta terça (6); veja quem recebe",
+          "link": "https://exame.com/invest/minhas-financas/inss-avanca-com-folha-de-setembro-nesta-terca-6-veja-quem-recebe/",
+          "source": "Exame",
+          "date": "2026-10-06T08:00:59.000Z",
+          "snippet": "Pagamentos de setembro seguem nesta terça com novos finais e valores acima do salário mínimo",
+          "image": ""
+        },
+        {
+          "title": "Fleury e Einstein trazem ao Brasil teste que detecta mais de 50 tipos de câncer",
+          "link": "https://exame.com/invest/mercados/fleury-e-einstein-trazem-ao-brasil-teste-que-detecta-mais-de-50-tipos-de-cancer/",
+          "source": "Exame",
+          "date": "2026-10-06T08:00:55.000Z",
+          "snippet": "Galleri custa R$ 6.990 e será oferecido inicialmente a pessoas assintomáticas com mais de 50 anos; Fleury espera adoção gradual e vê potencial para ampliar a medicina genômica",
+          "image": ""
+        },
+        {
+          "title": "Pesquisa com 760 funcionários revela uma verdade incômoda sobre o trabalho remoto",
+          "link": "https://www.infomoney.com.br/business/global/pesquisa-com-760-funcionarios-revela-uma-verdade-incomoda-sobre-o-trabalho-remoto/",
           "source": "InfoMoney",
-          "date": "2026-10-05T08:39:10.000Z",
-          "snippet": "Mercado reduz apostas em alta de juros em outubro, mas Treasuries elevados e petróleo ainda caro mantêm investidores cautelosos The post Futuros de Nova York oscilam perto da estabilidade com Fed e Treasuries no foco appeared first on In…",
-          "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-12T144116Z_1_LYNXNPEK3B0M4_RTROPTP_4_USA-STOCKS.jpg?fit=300%2C200&quality=70&strip=all"
+          "date": "2026-10-06T08:00:00.000Z",
+          "snippet": "Estudo de Wharton indica que o home office pode enfraquecer a colaboração entre colegas e dificultar a integração de novos funcionários, apesar dos ganhos de flexibilidade e produtividade The post Pesquisa com 760 funcionários revela uma…",
+          "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/WHARTON-RESEARCHERS-STUDIED-760-EMPLOYEESAND-FOUND-AN-INCONVENIENT-TRUTH-ABOUT-REMOTE-WORK.jpg?fit=300%2C200&quality=70&strip=all"
         },
         {
-          "title": "O erro que quase todo iniciante comete ao estudar IA",
-          "link": "https://exame.com/inteligencia-artificial/o-erro-que-quase-todo-iniciante-comete-ao-estudar-ia/",
-          "source": "Exame",
-          "date": "2026-10-05T08:03:58.000Z",
-          "snippet": "A quantidade de cursos, ferramentas e conceitos disponíveis pode fazer quem está começando confundir aprender mais com aprender melhor",
-          "image": ""
-        },
-        {
-          "title": "Entre a genialidade e o controle: o legado de Steve Jobs 15 anos após a sua morte",
-          "link": "https://exame.com/tecnologia/entre-a-genialidade-e-o-controle-o-legado-de-steve-jobs-15-anos-apos-sua-morte/",
-          "source": "Exame",
-          "date": "2026-10-05T08:01:16.000Z",
-          "snippet": "Do rigor obsessivo aos produtos que revolucionaram smartphones e computadores: como as contradições e a visão de Steve Jobs definiram o modo de produzir tecnologia 15 anos após sua partida",
-          "image": ""
-        },
-        {
-          "title": "ASSISTA: Eleições 2026: live do InfoMoney analisa o 1º turno e a reação dos mercados",
-          "link": "https://www.infomoney.com.br/politica/assista-eleicoes-2026-live-do-infomoney-analisa-o-1o-turno-e-a-reacao-dos-mercados/",
+          "title": "Rússia tenta conter especulações sobre suposto caso de peste na Sibéria",
+          "link": "https://www.infomoney.com.br/business/global/russia-tenta-conter-especulacoes-sobre-suposto-caso-de-peste-na-siberia/",
           "source": "InfoMoney",
-          "date": "2026-10-05T08:00:00.000Z",
-          "snippet": "Especialistas em política e investimentos comentam os resultados da votação, os cenários para o segundo turno e os impactos sobre Bolsa, dólar, juros e governabilidade The post ASSISTA: Eleições 2026: live do InfoMoney analisa o 1º turno…",
-          "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Imagem-do-ChatGPT-28-de-set.-de-2026-19_11_53.jpg?fit=300%2C169&quality=70&strip=all"
+          "date": "2026-10-06T08:00:00.000Z",
+          "snippet": "A agência russa de defesa do consumidor afirmou apenas que “uma funcionária de um instituto antipeste na região de Irkutsk” contraiu pneumonia. Já rumores e relatos não confirmados apontaram para um cenário mais alarmante The post Rússia…",
+          "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-05T123259Z_1087742687_RC2XWNAWL4PH_RTRMADP_3_RUSSIA-SIBERIA-PLAGUE.jpg?fit=300%2C191&quality=70&strip=all"
         },
         {
-          "title": "Como funcionam as reservas de petróleo usadas para enfrentar crises de abastecimento",
-          "link": "https://g1.globo.com/economia/noticia/2026/10/05/como-funcionam-as-reservas-de-petroleo-usadas-para-enfrentar-crises-de-abastecimento.ghtml",
-          "source": "G1 Economia",
-          "date": "2026-10-05T06:01:42.000Z",
-          "snippet": "A liberação das reservas ocorre de forma coordenada quando a AIE entende que uma crise no abastecimento exige uma ação conjunta dos países-membros. Reuters Quase um sexto das reservas estratégicas de petróleo dos países-membros da Agênci…",
-          "image": "https://s2-g1.glbimg.com/wuCJsUdsr54qUyZS0D39qEyEnJg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/J/NG6wxBRUaLjnXzDApA1A/2026-03-18t125756z-1386581843-rc2od1azr1td-rtrmadp-3-markets-dollar.jpg"
+          "title": "Juros mais altos nos EUA não freiam boom da IA e criam dilema para o Fed",
+          "link": "https://www.infomoney.com.br/business/global/juros-mais-altos-nos-eua-nao-freiam-boom-da-ia-e-criam-dilema-para-o-fed/",
+          "source": "InfoMoney",
+          "date": "2026-10-06T08:00:00.000Z",
+          "snippet": "O aumento dos custos de financiamento pressiona famílias e empresas, mas tem feito pouco para conter o entusiasmo com os investimentos em infraestrutura de inteligência artificial, que continuam alimentando a inflação The post Juros mais…",
+          "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/INTEREST-RATES-AI-1.jpg?fit=300%2C168&quality=70&strip=all"
         },
         {
-          "title": "Guerra no Irã: por que o preço do petróleo não para de subir mesmo com a volta das exportações?",
-          "link": "https://g1.globo.com/economia/noticia/2026/10/05/guerra-no-ira-por-que-o-preco-do-petroleo-nao-para-de-subir-mesmo-com-a-volta-das-exportacoes.ghtml",
-          "source": "G1 Economia",
-          "date": "2026-10-05T06:01:18.000Z",
-          "snippet": "O que está por trás do impasse entre Irã e EUA Desde o início da guerra entre Estados Unidos e Irã, o mercado acompanha de perto os efeitos do conflito sobre o preço do petróleo. As interrupções na produção e no transporte aumentaram o t…",
-          "image": "https://s2-g1.glbimg.com/G0fkKDEp1z3SCqGwYrCVLtA2Aw0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/X/4dTqCjTmWvuGvuR9nS5A/2026-09-30t075806z-557174629-rc2g8fazwbsb-rtrmadp-3-tullow-oil-ghana-icc-1-.jpg"
+          "title": "Daniel Carraretto passa a integrar o time de colunistas do InfoMoney",
+          "link": "https://www.infomoney.com.br/onde-investir/daniel-carraretto-passa-a-integrar-o-time-de-colunistas-do-infomoney/",
+          "source": "InfoMoney",
+          "date": "2026-10-06T08:00:00.000Z",
+          "snippet": "Planejador financeiro CFP®, gestor de patrimônio e um dos três principais influenciadores financeiros certificados do Brasil, segundo a ANBIMA, Daniel Carraretto estreia no InfoMoney para traduzir economia e investimentos para quem busca…",
+          "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Daniel-Carraretto.png?fit=300%2C169&quality=70&strip=all"
         },
         {
-          "title": "Como e por que a inteligência artificial é capaz de aprender a burlar regras",
-          "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/05/como-e-por-que-a-inteligencia-artificial-e-capaz-de-aprender-a-burlar-regras.ghtml",
-          "source": "G1 Economia",
-          "date": "2026-10-05T06:00:00.000Z",
-          "snippet": "ChatGPT, da OpenAI, e Claude, da Antrhopic Aerps.com/Unsplash; Ryan Donegan/Flickr Nos últimos meses, uma sequência de episódios trouxe para o mundo real um problema que pesquisadores de IA conhecem há bastante tempo: máquinas treinadas…",
-          "image": "https://s2-g1.glbimg.com/K72chojgy8Sg94J6pD0bz-O50Og=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/u/7ve6HkSImvj4UYPV4eCQ/chatgpt-claude.png"
-        },
-        {
-          "title": "Prazo para sacar o dinheiro nas bets termina nesta segunda; veja perguntas e respostas",
-          "link": "https://g1.globo.com/economia/noticia/2026/10/05/prazo-para-sacar-o-dinheiro-nas-bets-termina-nesta-segunda.ghtml",
-          "source": "G1 Economia",
-          "date": "2026-10-05T05:12:45.000Z",
-          "snippet": "Governo anuncia proibição das bets no Brasil Com a proibição de apostas e jogos virtuais online, como o \"jogo do tigrinho\", os apostadores terão até as 23h59 desta segunda-feira (5) para retirar os valores mantidos nas plataformas. Caso…",
-          "image": "https://s2-g1.glbimg.com/1Z4PpB7sq90u0DfmooVLfOp0gzA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/j/A15LXkRK2IA5i4CCV7AA/thumb-fotos-2026-08-10t130151.958.jpg"
-        },
-        {
-          "title": "Eleição presidente no Rio Grande do Norte: Lula fica em primeiro lugar com 59,75%",
-          "link": "https://exame.com/brasil/eleicao-presidente-no-rio-grande-do-norte-lula-fica-em-primeiro-lugar-com-5975/",
-          "source": "Exame",
-          "date": "2026-10-05T03:33:10.000Z",
-          "snippet": "O senador Flávio Bolsonaro (PL) ficou com 34,77%",
-          "image": ""
-        },
-        {
-          "title": "Eleição presidente no Amazonas: Lula fica em primeiro lugar com 48%",
-          "link": "https://exame.com/brasil/eleicao-presidente-no-amazonas-lula-fica-em-primeiro-lugar-com-48/",
-          "source": "Exame",
-          "date": "2026-10-05T03:28:58.000Z",
-          "snippet": "O senador Flávio Bolsonaro (PL) ficou com 45,03%",
-          "image": ""
+          "title": "Petrobras salta após 1º turno da eleição: ação ainda tem espaço para subir mais?",
+          "link": "https://www.infomoney.com.br/mercados/petrobras-petr4-salta-apos-1o-turno-da-eleicao-acao-ainda-tem-espaco-para-subir-mais/",
+          "source": "InfoMoney",
+          "date": "2026-10-06T08:00:00.000Z",
+          "snippet": "JPMorgan mantém estatal como preferida, BTG vê espaço para mais 20% a 25% antes de valuation preocupar e BBI eleva preço-alvo a R$ 62 The post Petrobras salta após 1º turno da eleição: ação ainda tem espaço para subir mais? appeared firs…",
+          "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-25T223336Z_1_LYNXMPEM2O1E2_RTROPTP_4_BRAZIL-FUEL-PETROBRAS-INVESTORS.jpg?fit=300%2C200&quality=70&strip=all"
         }
       ]
     },
@@ -595,6 +595,33 @@
         }
       ],
       "items": [
+        {
+          "title": "Dias de grandes negócios para cristãos",
+          "link": "https://www.challies.com/articles/prime-big-deals-days-for-christians/",
+          "source": "Tim Challies",
+          "date": "2026-10-06T04:02:00.000Z",
+          "snippet": "Estes são os primeiros dias de grandes negócios na Amazon. Esta página é um resumo de algumas das melhores ofertas que consegui rastrear. Verifique algumas vezes na terça e quarta-feira, pois adicionarei ofertas à medida que as encontrar. Veja também as ofertas do primeiro dia…",
+          "image": "https://www.challies.com/media/2026/10/pbdd-2026-everything-to-know-hero-5-amazon-news-lt-090926-scaled.jpg",
+          "titleOriginal": "Prime Big Deals Days for Christians"
+        },
+        {
+          "title": "À La Carte (6 de outubro)",
+          "link": "https://www.challies.com/a-la-carte/a-la-carte-october-6-2026/",
+          "source": "Tim Challies",
+          "date": "2026-10-06T04:01:00.000Z",
+          "snippet": "Quando você não está arrependido / Para que serve o corpo dela? / A IA é a nova Covid? / Sobre morrer bem / Por que a tradução deve ter impressões digitais / Quando os amigos se voltam contra você / Ofertas do Kindle / Prime Big Deals Veja também Prime Day Deals for Christians Christ…",
+          "image": "https://www.challies.com/media/2026/06/Tuesday-2.jpg",
+          "titleOriginal": "A La Carte (October 6)"
+        },
+        {
+          "title": "O que foi a Reforma?",
+          "link": "https://feeds.ligonier.org/~/925826156/0/ligonierministriesblog",
+          "source": "Ligonier",
+          "date": "2026-10-06T00:00:00.000Z",
+          "snippet": "<table width=\"100%\" cellpacing=\"0\" cellpadding=\"0\" border=\"0\"><tr><td width=\"100%\" bgcolor=\"#FFFFFF\" ><font color=\"#000000\" > A Reforma Protestante é uma história de transformação – uma transformação do ódio em amor, da escravidão em fr…",
+          "image": "https://images.ctfassets.net/ukqj0ybhazqg/5lfFUkNrgeh0LmxtkpuAyE/ba47df3b70e5588317c4fd48f77e5cae/What-Was-the-Reformation-All-About_2560.jpg",
+          "titleOriginal": "What Was the Reformation All About?"
+        },
         {
           "title": "Ed Sheeran prova que Trueman está certo: todos nós vivemos no mundo de Marx agora",
           "link": "https://www.challies.com/articles/ed-sheeran-proves-trueman-right-we-all-live-in-marxs-world-now/",
@@ -618,7 +645,7 @@
           "link": "https://feeds.ligonier.org/~/970992443/0/ligonierministriesblog",
           "source": "Ligonier",
           "date": "2026-10-05T00:00:00.000Z",
-          "snippet": "<table width=\"100%\" cellpacing=\"0\" cellpadding=\"0\" border=\"0\"><tr><td width=\"100%\" bgcolor=\"#FFFFFF\" ><font color=\"#000000\" >Devemos começar fazendo uma pergunta aparentemente simples: E se for a predestinação? Parece haver tantas diferenças…",
+          "snippet": "<table width=\"100%\" cellpacing=\"0\" cellpadding=\"0\" border=\"0\"><tr><td width=\"100%\" bgcolor=\"#FFFFFF\" ><font color=\"#000000\" >Devemos começar fazendo uma pergunta aparentemente simples: O que é predestinação? Parece haver tantas diferenças…",
           "image": "https://images.ctfassets.net/ukqj0ybhazqg/sF9FMZwL7YJPe0b8uOyhm/f6828fad773e824579d5e253324e15db/What_Is_Predestination_1x1.jpg",
           "titleOriginal": "What Is Predestination?"
         },
@@ -641,38 +668,20 @@
           "titleOriginal": "Weekend A La Carte (October 3)"
         },
         {
-          "title": "Sextas-feiras de coisas grátis (Zondervan reflexivo)",
-          "link": "https://www.challies.com/giveaways/free-stuff-fridays-zondervan-reflective-14/",
-          "source": "Tim Challies",
-          "date": "2026-10-02T16:01:00.000Z",
-          "snippet": "Sextas-feiras de coisas grátis: Ganhe um exemplar de Por que o cristianismo faz sentido! Veja também sextas-feiras de coisas grátis (reflexivo Zondervan) sextas-feiras de coisas grátis (reflexivo Zondervan) sextas-feiras de coisas grátis (reflexivo Zondervan)",
-          "image": "https://www.challies.com/media/2026/09/WCMS_1920x1080-Giveaway-Header.png",
-          "titleOriginal": "Free Stuff Fridays (Zondervan Reflective)"
-        },
-        {
           "title": "Quando alguém em sua igreja está sofrendo: aprendendo a carregar os fardos uns dos outros",
           "link": "https://reformation21.org/when-someone-in-your-church-is-suffering-learning-to-bear-one-anothers-burdens/",
           "source": "Reformation21",
           "date": "2026-10-02T09:15:50.000Z",
-          "snippet": "“I don’t know who I can tell.” Those words can accompany many kinds of suffering. A marriage is falling apart. A child walks away from the faith. A family learns that someone they love is struggling with serious mental illness. A devasta…",
+          "snippet": "“Não sei a quem posso contar.” Essas palavras podem acompanhar muitos tipos de sofrimento. Um casamento está desmoronando. Uma criança se afasta da fé. Uma família descobre que alguém que ama está enfrentando uma doença mental grave. Uma devastação…",
           "image": "https://reformation21.org/wp-content/uploads/2024/12/hands-compassion-help-old-preview_0.jpg",
           "titleOriginal": "When Someone in Your Church Is Suffering: Learning to Bear One Another’s Burdens"
-        },
-        {
-          "title": "Liturgias para ajudar na adoração na igreja (leve-as para seu próprio uso!)",
-          "link": "https://www.challies.com/articles/liturgies-to-help-your-church-worship-take-them-for-your-own-use/",
-          "source": "Tim Challies",
-          "date": "2026-10-02T04:02:00.000Z",
-          "snippet": "Um ano de liturgias de adoração completas – chamadas para adoração, confissões, bênçãos e serviços completos. Eles são gratuitos para uso ou adaptação, sem necessidade de atribuição. Veja também A La Carte (28 de agosto) A La Carte (10 de abril) Por que não usar um D…",
-          "image": "https://www.challies.com/media/2026/09/download.png",
-          "titleOriginal": "Liturgies to Help Your Church Worship (Take Them for Your Own Use!)"
         },
         {
           "title": "Por que preciso de treinamento para o ministério?",
           "link": "https://feeds.ligonier.org/~/970883846/0/ligonierministriesblog",
           "source": "Ligonier",
           "date": "2026-10-02T00:00:00.000Z",
-          "snippet": "<table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tr><td width=\"100%\" bgcolor=\"#FFFFFF\" ><font color=\"#000000\" >“Great news, folks! We’ve arranged a training night for . . .” (insert pastoral care team, children’s ministry,…",
+          "snippet": "<table width=\"100%\" cellpacing=\"0\" cellpadding=\"0\" border=\"0\"><tr><td width=\"100%\" bgcolor=\"#FFFFFF\" ><font color=\"#000000\" >“Boas notícias, pessoal! Organizamos uma noite de treinamento para. . .” (inserir equipe pastoral, ministério infantil,…",
           "image": "https://images.ctfassets.net/ukqj0ybhazqg/2j77earFZyt3zPpL2F5tUp/ecb1a2e1d77bdc5f72b096c5bf8f9c85/Why-Do-I-Need-Training-For-Ministry_2560.jpg",
           "titleOriginal": "Why Do I Need Training for Ministry?"
         },
@@ -693,15 +702,6 @@
           "snippet": "<table width=\"100%\" cellpacing=\"0\" cellpadding=\"0\" border=\"0\"><tr><td width=\"100%\" bgcolor=\"#FFFFFF\" ><font color=\"#000000\" >Preparar uma lista dos “cinco principais” de comentários sobre o livro de Apocalipse é extremamente desafiador de várias maneiras…",
           "image": "https://images.ctfassets.net/ukqj0ybhazqg/7maIJZT7pQFpHfa99z2Yku/2d58572c46a9b736d87cb90f23e3af71/2560x2560_Editorial_Commentaries_55_Revelation.jpg",
           "titleOriginal": "Top 5 Commentaries on the Book of Revelation"
-        },
-        {
-          "title": "Quem foi Sofonias?",
-          "link": "https://feeds.ligonier.org/~/970791362/0/ligonierministriesblog",
-          "source": "Ligonier",
-          "date": "2026-09-30T00:00:00.000Z",
-          "snippet": "<table width=\"100%\" cellpacing=\"0\" cellpadding=\"0\" border=\"0\"><tr><td width=\"100%\" bgcolor=\"#FFFFFF\" ><font color=\"#000000\" >Sabemos muito pouco sobre Sofonias. O livro que leva seu nome tem apenas três capítulos, e as Escrituras…",
-          "image": "https://images.ctfassets.net/ukqj0ybhazqg/23H7FkQGCXggq4GBw9Itwg/93f96a607e25e6224398e6f25a55c60d/Who-Was-Zephaniah_2560.jpg",
-          "titleOriginal": "Who Was Zephaniah?"
         }
       ]
     },
@@ -721,112 +721,112 @@
       ],
       "items": [
         {
-          "title": "Chappell Roan reinventado como um personagem 3D no estilo League of Legends",
-          "link": "https://80.lv/articles/chappell-roan-reimagined-as-a-league-of-legends-style-3d-character/",
+          "title": "“Prêmios não são o que mais me lembrarei”: Hellblade Dev supostamente inicia demissões",
+          "link": "https://80.lv/articles/ninja-theory-reportedly-begins-layoffs/",
           "source": "80 Level",
-          "date": "2026-10-05T08:37:00.000Z",
-          "snippet": "<p>Tereza Rozumkova, ex-artista de personagens da Riot Games, compartilhou sua brilhante recriação do visual de Chappell Roan no Festival de Música Daisy Chain Fields.</p>",
-          "image": "https://cdn.80.lv/api/upload/post/41844/images/6ac35ff827052/cover_800x800.jpg",
-          "titleOriginal": "Chappell Roan Reimagined as a League of Legends-Style 3D Character"
+          "date": "2026-10-06T08:48:00.000Z",
+          "snippet": "<p>O que acontecerá com Senua?</p>",
+          "image": "https://cdn.80.lv/api/upload/post/41860/images/6ac4b5f752267/cover_800x800.jpg",
+          "titleOriginal": "\"Awards Aren't What I Will Remember Most\": Hellblade Dev Reportedly Begins Layoffs"
         },
         {
-          "title": "Tutorial passo a passo sobre como criar uma cadeia pontiaguda transparente 3D no Blender",
-          "link": "https://80.lv/articles/step-by-step-tutorial-on-creating-3d-transparent-spiky-chain-in-blender/",
+          "title": "Coraline se encontra no muro do jardim neste terror cooperativo com mecânico de bate-papo por voz",
+          "link": "https://80.lv/articles/coraline-meets-over-the-garden-wall-in-this-co-op-horror-with-voice-chat-mechanic/",
           "source": "80 Level",
-          "date": "2026-10-05T07:51:00.000Z",
-          "snippet": "<p>Aprenda a manipular a iluminação e as cores para criar o efeito.</p>",
-          "image": "https://cdn.80.lv/api/upload/post/41843/images/6ac3571204a45/cover_800x800.jpg",
-          "titleOriginal": "Step-by-Step Tutorial on Creating 3D Transparent Spiky Chain in Blender"
+          "date": "2026-10-06T07:14:00.000Z",
+          "snippet": "<p>Explore the spooky forest with your friends and be careful: your voice not only helps you communicate but might also attract danger.</p>",
+          "image": "https://cdn.80.lv/api/upload/post/41859/images/6ac49fe8df039/cover_800x800.jpg",
+          "titleOriginal": "Coraline Meets Over the Garden Wall in This Co-Op Horror with Voice Chat Mechanic"
         },
         {
-          "title": "Halo: Combat Evolved agora pode ser jogado em um navegador",
-          "link": "https://80.lv/articles/halo-combat-evolved-can-now-be-played-in-a-browser/",
+          "title": "Como fazer uma trincheira da Estrela da Morte com nós geográficos",
+          "link": "https://www.blendernation.com/2026/10/06/how-to-make-a-death-star-trench-with-geo-nodes/",
+          "source": "BlenderNation",
+          "date": "2026-10-06T06:52:08.000Z",
+          "snippet": "Chris Bailey nos ensina como usar um novo recurso em nós geométricos para criar uma trincheira da Estrela da Morte. Este método é realmente interessante e fantástico para criar serviços sofisticados de forma rápida e fácil. Na versão para membros ele levará…",
+          "image": "",
+          "titleOriginal": "How To Make A Death Star Trench With Geo Nodes"
+        },
+        {
+          "title": "Gemini Call for Me pode dizer à sua mãe que você está atrasado",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "source": "The Verge — IA",
+          "date": "2026-10-05T23:09:55.000Z",
+          "snippet": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with example…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "titleOriginal": "Gemini Call for Me might tell your mom you’re running late"
+        },
+        {
+          "title": "Ace Combat 8 ​​é o jogo mais avaliado da série desde o PS2",
+          "link": "https://80.lv/articles/ace-combat-8-is-the-highest-reviewed-game-in-the-series-since-the-ps2/",
           "source": "80 Level",
-          "date": "2026-10-05T07:14:00.000Z",
-          "snippet": "<p>Um desenvolvedor trouxe o jogo de 2001 para a web gratuitamente.</p>",
-          "image": "https://cdn.80.lv/api/upload/post/41842/images/6ac34e5fe8cad/cover_800x800.jpg",
-          "titleOriginal": "Halo: Combat Evolved Can Now Be Played in a Browser"
+          "date": "2026-10-05T21:48:00.000Z",
+          "snippet": "<p>O Project Aces combinou o Unreal Engine 5, tecnologia de nuvem proprietária, aeronaves muito mais detalhadas e acesso sem precedentes do fabricante para criar o jogo mais avaliado da série desde 2001.</p>",
+          "image": "https://cdn.80.lv/api/upload/post/41858/images/6ac41ae63be94/cover_800x800.jpg",
+          "titleOriginal": "Ace Combat 8 is The Highest-Reviewed Game in the Series Since the PS2"
         },
         {
-          "title": "Faça esta paisagem de lago realista no Blender",
-          "link": "https://www.blendernation.com/2026/10/05/make-this-realistic-lake-landscape-in-blender/",
-          "source": "BlenderNation",
-          "date": "2026-10-05T07:00:52.000Z",
-          "snippet": "Você tem problemas para criar cenas da natureza no Blender? Neste vídeo, Yeho Studios mostra como você pode criar esta paisagem realista de lago no Blender do zero. Quer você seja um iniciante no Blender ou um artista 3D experiente, o…",
+          "title": "O RPG mais ambicioso da Bethesda quase destruiu todo o estúdio nos anos 90",
+          "link": "https://80.lv/articles/bethesda-s-most-ambitious-rpg-nearly-collapsed-the-entire-studio-in-the-90s/",
+          "source": "80 Level",
+          "date": "2026-10-05T21:17:00.000Z",
+          "snippet": "<p>Unrealistic deadlines, more than a year of crunch, primitive tools, minimal QA, and 15,000 procedurally generated locations pushed the small Daggerfall team to its limits.</p>",
+          "image": "https://cdn.80.lv/api/upload/post/41857/images/6ac4156e21d46/cover_800x800.jpg",
+          "titleOriginal": "Bethesda’s Most Ambitious RPG Nearly Collapsed the Entire Studio in the ’90s"
+        },
+        {
+          "title": "“Isso é tudo, pessoal!”: David Zaslav se despede da Warner Bros.",
+          "link": "https://www.cartoonbrew.com/executives/david-zaslav-warner-bros-farewell-video-267507.html",
+          "source": "Cartoon Brew",
+          "date": "2026-10-05T20:22:22.000Z",
+          "snippet": "In a farewell video to WBD employees, Zaslav reflects on his tenure after four years of deep cuts and upheaval across Warner Bros. animation.",
           "image": "",
-          "titleOriginal": "Make This Realistic Lake Landscape in Blender"
+          "titleOriginal": "“That’s All Folks!”: David Zaslav Bids Farewell To Warner Bros. Discovery"
         },
         {
-          "title": "O ex-tenente-governador de NJ está usando IA para dizer que é inocente de assédio sexual",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "title": "Esta startup está emitindo prescrições de acne geradas por IA",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
           "source": "The Verge — IA",
-          "date": "2026-10-04T16:16:04.000Z",
-          "snippet": "O vice-governador de Nova Jersey, Dale Caldwell, foi forçado a renunciar em 25 de setembro, depois que uma investigação descobriu que ele havia assediado sexualmente uma funcionária e violado repetidamente as regras de ética. O agora ex-tenente governador tem feito o m…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&strip=all&crop=0,0,100,100",
-          "titleOriginal": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment"
+          "date": "2026-10-05T20:14:57.000Z",
+          "snippet": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&strip=all&crop=0,0,100,100",
+          "titleOriginal": "This startup is issuing AI-generated acne prescriptions"
         },
         {
-          "title": "Alternar entre vários shaders com um material",
-          "link": "https://www.blendernation.com/2026/10/04/switch-between-multiple-shaders-with-one-material/",
-          "source": "BlenderNation",
-          "date": "2026-10-04T15:55:15.000Z",
-          "snippet": "Já se perguntou como alternar entre vários shaders no Blender sem alterar o material atribuído? Neste rápido tutorial do Blender, Kenan Proffitt mostra como combinar vários grupos de nós de shader em um único material e u…",
+          "title": "‘Spirited Away’ retorna aos cinemas dos EUA para o 25º aniversário",
+          "link": "https://www.cartoonbrew.com/feature-film/spirited-away-25-anniversary-theatrical-rerelease-267504.html",
+          "source": "Cartoon Brew",
+          "date": "2026-10-05T19:32:27.000Z",
+          "snippet": "O clássico vencedor do Oscar do Studio Ghibli, de Hayao Miyazaki, retorna aos cinemas dos EUA por cinco dias em outubro, com exibições em japonês e inglês.",
           "image": "",
-          "titleOriginal": "Switch Between Multiple Shaders with One Material"
+          "titleOriginal": "‘Spirited Away’ Returns To U.S. Theaters For 25th Anniversary"
         },
         {
-          "title": "Uma IA não conseguia vencer os humanos no StarCraft, então decidiu trapacear",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+          "title": "Todo o drama em torno da aquisição da matemática pela IA",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
           "source": "The Verge — IA",
-          "date": "2026-10-04T15:21:59.000Z",
-          "snippet": "StarSkirmish coloca bots criados por IA que jogam StarCraft uns contra os outros, bem como contra bots feitos por humanos. O GPT-6 Astra e o Claude Opus 5.5 da OpenAI estavam essencialmente empatados como os bots feitos por IA de melhor desempenho, mas não conseguiram superar o Stardust,…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,0,100,100",
-          "titleOriginal": "An AI couldn’t beat humans at StarCraft, so it decided to cheat"
+          "date": "2026-10-05T19:28:59.000Z",
+          "snippet": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including reso…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2-1.webp?quality=90&strip=all&crop=0,0,100,100",
+          "titleOriginal": "All the drama around AI’s takeover of mathematics"
         },
         {
-          "title": "Criando uma personagem Mech Girl – Parte 1",
-          "link": "https://www.blendernation.com/2026/10/04/creating-a-mech-girl-character-part-1/",
-          "source": "BlenderNation",
-          "date": "2026-10-04T07:00:37.000Z",
-          "snippet": "Junte-se a Daniel Orji enquanto ele fala sobre seu processo de criação desse personagem, desde a modelagem até a renderização. Esta é a primeira parte de uma série. Fonte",
+          "title": "O operador da Wikipedia diz que os bots ‘desonestos’ da OpenAI podem estar ligados a uma interrupção em maio",
+          "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+          "source": "The Verge — IA",
+          "date": "2026-10-05T19:05:19.000Z",
+          "snippet": "Após muitas divulgações recentes sobre agentes de IA acessando sites e serviços de terceiros, a Wikimedia Foundation, que hospeda a Wikipedia, diz que “pode confirmar que descobrimos alguma atividade” de agentes “desonestos” da OpenAI em…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&strip=all&crop=0,0,100,100",
+          "titleOriginal": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage"
+        },
+        {
+          "title": "Candidatos ao curta-metragem do Oscar de 2027: os diretores de ‘Acid City’, Jack Wedge e Will Freudenheim",
+          "link": "https://www.cartoonbrew.com/shorts/acid-city-jack-wedge-will-freudenheim-oscar-qualified-267488.html",
+          "source": "Cartoon Brew",
+          "date": "2026-10-05T19:01:43.000Z",
+          "snippet": "Acid City blends real New York voices with a surreal sci-fi world to explore climate change, extreme heat, and our relationship with water.",
           "image": "",
-          "titleOriginal": "Creating A Mech Girl Character – Part 1"
-        },
-        {
-          "title": "Scary Soft: Desafio da comunidade de outubro do CG Cookie",
-          "link": "https://www.blendernation.com/2026/10/03/scary-soft-cg-cookies-october-community-challenge/",
-          "source": "BlenderNation",
-          "date": "2026-10-03T18:49:33.000Z",
-          "snippet": "O desafio da comunidade de outubro do CG Cookie está ao vivo e o tema é Scary Soft: algo aterrorizante, embrulhado em algo que você deseja abraçar. Wes Burke escreve: Pense em pelúcias amaldiçoadas, uma aranha mortal aninhada em pele pastel, um monstruoso marshmallow…",
-          "image": "",
-          "titleOriginal": "Scary Soft: CG Cookie’s October Community Challenge"
-        },
-        {
-          "title": "Capcom está se preparando para um ‘futuro onde criaremos jogos junto com IA’",
-          "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-          "source": "The Verge — IA",
-          "date": "2026-10-03T16:49:10.000Z",
-          "snippet": "Pragmata da Capcom pode ser sobre os horrores da IA, mas na prática o estúdio não parece tão desanimado com a tecnologia. Durante a Capcom Open Conference RE: 2026 o programador Satoshi Ishida fez uma apresentação com um título cheio: \"…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0,0,100,100",
-          "titleOriginal": "Capcom is preparing for a ‘future where we create games together with AI’"
-        },
-        {
-          "title": "O CEO da Splice, Kakul Srivastava, acha que os e-mails de IA estão matando as conversas",
-          "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-          "source": "The Verge — IA",
-          "date": "2026-10-03T15:00:00.000Z",
-          "snippet": "Kakul Srivastava é o CEO da Splice, a plataforma de samples na qual inúmeros produtores confiam para one-shots e loops melódicos. Amostras retiradas do serviço chegaram a grandes sucessos como \"Money\" de Lisa e \"Espresso\" de Sabrina…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0,0,100,100",
-          "titleOriginal": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations"
-        },
-        {
-          "title": "Um funcionário de segurança da OpenAI pediu demissão e está soando o alarme",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-          "source": "The Verge — IA",
-          "date": "2026-10-03T14:31:56.000Z",
-          "snippet": "David Robinson costumava escrever os relatórios de segurança que acompanhavam todos os lançamentos de modelos importantes na OpenAI. Esta semana, ele renunciou ao cargo e agora se manifesta em editorial no The Atlantic. É compreensível se você estiver se sentindo…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100",
-          "titleOriginal": "An OpenAI safety employee has quit and is sounding the alarm"
+          "titleOriginal": "2027 Oscars Short Film Contenders: ‘Acid City’ Directors Jack Wedge And Will Freudenheim"
         }
       ]
     },
@@ -846,112 +846,111 @@
       ],
       "items": [
         {
-          "title": "Móveis planos que realmente sobrevivem ao seu próximo passo",
-          "link": "https://www.yankodesign.com/2026/10/05/flat-pack-furniture-that-actually-survives-your-next-move/?utm_source=rss&utm_medium=rss&utm_campaign=flat-pack-furniture-that-actually-survives-your-next-move",
-          "source": "Yanko Design",
-          "date": "2026-10-05T08:15:00.000Z",
-          "snippet": "Móveis flat-pack que realmente sobrevivem ao seu próximo passo Móveis flat-pack são fáceis de apreciar no dia em que chegam. Ele passa pela porta e geralmente você consegue montá-lo sem muito...",
-          "image": "https://www.yankodesign.com/images/design_news/2026/10/flat-pack-furniture-that-actually-survives-your-next-move/flat-pack-08.jpg",
-          "titleOriginal": "Flat-Pack Furniture That Actually Survives Your Next Move"
-        },
-        {
-          "title": "A ‘antibiblioteca’ de Valentino recorre a livros não lidos para repensar o valor das roupas",
-          "link": "https://www.designboom.com/design/valentino-guests-books-runway-show-donation-public-libraries-alessandro-michele/",
+          "title": "no 139º aniversário de Le Corbusier, por que a Capela Ronchamp ainda desafia a arquitetura moderna",
+          "link": "https://www.designboom.com/architecture/le-corbusiers-ronchamp-chapel-modern-architecture/",
           "source": "Designboom",
-          "date": "2026-10-05T07:45:22.000Z",
-          "snippet": "na bibliothèque sainte-geneviève em paris, a 'antibiblioteca' de alessandro michele considera livros não lidos e roupas não usadas como recipientes de conhecimento, memória e possibilidade. A ‘antibiblioteca’ do pós valentino procura livros não lidos para…",
-          "image": "https://www.designboom.com/wp-content/uploads/2026/10/valentino-guests-books-runway-show-donation-public-libraries-alessandro-michele-designboom-700-500x400-22b08q85r189.jpg",
-          "titleOriginal": "valentino’s ‘antibiblioteca’ looks to unread books to rethink the value of clothes"
+          "date": "2026-10-06T08:58:28.000Z",
+          "snippet": "no 139º aniversário de Le Corbusier, a Capela Ronchamp ainda parece radical no uso da luz, do concreto e da paisagem. A postagem sobre o 139º aniversário de Le Corbusier, por que a Capela Ronchamp ainda desafia a arquitetura moderna apareceu primeiro no desi…",
+          "image": "https://www.designboom.com/wp-content/uploads/2026/10/le-corbusiers-ronchamp-chapel-modern-architecture-designboom11-500x400-22b08q85r576.jpg",
+          "titleOriginal": "on le corbusier’s 139th birthday, why ronchamp chapel still challenges modern architecture"
         },
         {
-          "title": "passagem envidraçada enquadra a vista do lago através desta compacta casa japonesa",
-          "link": "https://www.designboom.com/architecture/glazed-passage-lake-views-compact-japanese-house-form-kouichi-kimura-architects/",
+          "title": "designboom listens: andreas angelidakis’ music for making, remembering and escaping",
+          "link": "https://www.designboom.com/art/designboom-listens-andreas-angelidakis-music-making-remembering-escaping-interview/",
           "source": "Designboom",
-          "date": "2026-10-05T06:15:07.000Z",
-          "snippet": "Casa minimalista de FORM / Kouichi Kimura Architects usa lacunas, níveis e luz para moldar seu interior. A passagem envidraçada emoldura a vista para o lago através desta casa japonesa compacta apareceu pela primeira vez no designboom | arquitetura e design m…",
-          "image": "https://www.designboom.com/wp-content/uploads/2026/10/minimalist-house-form-kouichi-kimura-architects-lakeside-shiga-japan-designboom-700-500x400-22b08q85r585.jpg",
-          "titleOriginal": "glazed passage frames lake views through this compact japanese house"
+          "date": "2026-10-06T08:45:54.000Z",
+          "snippet": "grace jones, soft cell, new order and klaus nomi feature among the eclectic tracks the greek artist turns to for inspiration, focus and creative breakthroughs. The post designboom listens: andreas angelidakis’ music for making, rememberi…",
+          "image": "https://www.designboom.com/wp-content/uploads/2026/10/designboom-listens-andreas-angelidakis-music-making-remembering-escaping-interview-designboom-700-500x400-22b08q85r705.jpg"
         },
         {
-          "title": "O novo tapete de caminhada W60 Plus da MERACH possui 12 níveis de inclinação, luzes RGB e um alto-falante Bluetooth integrado",
-          "link": "https://www.yankodesign.com/2026/10/04/merachs-new-w60-plus-walking-pad-boasts-12-incline-levels-rgb-lights-and-a-built-in-bluetooth-speaker/?utm_source=rss&utm_medium=rss&utm_campaign=merachs-new-w60-plus-walking-pad-boasts-12-incline-levels-rgb-lights-and-a-built-in-bluetooth-speaker",
+          "title": "700 peças interligadas, sem cola: o pavilhão que desaparece silenciosamente",
+          "link": "https://www.yankodesign.com/2026/10/06/700-interlocking-pieces-no-glue-the-pavilion-that-quietly-disappears/?utm_source=rss&utm_medium=rss&utm_campaign=700-interlocking-pieces-no-glue-the-pavilion-that-quietly-disappears",
           "source": "Yanko Design",
-          "date": "2026-10-05T01:45:44.000Z",
-          "snippet": "A nova esteira de caminhada W60 Plus da MERACH possui 12 níveis de inclinação, luzes RGB e um alto-falante Bluetooth integrado. A esteira embaixo da mesa teve seu momento, chegando como a companheira perfeita para nossas repentinas vidas de trabalho em casa (você acredita que é…",
-          "image": "https://www.yankodesign.com/images/design_news/2026/09/the-desk-treadmill-gets-a-serious-upgrade-12-incline-levels-rgb-lights-and-a-built-in-bluetooth-speaker/Merach-UltraWalk-W60-Plus.jpg",
-          "titleOriginal": "MERACH’s new W60 Plus walking pad boasts 12 incline levels, RGB lights, and a built-in Bluetooth speaker"
+          "date": "2026-10-06T08:20:25.000Z",
+          "snippet": "700 peças interligadas, sem cola: o pavilhão que desaparece silenciosamente A arquitetura temporária tem o hábito de chegar com uma grande ideia e deixar para trás uma pilha de materiais. Um pavilhão pode parecer pensativo para um...",
+          "image": "https://www.yankodesign.com/images/design_news/2026/10/700-interlocking-pieces-no-glue-the-pavilion-that-quietly-disappears/woven-01.jpg",
+          "titleOriginal": "700 Interlocking Pieces, No Glue: The Pavilion That Quietly Disappears"
         },
         {
-          "title": "Este sistema de moldura LEGO expansível finalmente resolve o pesadelo de armazenamento do coletor",
-          "link": "https://www.yankodesign.com/2026/10/04/this-expandable-lego-frame-system-finally-solves-the-collector-storage-nightmare/?utm_source=rss&utm_medium=rss&utm_campaign=this-expandable-lego-frame-system-finally-solves-the-collector-storage-nightmare",
-          "source": "Yanko Design",
-          "date": "2026-10-04T23:30:48.000Z",
-          "snippet": "Este sistema de moldura LEGO expansível finalmente resolve o pesadelo de armazenamento do colecionador Em algum lugar de um armário, uma minifigura de LEGO perfeitamente boa está olhando através de um saco plástico no fundo de uma caixa de papelão. Tem um...",
-          "image": "https://www.yankodesign.com/images/design_news/2026/10/this-expandable-lego-frame-system-finally-solves-the-collector-storage-nightmare/Finity-Frames-Built-for-Your-Collection-hero.jpg",
-          "titleOriginal": "This Expandable LEGO Frame System Finally Solves the Collector Storage Nightmare"
-        },
-        {
-          "title": "Os 5 melhores gadgets estilo EDC projetados para ajudá-lo a superar a temporada de furacões",
-          "link": "https://www.yankodesign.com/2026/10/04/5-best-edc-style-gadgets-designed-to-get-you-through-hurricane-season/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-edc-style-gadgets-designed-to-get-you-through-hurricane-season",
-          "source": "Yanko Design",
-          "date": "2026-10-04T22:30:46.000Z",
-          "snippet": "Os 5 melhores gadgets estilo EDC projetados para ajudá-lo durante a temporada de furacões A temporada de furacões tem uma maneira de expor quais de seus pertences são realmente úteis e quais apenas ocupam espaço na gaveta. Quando o poder...",
-          "image": "https://www.yankodesign.com/images/design_news/2026/09/draft-edc-style-gadgets-designed-to-get-you-through-hurricane-season/5_edc_hurricane_yanko_design_01.jpg",
-          "titleOriginal": "5 Best EDC-Style Gadgets Designed to Get You Through Hurricane Season"
-        },
-        {
-          "title": "Após 15 anos, Patek Philippe retorna com um cronógrafo de corda manual que armazena energia como um arco",
-          "link": "https://www.yankodesign.com/2026/10/04/after-15-years-patek-philippe-returns-with-a-hand-wound-chronograph-that-stores-energy-like-a-bow/?utm_source=rss&utm_medium=rss&utm_campaign=after-15-years-patek-philippe-returns-with-a-hand-wound-chronograph-that-stores-energy-like-a-bow",
-          "source": "Yanko Design",
-          "date": "2026-10-04T20:45:20.000Z",
-          "snippet": "Após 15 anos, Patek Philippe retorna com um cronógrafo de corda manual que armazena energia como um arco. Os cronógrafos de calendário perpétuo são a versão Patek Philippe de um eclipse solar. Eles não acontecem com frequência e, quando acontecem, todos param…",
-          "image": "https://www.yankodesign.com/images/design_news/2026/10/652112/patek_philippe_5978p_chronograph_1.jpeg",
-          "titleOriginal": "After 15 Years, Patek Philippe Returns With a Hand-Wound Chronograph That Stores Energy Like a Bow"
-        },
-        {
-          "title": "Telhado plantado estende jardim sobre a casa de madeira dos arquitetos tato em Mibu, Japão",
-          "link": "https://www.designboom.com/architecture/planted-roof-garden-tato-architects-timber-house-mibu-japan/",
+          "title": "Studio 5.5 recombina tomadas e interruptores em iluminação modular e blocos de construção de móveis",
+          "link": "https://www.designboom.com/design/studio-5-5-sockets-switches-modular-lighting-furniture-building-blocks-volt-face/",
           "source": "Designboom",
-          "date": "2026-10-04T20:35:47.000Z",
-          "snippet": "a casa é revestida de cedro carbonizado, ou yakisugi, sob um telhado de aço galvanizado corrugado. O telhado pós-plantado estende o jardim sobre a casa de madeira dos arquitetos tato em Mibu, Japão, apareceu pela primeira vez no designboom | revista de arquitetura e design…",
-          "image": "https://www.designboom.com/wp-content/uploads/2026/10/planted-roof-garden-tato-architects-timber-house-mibu-japan-designboom-700-500x400-22b08q85r720.jpg",
-          "titleOriginal": "planted roof extends garden over tato architects’ timber house in mibu, japan"
+          "date": "2026-10-06T02:10:16.000Z",
+          "snippet": "volt face treats the switch as a starting point rather than a finishing detail. The post studio 5.5 recombines sockets and switches into modular lighting and furniture building blocks appeared first on designboom | architecture & design…",
+          "image": "https://www.designboom.com/wp-content/uploads/2026/10/studio-5-5-sockets-switches-modular-lighting-furniture-building-blocks-volt-face-designboom-700-1-500x400-22b08q85r887.jpg",
+          "titleOriginal": "studio 5.5 recombines sockets and switches into modular lighting and furniture building blocks"
         },
         {
-          "title": "O cabo USB-C divertido e prático se parece exatamente com um cabo de extensão de canteiro de obras",
-          "link": "https://www.yankodesign.com/2026/10/04/hilariously-practical-usb-c-cable-looks-exactly-like-a-construction-site-extension-cord/?utm_source=rss&utm_medium=rss&utm_campaign=hilariously-practical-usb-c-cable-looks-exactly-like-a-construction-site-extension-cord",
+          "title": "A pasta de titânio de US$ 200 da Vosteed é fina o suficiente para ser esquecida, afiada o suficiente para ser lembrada",
+          "link": "https://www.yankodesign.com/2026/10/05/vosteeds-200-titanium-folder-is-slim-enough-to-forget-sharp-enough-to-remember/?utm_source=rss&utm_medium=rss&utm_campaign=vosteeds-200-titanium-folder-is-slim-enough-to-forget-sharp-enough-to-remember",
           "source": "Yanko Design",
-          "date": "2026-10-04T19:15:38.000Z",
-          "snippet": "O cabo USB-C divertidamente prático se parece exatamente com um cabo de extensão de canteiro de obras. Não há exatamente nenhum cabo USB-C que alguém já tenha chamado de bonito. Eles vêm em preto, branco ou ocasionalmente cinza trançado, e todos parecem...",
-          "image": "https://www.yankodesign.com/images/design_news/2026/10/652095/matty_extension_usb_cable_1.jpg",
-          "titleOriginal": "Hilariously Practical USB-C Cable Looks Exactly Like a Construction-Site Extension Cord"
+          "date": "2026-10-06T01:45:50.000Z",
+          "snippet": "Vosteed’s $200 titanium folder is slim enough to forget, sharp enough to remember The porcupine is one of nature’s better-engineered designs. It’s compact, self-sufficient, and its entire defense system lives in its skin rather than in a…",
+          "image": "https://www.yankodesign.com/images/design_news/2026/09/vosteeds-200-titanium-folder-is-slim-enough-to-forget-sharp-enough-to-remember/Vosteed-Porcupine-TiSlim-hero.jpg",
+          "titleOriginal": "Vosteed’s $200 titanium folder is slim enough to forget, sharp enough to remember"
         },
         {
-          "title": "Geoffrey Bawa e a materialização do olhar de um arquiteto sobre seu país",
-          "link": "https://www.designboom.com/architecture/geoffrey-bawa-and-the-materialization-of-an-architects-gaze-on-his-country/",
+          "title": "módulos biodegradáveis ​​interligados tecem o pavilhão regenerativo na paisagem de gavarres",
+          "link": "https://www.designboom.com/architecture/interlocking-biodegradable-modules-regenerative-pavilion-gavarres-landscape-spain-woven-atelier-darn/",
           "source": "Designboom",
-          "date": "2026-10-04T14:45:07.000Z",
-          "snippet": "do jardim lunuganga ao parlamento do sri lanka, a retrospectiva no museu de design vitra reflete uma relação mutável entre história, modernidade e lugar. O pós geoffrey bawa e a materialização da obra de um arquiteto…",
-          "image": "https://www.designboom.com/wp-content/uploads/2026/10/geoffrey-bawa-vitra-designboom-700-500x400-22b08q85r977.jpg",
-          "titleOriginal": "geoffrey bawa and the materialization of an architect’s gaze on his country"
+          "date": "2026-10-05T23:55:33.000Z",
+          "snippet": "woven is a temporary architectural pavilion that explores nature’s continuous cycle of transformation, decay, and regeneration. The post interlocking biodegradable modules weave regenerative pavilion into gavarres landscape appeared firs…",
+          "image": "https://www.designboom.com/wp-content/uploads/2026/10/woven-regenerative-pavilion-atelier-darn-designboom-700-1-500x400-22b08q85r336.jpg",
+          "titleOriginal": "interlocking biodegradable modules weave regenerative pavilion into gavarres landscape"
         },
         {
-          "title": "designboom shop drop: de volta à mesa com itens essenciais para o espaço de trabalho criativo",
-          "link": "https://www.designboom.com/design/designboom-shop-drop-back-to-the-desk-with-creative-workspace-essentials/",
-          "source": "Designboom",
-          "date": "2026-10-04T07:00:11.000Z",
-          "snippet": "Projetados para promover o impulso criativo, os produtos da drop visam transformar a configuração diária da mesa em um ambiente de design inspirador. A queda da loja pós-designboom: de volta à mesa com itens essenciais para o espaço de trabalho criativo apareceu primeiro em de…",
-          "image": "https://www.designboom.com/wp-content/uploads/2026/10/designboom-shop-drop-back-to-the-desk-700-500x400-22b08q85r783.jpg",
-          "titleOriginal": "designboom shop drop: back to the desk with creative workspace essentials"
+          "title": "A promoção do primeiro dia de outono de 2026 da Wuben tem uma luz diferente para cada tipo de transporte",
+          "link": "https://www.yankodesign.com/2026/10/05/wubens-prime-day-fall-2026-sale-has-a-different-light-for-every-kind-of-carry/?utm_source=rss&utm_medium=rss&utm_campaign=wubens-prime-day-fall-2026-sale-has-a-different-light-for-every-kind-of-carry",
+          "source": "Yanko Design",
+          "date": "2026-10-05T23:30:08.000Z",
+          "snippet": "Wuben’s Prime Day Fall 2026 Sale Has a Different Light for Every Kind of Carry Most flashlights spend their lives in drawers, which is unfortunate because darkness rarely waits for you to find one. Wuben’s Prime Day Fall 2026 Sale...",
+          "image": "https://www.yankodesign.com/images/design_news/2026/10/wubens-prime-day-fall-2026-sale-has-a-different-light-for-every-kind-of-carry/Wuben-E2-hero.jpg",
+          "titleOriginal": "Wuben’s Prime Day Fall 2026 Sale Has a Different Light for Every Kind of Carry"
         },
         {
-          "title": "Esculturas de concreto impressas em 3D misturam fragmentos clássicos com formas de ficção científica na escultura em friso",
-          "link": "https://www.designboom.com/art/3d-printed-concrete-sculptures-classical-fragments-sci-fi-forms-frieze-sculpture-matyas-chochola/",
+          "title": "House of Cards transforma silenciosamente uma base antiga em um recurso",
+          "link": "https://www.yankodesign.com/2026/10/05/house-of-cards-quietly-turns-an-old-foundation-into-a-feature/?utm_source=rss&utm_medium=rss&utm_campaign=house-of-cards-quietly-turns-an-old-foundation-into-a-feature",
+          "source": "Yanko Design",
+          "date": "2026-10-05T22:30:41.000Z",
+          "snippet": "House of Cards Quietly Turns an Old Foundation Into a Feature The most interesting part of House of Cards may be the part you cannot see. Vantieghem Talebi designed this family home in Koksijde, Belgium, on...",
+          "image": "https://www.yankodesign.com/images/design_news/2026/10/house-of-cards-quietly-turns-an-old-foundation-into-a-feature/house-of-cards-08.jpg",
+          "titleOriginal": "House of Cards Quietly Turns an Old Foundation Into a Feature"
+        },
+        {
+          "title": "Esta motocicleta elétrica BRABUS de US$ 50.000 oferece aos motociclistas urbanos uma rara experiência de design Fragment",
+          "link": "https://www.yankodesign.com/2026/10/05/this-50000-brabus-electric-motorcycle-gives-urban-riders-a-rare-fragment-design-experience/?utm_source=rss&utm_medium=rss&utm_campaign=this-50000-brabus-electric-motorcycle-gives-urban-riders-a-rare-fragment-design-experience",
+          "source": "Yanko Design",
+          "date": "2026-10-05T21:30:01.000Z",
+          "snippet": "This $50,000 BRABUS electric motorcycle gives urban riders a rare Fragment design experience BRABUS has given its Urban E electric motorcycle a unique personality with the new Urban E Fragment Edition, created with Japanese designer Hiro…",
+          "image": "https://www.yankodesign.com/images/design_news/2026/10/this-50000-brabus-electric-motorcycle-gives-urban-riders-a-rare-fragment-design-experience/BRABUS-URBAN-E-FRAGMENT-EDITION.jpg",
+          "titleOriginal": "This $50,000 BRABUS electric motorcycle gives urban riders a rare Fragment design experience"
+        },
+        {
+          "title": "Foster + Partners conclui adição flutuante acima do Museu de Belas Artes de Bilbao",
+          "link": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
           "source": "Designboom",
-          "date": "2026-10-03T20:35:51.000Z",
-          "snippet": "três esculturas de matyáš chochola combinam modelagem digital, fabricação robótica e trabalho manual. As esculturas de concreto impressas em 3D misturam fragmentos clássicos com formas de ficção científica na escultura de friso que apareceu pela primeira vez em designboom | arqui…",
-          "image": "https://www.designboom.com/wp-content/uploads/2026/10/three-3D-printed-concrete-sculptures-matyas-chochola-frieze-designboom-700-1-500x400-22b08q85r240.jpg",
-          "titleOriginal": "3D printed concrete sculptures blend classical fragments with sci-fi forms at frieze sculpture"
+          "date": "2026-10-05T20:35:21.000Z",
+          "snippet": "rising over the museum’s existing buildings, 'agravitas' adds galleries and opens a new public atrium below. The post foster + partners completes floating addition above bilbao fine arts museum appeared first on designboom | architecture…",
+          "image": "https://www.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-700-500x400-22b08q85r003.jpg",
+          "titleOriginal": "foster + partners completes floating addition above bilbao fine arts museum"
+        },
+        {
+          "title": "Os drones Walmart da Wing estão chegando a Denver e Seattle – e não deixarão seus pacotes cair na piscina",
+          "link": "https://www.yankodesign.com/2026/10/05/wings-walmart-drones-are-coming-to-denver-and-seattle-and-they-wont-drop-your-parcels-in-the-pool/?utm_source=rss&utm_medium=rss&utm_campaign=wings-walmart-drones-are-coming-to-denver-and-seattle-and-they-wont-drop-your-parcels-in-the-pool",
+          "source": "Yanko Design",
+          "date": "2026-10-05T20:30:29.000Z",
+          "snippet": "Wing’s Walmart drones are coming to Denver and Seattle — and they won’t drop your parcels in the pool Lindsey Austen of Richmond, Texas, ordered cat food, light bulbs, and shoe insoles, then watched a drone hover over her backyard, open…",
+          "image": "https://www.yankodesign.com/images/design_news/2026/10/652343/wing_walmart_drone_1.jpeg",
+          "titleOriginal": "Wing’s Walmart drones are coming to Denver and Seattle — and they won’t drop your parcels in the pool"
+        },
+        {
+          "title": "objetos fora do lugar: uma exposição coletiva de arte ambientada no antigo banheiro de Zurique",
+          "link": "https://www.designboom.com/design/dislocated-utility-objects-out-of-place-collective-art-exhibition-former-zurich-washroom/",
+          "source": "Designboom",
+          "date": "2026-10-05T18:30:52.000Z",
+          "snippet": "the original washroom’s cabins, washing areas, tiles, and fixtures form an integral part of the exhibition. The post objects out of place: a collective art exhibition set inside former zurich washroom appeared first on designboom | archi…",
+          "image": "https://www.designboom.com/wp-content/uploads/2026/10/dislocated-utility-objects-out-of-place-exhibition-zurich-washroom-designboom-700-500x400-22b08q85r875.jpg",
+          "titleOriginal": "objects out of place: a collective art exhibition set inside former zurich washroom"
         }
       ]
     }

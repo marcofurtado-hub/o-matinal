@@ -8,6 +8,13 @@
     <itunes:author>O Matinal</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>O Matinal — terça-feira, 6 de outubro de 2026</title>
+      <enclosure url="https://github.com/marcofurtado-hub/o-matinal/releases/download/ep-2026-10-06/matinal-2026-10-06.mp3" length="496656" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/marcofurtado-hub/o-matinal/releases/download/ep-2026-10-06/matinal-2026-10-06.mp3</guid>
+      <pubDate>Tue, 06 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Manchetes e editorial do dia — jogos, arte, finanças, fé reformada, CGI e design.</description>
+    </item>
+    <item>
       <title>O Matinal — segunda-feira, 5 de outubro de 2026</title>
       <enclosure url="https://github.com/marcofurtado-hub/o-matinal/releases/download/ep-2026-10-05/matinal-2026-10-05.mp3" length="478080" type="audio/mpeg"/>
       <guid isPermaLink="true">https://github.com/marcofurtado-hub/o-matinal/releases/download/ep-2026-10-05/matinal-2026-10-05.mp3</guid>
